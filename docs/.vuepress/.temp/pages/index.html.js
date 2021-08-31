@@ -1,7 +1,7 @@
 export const data = {
   "key": "v-8daa1a0e",
   "path": "/",
-  "title": "",
+  "title": "Hello VuePress",
   "lang": "en-US",
   "frontmatter": {},
   "excerpt": "",

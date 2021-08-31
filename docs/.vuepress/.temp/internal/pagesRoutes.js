@@ -1,7 +1,8 @@
 import { Vuepress } from '@vuepress/client/lib/components/Vuepress'
 
 const routeItems = [
-  ["v-8daa1a0e","/","",["/index.html","/README.md"]],
+  ["v-22a39d25","/about.html","about",["/about","/about.md"]],
+  ["v-8daa1a0e","/","Hello VuePress",["/index.html","/README.md"]],
   ["v-3706649a","/404.html","",["/404"]],
 ]
 

@@ -1,11 +1,11 @@
 export const themeData = {
+  "logo": "https://vuejs.org/images/logo.png",
   "locales": {
     "/": {
       "selectLanguageName": "English"
     }
   },
   "navbar": [],
-  "logo": null,
   "darkMode": true,
   "repo": null,
   "selectLanguageText": "Languages",

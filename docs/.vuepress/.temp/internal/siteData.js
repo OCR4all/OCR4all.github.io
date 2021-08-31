@@ -1,8 +1,8 @@
 export const siteData = {
   "base": "/",
   "lang": "en-US",
-  "title": "",
-  "description": "",
+  "title": "Hello, Vuepress!",
+  "description": "This is my first Vuepress site",
   "head": [],
   "locales": {}
 }

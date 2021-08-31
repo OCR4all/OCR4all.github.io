@@ -1,1 +1,3 @@
-'# Hello VuePress' 
+# Hello VuePress
+
+[zu 'about'](/docs/about.md)

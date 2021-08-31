@@ -1,6 +1,6 @@
 module.exports = {
   lang: 'en-US',
-  title: 'Hello, Vuepress!'
+  title: 'Hello, Vuepress!',
   description: 'This is my first Vuepress site',
 
   themeConfig: {
