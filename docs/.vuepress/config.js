@@ -1,7 +1,7 @@
 module.exports = {
   lang: 'en-US',
-  title: 'Hello, Vuepress!',
-  description: 'This is my first Vuepress site',
+  title: 'OCR4all',
+  description: 'OCR4all documentation',
 
   themeConfig: {
     logo: 'https://vuejs.org/images/logo.png',
