@@ -1,3 +1,3 @@
 # Hello VuePress
 
-[zu 'about'](/docs/about.md)
+[zu 'about'](/about.md)
