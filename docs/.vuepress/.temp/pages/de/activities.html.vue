@@ -43,6 +43,92 @@ Humanities (Trier, Januar 2019).</li>
 </ul>
 <h3 id="lehre" tabindex="-1"><a class="header-anchor" href="#lehre" aria-hidden="true">#</a> Lehre</h3>
 <ul>
-<li></li>
+<li>Teilmodul des <a href="https://www.neuphil.uni-wuerzburg.de/anglistik/studium/im-studium/zusatzzertifikat-digitale-kompetenz/" target="_blank" rel="noopener noreferrer">Zusatzzertifikats
+Digitale Kompetenz<OutboundLink/></a>
+, das Studierenden der Neurophilologien die Möglichkeit bietet, Kompetenzen im Umgang mit
+digitalen Daten zu erwerben und nachzuweisen (Universität Würzburg, seit WS2020).</li>
+<li>Textdigitalisierung mit OCR4all im Rahmen des “Basismodul
+Digitalisierung” des Lehrstuhls für Computerphilologie und Neuere
+deutsche Literaturwissenschaft (Universität Würzburg, seit SS2020).</li>
+<li>Digitalisierung historischer Drucke mit OCR4all im Rahmen des
+“Aufbaumodul Analysepraxis der Sprachwissenschaft” des Lehrstuhls für
+deutsche Sprachwissenschaft (Universität Würzburg, SS2020).</li>
+<li>OCR Praktikum für Masterstudierende des Studiengangs <a
+  	href="http://www.mfn.uni-wuerzburg.de/masterstudiengang/">Mittelalter
+und Frühe Neuzeit</a> (Universität Würzburg, seit WS2018/19).</li>
+<li>Seminar Historische Korpuslinguistik an der Humboldt-Universität zu
+Berlin: In Kooperation mit dem ZPD wurden von Masterstudierenden
+diverse Werke des 17. und 18. Jahrhunderts zum Thema Kräuter
+transkribiert. Die benötigten Berechnungen liefen dabei auf den
+Würzburger Servern, wärend die Studierenden nach einer kurzen
+Einweisung die notwendigen Korrekturen remote und bequem über eine
+Weboberfläche leisten konnten.</li>
+</ul>
+<h3 id="workshops-auswahl" tabindex="-1"><a class="header-anchor" href="#workshops-auswahl" aria-hidden="true">#</a> Workshops (Auswahl)</h3>
+<ul>
+<li>Digitaler Workshop für Studierende und Mitarbeiter:innen der
+Universität Würzburg und des Georg-Eckert-Instituts - Leibniz-Institut
+für internationale Schulbuchforschung in Braunschweig (Januar 2021).</li>
+<li>Workshop auf der Jahrestagung der Digital Humanities im
+deutschsprachigen Raum (Paderborn, März 2020).</li>
+<li>Workshop im Rahmen des Lehrprojekts „Digital Visual Studies&quot; am
+kunsthistorischen Institut der Universität Zürich im Programm
+„Stärkung der digitalen Kompetenzen im Bildungsbereich“ (Zürich,
+Oktober 2019).</li>
+<li>Workshop für Mitarbeiter des Schweizerdeutschen Idiotikons (Zürich,
+Oktober 2019).</li>
+<li>Zwei Workshops im Rahmen der <a href="https://www.distant-reading.net/" target="_blank" rel="noopener noreferrer">COST Action Distant Reading
+for European Literary History<OutboundLink/></a>(Würzburg, April 2018 und Budapest,
+September 2019).</li>
+<li>Train-the-Trainer Workshop: Fortbildung von und Austausch mit
+Fachkollegen, welche selbst OCR-Workshops unter Nutzung von OCR4all
+durchführen; Erarbeitung gemeinsamer Konzepte und Standards (Würzburg,
+August 2019).</li>
+<li>Workshop für Studierende und Mitarbeiter des Trier Centers for
+Digital Humanities (Trier, Januar 2019).</li>
+<li>Regelmäßige OCR4all Workshop für Studierende und Mitarbeiter:innen
+der Universität Würzburg.</li>
+</ul>
+<h3 id="projekte" tabindex="-1"><a class="header-anchor" href="#projekte" aria-hidden="true">#</a> Projekte</h3>
+<ul>
+<li><a href="http://www.camerarius.de/camerarius-digital-2021-2024/" target="_blank" rel="noopener noreferrer">Camerarius digital<OutboundLink/></a> (DFG, 2021-24)</li>
+<li><a href="http://www.narragonien-digital.de/" target="_blank" rel="noopener noreferrer">Narragonien digital<OutboundLink/></a> (BMBF, 2014-2019)</li>
+</ul>
+<h3 id="anwendung-und-verbreitung-auswahl" tabindex="-1"><a class="header-anchor" href="#anwendung-und-verbreitung-auswahl" aria-hidden="true">#</a> Anwendung und Verbreitung (Auswahl)</h3>
+<ul>
+<li>Breite Anwendung innerhalb der Universität Würzburg, u. a.:
+<ul>
+<li>umfassender Einsatz im Bereich frühneuzeitlicher Drucke des
+Kollegs Mittelalter und Frühe Neuzeit</li>
+<li>Massenerfassung von Frakturromanen des 19. Jahrhunderts am
+Lehrstuhl für Computerphilologie (bereits über 1.000 Romane
+verarbeitet)</li>
+<li>Beteiligung an mehreren Projektanträgen, u. a. einem Projekt in
+Kooperation mit der HU Berlin zur Erschließung der Digitalen
+Märchen-Handbibliothek von Jacob und Wilhelm Grimm, sowie dem
+beantragten Akademieprojekt Sprachgitter digital:
+Historisch-kritische Jean-Paul-Ausgabe</li>
+</ul>
+</li>
+<li>Kürzlich bewilligtes Projekt <a href="https://kulturarvscluster.kb.dk/projekter/danish-neo-latin-literature-digitalisering-af-danmarks-latinsksprogede-kulturarv-fra-perioden-1482-1600" target="_blank" rel="noopener noreferrer">Danish
+Neo-Latin Literature<OutboundLink/></a>:
+(Universität Aarhus, National Cultural
+Heritage Cluster, Danish Royal Library): Hochqualitative (umfassende
+GT Erstellung und werksspezifisches Training) Erfassung 856 dänischer
+Drucke der Jahre 1482 bis 1600</li>
+<li>Projekt <a href="https://www.mimotext.uni-trier.de/" target="_blank" rel="noopener noreferrer">MiMoText<OutboundLink/></a> am Kompetenzzentrum der Universität Trier: Erfassung französischer
+Romane des 18. Jahrhunderts</li>
+<li>Monumenta Germaniae Historica: Hochqualitative Erfassung von Lexika
+aus der Inkunabelzeit (Kooperation mit dem ZPD zur Vorbereitung eines
+LIS-Projektantrags)</li>
+<li>Department of English, University of Bristol: The Literary Heritage
+of Anglo-Dutch Relations, 1050-1600</li>
+<li>Universidad Nacional de Educación a Distancia (Madrid): Projekt zur
+Erfassung lateinischer Texte des 15. und 16. Jahrhunderts</li>
+<li>Kommission für bayerische Landesgeschichte an der Bayerischen
+Akademie der Wissenschaften: Erfassung verschiedenster Drucke und
+Schreibmaschinenerzeugnisse</li>
+<li>Projekt WiTTFind am CIS der LMU München: Verarbeitung
+unterschiedlichen Materials, u. a. verstärkt Schreibmaschinenseiten</li>
 </ul>
 </template>

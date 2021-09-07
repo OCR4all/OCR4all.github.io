@@ -9,6 +9,7 @@ Mit dem <a href="http://kallimachos.de/kallimachos/index.php/Kallimachos_II_(Ein
 der zweiten Projektphase des BMBF-geförderten Verbundprojekts <a href="http://kallimachos.de" target="_blank" rel="noopener noreferrer">Kallimachos<OutboundLink/></a> wird die Software nun
 am <a href="https://www.uni-wuerzburg.de/zpd" target="_blank" rel="noopener noreferrer">Zentrum für Philologie und Digitalität<OutboundLink/></a> der Universität etabliert, um sie einer
 möglichst breiten Nutzergruppe dauerhaft frei verfügbar zu machen.</p>
+<p><img src="zpd.png" alt="ZPD-Logo"></p>
 <h3 id="workflow" tabindex="-1"><a class="header-anchor" href="#workflow" aria-hidden="true">#</a> Workflow</h3>
 <p>Von der Vorverarbeitung der zur bearbeitenden Bilddateien (sog. Preprocessing) über die Layoutsegmentierung (sog.
 Region Segmentation mit <a href="https://github.com/OCR4all/LAREX" target="_blank" rel="noopener noreferrer">https://github.com/OCR4all/LAREX<OutboundLink/></a>), die Zeilensegmentierung
@@ -44,8 +45,30 @@ Möglichkeiten, wohingegen OCR-D eine größere Reichweite erhält und
 durch den vereinfachten Zugang auch neue Anwendergruppen in- und
 außerhalb der VD-Massendigitalisierung erreicht.</p>
 <h3 id="berichterstattung-auswahl" tabindex="-1"><a class="header-anchor" href="#berichterstattung-auswahl" aria-hidden="true">#</a> Berichterstattung (Auswahl)</h3>
+<ul>
+<li>Radiointerview SWR2 Impuls: Mittelalterliche Handschriften werden
+Textdokumente</li>
+<li><a href="https://fortext.net/tools/tools/ocr4all" target="_blank" rel="noopener noreferrer">Toolvorstellung<OutboundLink/></a>
+im Rahmen des DFG-geförderten Projekts <a href="https://fortext.net" target="_blank" rel="noopener noreferrer">forText<OutboundLink/></a></li>
+<li>Dr. Johann Ramminger: <a href="https://jramminger.github.io/ocr4all" target="_blank" rel="noopener noreferrer">ocr4all - OCR for Incunables<OutboundLink/></a></li>
+<li>Der Tagesspiegel: Computertool für alte Texte</li>
+<li>Der Standard: <a href="https://www.derstandard.de/story/2000101916347/zuverlaessige-texterkennungs-tool-fuer-historische-druckschriften" target="_blank" rel="noopener noreferrer">Zuverlässiges
+Texterkennungs-Tool für historische Druckschriften<OutboundLink/></a>
+-Augsburger Allgemeine: <a href="https://www.augsburger-allgemeine.de/bayern/Computer-liest-alte-Texte-id54130851.html" target="_blank" rel="noopener noreferrer">Computer liest alte Texte<OutboundLink/></a></li>
+<li>einBlick: <a href="https://www.uni-wuerzburg.de/aktuelles/einblick/single/news/modernes-tool-fuer-alte-texte" target="_blank" rel="noopener noreferrer">Modernes Tool für alte Texte<OutboundLink/></a></li>
+</ul>
 <h3 id="zitation" tabindex="-1"><a class="header-anchor" href="#zitation" aria-hidden="true">#</a> Zitation</h3>
 <p>Falls Sie OCR4all verwenden, zitieren Sie bitte das zugehörige <a href="https://www.mdpi.com/2076-3417/9/22/4853%22" target="_blank" rel="noopener noreferrer">Paper<OutboundLink/></a>:
-Reul, C., Christ, D., Hartelt, A., Balbach, N., Wehner, M., Springmann, U., Wick, C., Grundig, Büttner, A., C., Puppe, F.: OCR4all — An open-source tool providing a (semi-) automatic OCR workflow for historical printings, Applied Sciences 9(22) (2019)</p>
+Reul, C., Christ, D., Hartelt, A., Balbach, N., Wehner, M., Springmann, U., Wick, C., Grundig, Büttner, A., C.,
+Puppe, F.: OCR4all — An open-source tool providing a (semi-) automatic OCR workflow for historical printings,
+Applied Sciences 9(22) (2019)</p>
 <h3 id="funding" tabindex="-1"><a class="header-anchor" href="#funding" aria-hidden="true">#</a> Funding</h3>
+<ul>
+<li><a href="https://ocr-d.de/de/" target="_blank" rel="noopener noreferrer">DFG-Förderinitiative &quot;OCR-D&quot;<OutboundLink/></a>, (Phase 2 und 3)</li>
+<li><a href="https://www.uni-wuerzburg.de/zpd" target="_blank" rel="noopener noreferrer">Zentrum für Philologie
+und Digitalität (ZPD)<OutboundLink/></a>, Universität Würzburg</li>
+<li>BMBF gefördertes Projekt <a href="http://kallimachos.de" target="_blank" rel="noopener noreferrer">Kallimachos<OutboundLink/></a></li>
+<li><a href="https://www.informatik.uni-wuerzburg.de/is" target="_blank" rel="noopener noreferrer">Lehrstuhl für
+Künstliche Intelligenz und Wissenssysteme<OutboundLink/></a>, Universität Würzburg</li>
+</ul>
 </template>

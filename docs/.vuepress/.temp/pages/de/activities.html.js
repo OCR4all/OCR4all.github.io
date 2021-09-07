@@ -27,6 +27,24 @@ export const data = {
       "title": "Lehre",
       "slug": "lehre",
       "children": []
+    },
+    {
+      "level": 3,
+      "title": "Workshops (Auswahl)",
+      "slug": "workshops-auswahl",
+      "children": []
+    },
+    {
+      "level": 3,
+      "title": "Projekte",
+      "slug": "projekte",
+      "children": []
+    },
+    {
+      "level": 3,
+      "title": "Anwendung und Verbreitung (Auswahl)",
+      "slug": "anwendung-und-verbreitung-auswahl",
+      "children": []
     }
   ],
   "filePathRelative": "de/activities.md",
