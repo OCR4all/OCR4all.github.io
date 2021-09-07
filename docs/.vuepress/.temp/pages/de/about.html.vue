@@ -10,17 +10,19 @@ Mit dem <a href="http://kallimachos.de/kallimachos/index.php/Kallimachos_II_(Ein
 der zweiten Projektphase des BMBF-geförderten Verbundprojekts <a href="http://kallimachos.de" target="_blank" rel="noopener noreferrer">Kallimachos<OutboundLink/></a> wird die Software nun
 am <a href="https://www.uni-wuerzburg.de/zpd" target="_blank" rel="noopener noreferrer">Zentrum für Philologie und Digitalität<OutboundLink/></a> der Universität etabliert, um sie einer
 möglichst breiten Nutzergruppe dauerhaft frei verfügbar zu machen.</p>
-<p><img src="zpd.png" alt="ZPD-Logo"></p>
 <h3 id="workflow" tabindex="-1"><a class="header-anchor" href="#workflow" aria-hidden="true">#</a> Workflow</h3>
 <p>Von der Vorverarbeitung der zur bearbeitenden Bilddateien (sog. Preprocessing) über die Layoutsegmentierung (sog.
 Region Segmentation mit <a href="https://github.com/OCR4all/LAREX" target="_blank" rel="noopener noreferrer">https://github.com/OCR4all/LAREX<OutboundLink/></a>), die Zeilensegmentierung
 (Line Segmentation) und Texterkennung (Recognition mit <a href="https://github.com/Calamari-OCR" target="_blank" rel="noopener noreferrer">https://github.com/Calamari-OCR<OutboundLink/></a>
 ) bis hin zur Korrektur der erkannten Texte (Ground Truth Production) und der Erstellung werkspezifischer OCR-Modelle in
 einem Trainingsmodul beschreibt OCR4all einen vollwertigen OCR-Workflow.</p>
+<p><img src="@source/.vuepress/public/ocr4all-workflow.png" alt="Workflow"></p>
 <p>Vor allem durch die Möglichkeit der Herstellung und des Trainings
 werkspezifischer Texterkennungsmodelle können mit OCR4all bei so gut
 wie allen gedruckten Texten sehr gute Ergebnisse in der digitalen
 Texterschließung erzielt werden.</p>
+<p><img src="@source/.vuepress/public/ocr4all-segmentation.png" alt="Segmentierung"></p>
+<p><img src="@source/.vuepress/public/ocr4all-correction.png" alt="Korrektur"></p>
 <h3 id="kooperation-mit-ocr-d" tabindex="-1"><a class="header-anchor" href="#kooperation-mit-ocr-d" aria-hidden="true">#</a> Kooperation mit OCR-D</h3>
 <p>Im Sommer 2020 wurde eine Kooperation zwischen OCR4all und der
 koordinierten Förderinitiative zur Weiterentwicklung von Verfahren der

@@ -1,6 +1,6 @@
 # Hello VuePress
 
-[About](about.md)
+[About](de/about.md)
 
-[Activities](activities.md)
+[Activities](de/activities.md)
 
