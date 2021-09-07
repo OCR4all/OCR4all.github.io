@@ -43,12 +43,12 @@ export const data = {
   ],
   "filePathRelative": "about.md",
   "git": {
-    "updatedTime": 1630453873000,
+    "updatedTime": 1631033516000,
     "contributors": [
       {
         "name": "Isabel",
         "email": "isabel.mueller1@stud-mail.uni-wuerzburg.de",
-        "commits": 1
+        "commits": 3
       }
     ]
   }

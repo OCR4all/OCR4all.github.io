@@ -1,10 +1,21 @@
 export const siteData = {
   "base": "/",
   "lang": "en-US",
-  "title": "OCR4all",
-  "description": "OCR4all documentation",
+  "title": "",
+  "description": "",
   "head": [],
-  "locales": {}
+  "locales": {
+    "/": {
+      "lang": "de-GE",
+      "title": "OCR4all",
+      "description": "OCR4all Dokumentation"
+    },
+    "/en/": {
+      "lang": "en-US",
+      "title": "OCR4all",
+      "description": "OCR4all documentation"
+    }
+  }
 }
 
 if (import.meta.webpackHot) {

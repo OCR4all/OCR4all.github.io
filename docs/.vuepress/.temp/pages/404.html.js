@@ -2,7 +2,7 @@ export const data = {
   "key": "v-3706649a",
   "path": "/404.html",
   "title": "",
-  "lang": "en-US",
+  "lang": "de-GE",
   "frontmatter": {
     "layout": "404"
   },

@@ -1,10 +1,13 @@
 export const themeData = {
-  "logo": "http://ocr4all.org/images/logo.jpg",
   "locales": {
     "/": {
+      "selectLanguageName": "Deutsch"
+    },
+    "/en/": {
       "selectLanguageName": "English"
     }
   },
+  "logo": "http://ocr4all.org/images/logo.jpg",
   "navbar": [],
   "darkMode": true,
   "repo": null,
