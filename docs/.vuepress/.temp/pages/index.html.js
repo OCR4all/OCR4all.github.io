@@ -8,12 +8,12 @@ export const data = {
   "headers": [],
   "filePathRelative": "README.md",
   "git": {
-    "updatedTime": 1630454634000,
+    "updatedTime": 1631033516000,
     "contributors": [
       {
         "name": "Isabel",
         "email": "isabel.mueller1@stud-mail.uni-wuerzburg.de",
-        "commits": 2
+        "commits": 3
       },
       {
         "name": "Sina Bock",

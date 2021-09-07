@@ -5,4 +5,6 @@ export const pagesComponents = {
   "v-8daa1a0e": defineAsyncComponent(() => import(/* webpackChunkName: "v-8daa1a0e" */"C:/Users/Isabel/PycharmProjects/OCR4all.github.io/docs/.vuepress/.temp/pages/index.html.vue")),
   // path: /404.html
   "v-3706649a": defineAsyncComponent(() => import(/* webpackChunkName: "v-3706649a" */"C:/Users/Isabel/PycharmProjects/OCR4all.github.io/docs/.vuepress/.temp/pages/404.html.vue")),
+  // path: /de/about.html
+  "v-31365161": defineAsyncComponent(() => import(/* webpackChunkName: "v-31365161" */"C:/Users/Isabel/PycharmProjects/OCR4all.github.io/docs/.vuepress/.temp/pages/de/about.html.vue")),
 }
