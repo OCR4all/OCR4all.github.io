@@ -3,6 +3,7 @@ lang: en-US
 title: about
 description: about OCR4all
 ---
+[[toc]]
 The OCR4all software was developed for the digitization of primarily
 	very early printed documents. As many text recognition programs are
 	often not able to handle the high complexity of the types and layout
@@ -84,7 +85,7 @@ Puppe, F.: OCR4all — An open-source tool providing a (semi-) automatic OCR wor
 Applied Sciences 9(22) (2019)
 
 ### Funding
-- [DFG-funded Initiative "OCR-D"](https://ocr-d.de/en/), (phase 2 und 3)
+- [DFG-funded Initiative "OCR-D"](https://ocr-d.de/en/), (phase 2 and 3)
 - [Zentrum für Philologie
   und Digitalität (ZPD)](https://www.uni-wuerzburg.de/zpd), Universität Würzburg
 - BMBF gefördertes Projekt [Kallimachos](http://kallimachos.de)

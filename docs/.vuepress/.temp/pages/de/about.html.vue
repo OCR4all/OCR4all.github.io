@@ -1,4 +1,5 @@
-<template><p>OCR4all ist eine Software, die zur digitalen Texterschließung vornehmlich sehr früh gedruckter Werke entwickelt wurde.
+<template><nav class="table-of-contents"><ul><li><RouterLink to="#workflow">Workflow</RouterLink></li><li><RouterLink to="#kooperation-mit-ocr-d">Kooperation mit OCR-D</RouterLink></li><li><RouterLink to="#berichterstattung-auswahl">Berichterstattung (Auswahl)</RouterLink></li><li><RouterLink to="#zitation">Zitation</RouterLink></li><li><RouterLink to="#funding">Funding</RouterLink></li></ul></nav>
+<p>OCR4all ist eine Software, die zur digitalen Texterschließung vornehmlich sehr früh gedruckter Werke entwickelt wurde.
 Da deren Drucktypen und oft komplex gestalteten Layoutkonzeptionen die Erkennungsmöglichkeiten vieler anderer
 Texterkennungsprogramme übersteigen, bedarf es hier der Möglichkeit, den Digitalisierungsvorgang variabel, korpus- und
 werkspezifisch zu gestalten. Verständlich und selbstständig anwendbar spricht der in OCR4all vorgeschlagene

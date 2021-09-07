@@ -1,4 +1,5 @@
-<template><p>The OCR4all software was developed for the digitization of primarily
+<template><nav class="table-of-contents"><ul><li><RouterLink to="#workflow">Workflow</RouterLink></li><li><RouterLink to="#cooperation-with-ocr-d">Cooperation with OCR-D</RouterLink></li><li><RouterLink to="#reporting-assortment">Reporting (assortment)</RouterLink></li><li><RouterLink to="#zitation">Zitation</RouterLink></li><li><RouterLink to="#funding">Funding</RouterLink></li></ul></nav>
+<p>The OCR4all software was developed for the digitization of primarily
 very early printed documents. As many text recognition programs are
 often not able to handle the high complexity of the types and layout
 conceptions these texts hold, an option to organize the process of
@@ -71,7 +72,7 @@ Puppe, F.: OCR4all — An open-source tool providing a (semi-) automatic OCR wor
 Applied Sciences 9(22) (2019)</p>
 <h3 id="funding" tabindex="-1"><a class="header-anchor" href="#funding" aria-hidden="true">#</a> Funding</h3>
 <ul>
-<li><a href="https://ocr-d.de/en/" target="_blank" rel="noopener noreferrer">DFG-funded Initiative &quot;OCR-D&quot;<OutboundLink/></a>, (phase 2 und 3)</li>
+<li><a href="https://ocr-d.de/en/" target="_blank" rel="noopener noreferrer">DFG-funded Initiative &quot;OCR-D&quot;<OutboundLink/></a>, (phase 2 and 3)</li>
 <li><a href="https://www.uni-wuerzburg.de/zpd" target="_blank" rel="noopener noreferrer">Zentrum für Philologie
 und Digitalität (ZPD)<OutboundLink/></a>, Universität Würzburg</li>
 <li>BMBF gefördertes Projekt <a href="http://kallimachos.de" target="_blank" rel="noopener noreferrer">Kallimachos<OutboundLink/></a></li>
