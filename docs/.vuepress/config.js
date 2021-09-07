@@ -4,6 +4,6 @@ module.exports = {
   description: 'OCR4all documentation',
 
   themeConfig: {
-    logo: 'https://vuejs.org/images/logo.png',
+    logo: 'http://ocr4all.org/images/logo.jpg',
   },
 }

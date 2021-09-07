@@ -1,5 +1,5 @@
 export const themeData = {
-  "logo": "https://vuejs.org/images/logo.png",
+  "logo": "http://ocr4all.org/images/logo.jpg",
   "locales": {
     "/": {
       "selectLanguageName": "English"
