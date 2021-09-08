@@ -1,19 +1,19 @@
 export const data = {
   "key": "v-8daa1a0e",
   "path": "/",
-  "title": "Hello VuePress",
-  "lang": "de-GE",
+  "title": "Home",
+  "lang": "de-GER",
   "frontmatter": {},
   "excerpt": "",
   "headers": [],
   "filePathRelative": "README.md",
   "git": {
-    "updatedTime": 1631049971000,
+    "updatedTime": 1631051591000,
     "contributors": [
       {
         "name": "Isabel",
         "email": "isabel.mueller1@stud-mail.uni-wuerzburg.de",
-        "commits": 6
+        "commits": 7
       },
       {
         "name": "Sina Bock",

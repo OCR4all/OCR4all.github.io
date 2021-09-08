@@ -6,7 +6,7 @@ export const siteData = {
   "head": [],
   "locales": {
     "/": {
-      "lang": "de-GE",
+      "lang": "de-GER",
       "title": "OCR4all",
       "description": "OCR4all Dokumentation"
     },

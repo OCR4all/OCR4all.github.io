@@ -10,7 +10,6 @@ Mit dem <a href="http://kallimachos.de/kallimachos/index.php/Kallimachos_II_(Ein
 der zweiten Projektphase des BMBF-geförderten Verbundprojekts <a href="http://kallimachos.de" target="_blank" rel="noopener noreferrer">Kallimachos<OutboundLink/></a> wird die Software nun
 am <a href="https://www.uni-wuerzburg.de/zpd" target="_blank" rel="noopener noreferrer">Zentrum für Philologie und Digitalität<OutboundLink/></a> der Universität etabliert, um sie einer
 möglichst breiten Nutzergruppe dauerhaft frei verfügbar zu machen.</p>
-<p><img src="zpd.png" alt="ZPD-Logo"></p>
 <h3 id="workflow" tabindex="-1"><a class="header-anchor" href="#workflow" aria-hidden="true">#</a> Workflow</h3>
 <p>Von der Vorverarbeitung der zur bearbeitenden Bilddateien (sog. Preprocessing) über die Layoutsegmentierung (sog.
 Region Segmentation mit <a href="https://github.com/OCR4all/LAREX" target="_blank" rel="noopener noreferrer">https://github.com/OCR4all/LAREX<OutboundLink/></a>), die Zeilensegmentierung

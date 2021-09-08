@@ -1,7 +1,7 @@
 ---
 lang: en-US
-title: about
-description: about OCR4all
+title: About
+description: Learn more about the OCR4all project
 ---
 [[toc]]
 The OCR4all software was developed for the digitization of primarily
@@ -34,15 +34,9 @@ follow. Next is the Text Recognition which is carried out with
 	work-specific OCR models in a training module. Therefore OCR4all
 	entails a full-featured OCR workflow.
 
-![Workflow](../.vuepress/public/ocr4all-workflow.png)
-
 Particularly due to the capacity to create and train work-specific
 	text recognition models, OCR4all makes achieving high-quality results
 	in the digitization of texts in nearly all printed documents possible.
-
-![Segmentierung](../.vuepress/public/ocr4all-segmentation.png)
-
-![Korrektur](../.vuepress/public/ocr4all-correction.png)
 
 ### Cooperation with OCR-D
 In the summer of 2020, a co-operation between OCR4all and the

@@ -1,12 +1,12 @@
 export const data = {
   "key": "v-21f64e5f",
   "path": "/en/activities.html",
-  "title": "activities",
+  "title": "Activities",
   "lang": "en-US",
   "frontmatter": {
     "lang": "en-US",
-    "title": "activities",
-    "description": "OCR4all activities"
+    "title": "Activities",
+    "description": "Find out about publications and media coverage"
   },
   "excerpt": "",
   "headers": [

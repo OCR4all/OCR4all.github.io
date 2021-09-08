@@ -1,7 +1,7 @@
 ---
 lang: en-US
-title: activities
-description: OCR4all activities
+title: Activities
+description: Find out about publications and media coverage
 ---
 ### Publications
 - **OCR4all - An Open-Source Tool Providing a (Semi-)Automatic OCR

@@ -1,12 +1,16 @@
 import { Vuepress } from '@vuepress/client/lib/components/Vuepress'
 
 const routeItems = [
-  ["v-8daa1a0e","/","Hello VuePress",["/index.html","/README.md"]],
-  ["v-31365161","/de/about.html","about",["/de/about","/de/about.md"]],
-  ["v-f128c392","/de/activities.html","activities",["/de/activities","/de/activities.md"]],
-  ["v-64f82839","/en/about.html","about",["/en/about","/en/about.md"]],
-  ["v-21f64e5f","/en/activities.html","activities",["/en/activities","/en/activities.md"]],
-  ["v-2d0a870d","/en/","Hello VuePress",["/en/index.html","/en/README.md"]],
+  ["v-22a39d25","/about.html","Über OCR4all",["/about","/about.md"]],
+  ["v-87e9e61a","/activities.html","Aktivitäten",["/activities","/activities.md"]],
+  ["v-8daa1a0e","/","Home",["/index.html","/README.md"]],
+  ["v-320bd2f2","/software_download.html","Software und Download",["/software_download","/software_download.md"]],
+  ["v-1d79747a","/team.html","Team",["/team","/team.md"]],
+  ["v-64f82839","/en/about.html","About",["/en/about","/en/about.md"]],
+  ["v-21f64e5f","/en/activities.html","Activities",["/en/activities","/en/activities.md"]],
+  ["v-2d0a870d","/en/","Home",["/en/index.html","/en/README.md"]],
+  ["v-5d246006","/en/software_download.html","Software and Download",["/en/software_download","/en/software_download.md"]],
+  ["v-1931efa2","/en/team.html","Team",["/en/team","/en/team.md"]],
   ["v-3706649a","/404.html","",["/404"]],
 ]
 

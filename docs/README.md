@@ -1,6 +1,11 @@
-# Hello VuePress
+# Home
 
-[About](de/about.md)
+![I love ZPD](../docs/.vuepress/public/ocr4all-zpd.png)
 
-[Activities](de/activities.md)
+[Über OCR4all](about.md)
 
+[Software und Download](software_download.md)
+
+[Aktivitäten](activities.md)
+
+[Team](team.md)
