@@ -1,6 +1,6 @@
 # Home
 
-![I love ZPD](../.vuepress/public/ocr4all-zpd.png)
+![I love ZPD](../ocr4all-zpd.png)
 
 [About](about.md)
 

@@ -2,9 +2,9 @@ export const data = {
   "key": "v-320bd2f2",
   "path": "/software_download.html",
   "title": "Software und Download",
-  "lang": "de-GER",
+  "lang": "de-DE",
   "frontmatter": {
-    "lang": "de-GER",
+    "lang": "de-DE",
     "title": "Software und Download",
     "description": "Laden Sie OCR4all-Software, Installationsanleitung, Benutzerhandbuch herunter"
   },
@@ -12,8 +12,14 @@ export const data = {
   "headers": [],
   "filePathRelative": "software_download.md",
   "git": {
-    "updatedTime": null,
-    "contributors": []
+    "updatedTime": 1631100062000,
+    "contributors": [
+      {
+        "name": "Isabel",
+        "email": "isabel.mueller1@stud-mail.uni-wuerzburg.de",
+        "commits": 1
+      }
+    ]
   }
 }
 

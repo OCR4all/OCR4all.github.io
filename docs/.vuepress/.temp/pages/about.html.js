@@ -2,9 +2,9 @@ export const data = {
   "key": "v-22a39d25",
   "path": "/about.html",
   "title": "Über OCR4all",
-  "lang": "de-GER",
+  "lang": "de-DE",
   "frontmatter": {
-    "lang": "de-GER",
+    "lang": "de-DE",
     "title": "Über OCR4all",
     "description": "Erfahren Sie mehr über das OCR4all-Projekt"
   },
@@ -43,12 +43,12 @@ export const data = {
   ],
   "filePathRelative": "about.md",
   "git": {
-    "updatedTime": 1631051591000,
+    "updatedTime": 1631100062000,
     "contributors": [
       {
         "name": "Isabel",
         "email": "isabel.mueller1@stud-mail.uni-wuerzburg.de",
-        "commits": 5
+        "commits": 6
       }
     ]
   }

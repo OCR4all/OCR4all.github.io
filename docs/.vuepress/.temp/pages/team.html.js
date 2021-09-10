@@ -2,9 +2,9 @@ export const data = {
   "key": "v-1d79747a",
   "path": "/team.html",
   "title": "Team",
-  "lang": "de-GER",
+  "lang": "de-DE",
   "frontmatter": {
-    "lang": "de-GER",
+    "lang": "de-DE",
     "title": "Team",
     "description": "Lernen Sie unser Team kennen und kontaktieren Sie es"
   },
@@ -12,8 +12,14 @@ export const data = {
   "headers": [],
   "filePathRelative": "team.md",
   "git": {
-    "updatedTime": null,
-    "contributors": []
+    "updatedTime": 1631100062000,
+    "contributors": [
+      {
+        "name": "Isabel",
+        "email": "isabel.mueller1@stud-mail.uni-wuerzburg.de",
+        "commits": 1
+      }
+    ]
   }
 }
 

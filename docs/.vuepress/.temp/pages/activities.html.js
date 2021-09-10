@@ -2,9 +2,9 @@ export const data = {
   "key": "v-87e9e61a",
   "path": "/activities.html",
   "title": "Aktivitäten",
-  "lang": "de-GER",
+  "lang": "de-DE",
   "frontmatter": {
-    "lang": "de-GER",
+    "lang": "de-DE",
     "title": "Aktivitäten",
     "description": "Informieren Sie sich über Veröffentlichungen und Medienberichte"
   },
@@ -49,12 +49,12 @@ export const data = {
   ],
   "filePathRelative": "activities.md",
   "git": {
-    "updatedTime": 1631051591000,
+    "updatedTime": 1631100062000,
     "contributors": [
       {
         "name": "Isabel",
         "email": "isabel.mueller1@stud-mail.uni-wuerzburg.de",
-        "commits": 2
+        "commits": 3
       }
     ]
   }

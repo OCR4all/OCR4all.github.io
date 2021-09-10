@@ -1,5 +1,5 @@
 ---
-lang: de-GER
+lang: de-DE
 title: Software und Download
 description: Laden Sie OCR4all-Software, Installationsanleitung, Benutzerhandbuch herunter
 ---

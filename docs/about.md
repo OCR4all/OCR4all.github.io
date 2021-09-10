@@ -1,5 +1,5 @@
 ---
-lang: de-GER
+lang: de-DE
 title: Über OCR4all
 description: Erfahren Sie mehr über das OCR4all-Projekt
 ---

@@ -1,5 +1,5 @@
 ---
-lang: de-GER
+lang: de-DE
 title: Aktivitäten
 description: Informieren Sie sich über Veröffentlichungen und Medienberichte
 ---
