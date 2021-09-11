@@ -1,6 +1,6 @@
 # Home
 
-![I love ZPD](ocr4all-zpd.png)
+![I love ZPD](./ocr4all-zpd.png)
 
 [Über OCR4all](about.md)
 
