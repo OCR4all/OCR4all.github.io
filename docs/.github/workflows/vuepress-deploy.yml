@@ -1,4 +1,8 @@
 name: Build and Deploy
+on:
+  # trigger deployment on every push to main branch
+  push:
+    branches: main
 jobs:
   docs:
     runs-on: ubuntu-18.04 # ubuntu-latest is now 20.04 and doesn't seem to work
