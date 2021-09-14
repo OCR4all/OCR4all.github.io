@@ -5,7 +5,7 @@ export const siteData = {
   "description": "",
   "head": [],
   "locales": {
-    "/OCR4all/OCR4all.github.io": {
+    "/": {
       "lang": "de-DE",
       "title": "OCR4all",
       "description": "OCR4all Dokumentation"
