@@ -2,13 +2,13 @@ export const data = {
   "key": "v-8daa1a0e",
   "path": "/",
   "title": "Home",
-  "lang": "de-DE",
+  "lang": "en-US",
   "frontmatter": {},
   "excerpt": "",
   "headers": [],
   "filePathRelative": "README.md",
   "git": {
-    "updatedTime": 1631306807000,
+    "updatedTime": 1631400061000,
     "contributors": [
       {
         "name": "Isabel",
@@ -18,7 +18,7 @@ export const data = {
       {
         "name": "Sina Bock",
         "email": "sina.bock@uni-wuerzburg.de",
-        "commits": 1
+        "commits": 2
       }
     ]
   }

@@ -2,14 +2,20 @@ export const data = {
   "key": "v-5d7259d4",
   "path": "/guide.html",
   "title": "",
-  "lang": "de-DE",
+  "lang": "en-US",
   "frontmatter": {},
   "excerpt": "",
   "headers": [],
   "filePathRelative": "guide.md",
   "git": {
-    "updatedTime": null,
-    "contributors": []
+    "updatedTime": 1631400061000,
+    "contributors": [
+      {
+        "name": "Sina Bock",
+        "email": "sina.bock@uni-wuerzburg.de",
+        "commits": 1
+      }
+    ]
   }
 }
 
