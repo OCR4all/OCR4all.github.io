@@ -3,6 +3,7 @@ import { Vuepress } from '@vuepress/client/lib/components/Vuepress'
 const routeItems = [
   ["v-22a39d25","/about.html","Über OCR4all",["/about","/about.md"]],
   ["v-87e9e61a","/activities.html","Aktivitäten",["/activities","/activities.md"]],
+  ["v-5d7259d4","/guide.html","",["/guide","/guide.md"]],
   ["v-8daa1a0e","/","Home",["/index.html","/README.md"]],
   ["v-320bd2f2","/software_download.html","Software und Download",["/software_download","/software_download.md"]],
   ["v-1d79747a","/team.html","Team",["/team","/team.md"]],
