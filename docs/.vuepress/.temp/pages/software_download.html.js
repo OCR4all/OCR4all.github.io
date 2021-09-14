@@ -12,12 +12,12 @@ export const data = {
   "headers": [],
   "filePathRelative": "software_download.md",
   "git": {
-    "updatedTime": 1631100062000,
+    "updatedTime": 1631306807000,
     "contributors": [
       {
         "name": "Isabel",
         "email": "isabel.mueller1@stud-mail.uni-wuerzburg.de",
-        "commits": 1
+        "commits": 2
       }
     ]
   }
