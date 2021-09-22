@@ -1,5 +1,4 @@
-<template><nav class="table-of-contents"><ul><li><RouterLink to="#workflow">Workflow</RouterLink></li><li><RouterLink to="#kooperation-mit-ocr-d">Kooperation mit OCR-D</RouterLink></li><li><RouterLink to="#berichterstattung-auswahl">Berichterstattung (Auswahl)</RouterLink></li><li><RouterLink to="#zitation">Zitation</RouterLink></li><li><RouterLink to="#funding">Funding</RouterLink></li></ul></nav>
-<p>OCR4all ist eine Software, die zur digitalen Texterschließung vornehmlich sehr früh gedruckter Werke entwickelt wurde.
+<template><p>OCR4all ist eine Software, die zur digitalen Texterschließung vornehmlich sehr früh gedruckter Werke entwickelt wurde.
 Da deren Drucktypen und oft komplex gestalteten Layoutkonzeptionen die Erkennungsmöglichkeiten vieler anderer
 Texterkennungsprogramme übersteigen, bedarf es hier der Möglichkeit, den Digitalisierungsvorgang variabel, korpus- und
 werkspezifisch zu gestalten. Verständlich und selbstständig anwendbar spricht der in OCR4all vorgeschlagene
@@ -16,10 +15,13 @@ Region Segmentation mit <a href="https://github.com/OCR4all/LAREX" target="_blan
 (Line Segmentation) und Texterkennung (Recognition mit <a href="https://github.com/Calamari-OCR" target="_blank" rel="noopener noreferrer">https://github.com/Calamari-OCR<OutboundLink/></a>
 ) bis hin zur Korrektur der erkannten Texte (Ground Truth Production) und der Erstellung werkspezifischer OCR-Modelle in
 einem Trainingsmodul beschreibt OCR4all einen vollwertigen OCR-Workflow.</p>
+<p><img src="@source/ocr4all-workflow.png" alt="Workflow"></p>
 <p>Vor allem durch die Möglichkeit der Herstellung und des Trainings
 werkspezifischer Texterkennungsmodelle können mit OCR4all bei so gut
 wie allen gedruckten Texten sehr gute Ergebnisse in der digitalen
 Texterschließung erzielt werden.</p>
+<p><img src="@source/ocr4all-segmentation.png" alt="Segmentierung">
+<img src="@source/ocr4all-correction.png" alt="Korrektur"></p>
 <h3 id="kooperation-mit-ocr-d" tabindex="-1"><a class="header-anchor" href="#kooperation-mit-ocr-d" aria-hidden="true">#</a> Kooperation mit OCR-D</h3>
 <p>Im Sommer 2020 wurde eine Kooperation zwischen OCR4all und der
 koordinierten Förderinitiative zur Weiterentwicklung von Verfahren der
@@ -53,8 +55,8 @@ im Rahmen des DFG-geförderten Projekts <a href="https://fortext.net" target="_b
 <li>Dr. Johann Ramminger: <a href="https://jramminger.github.io/ocr4all" target="_blank" rel="noopener noreferrer">ocr4all - OCR for Incunables<OutboundLink/></a></li>
 <li>Der Tagesspiegel: Computertool für alte Texte</li>
 <li>Der Standard: <a href="https://www.derstandard.de/story/2000101916347/zuverlaessige-texterkennungs-tool-fuer-historische-druckschriften" target="_blank" rel="noopener noreferrer">Zuverlässiges
-Texterkennungs-Tool für historische Druckschriften<OutboundLink/></a>
--Augsburger Allgemeine: <a href="https://www.augsburger-allgemeine.de/bayern/Computer-liest-alte-Texte-id54130851.html" target="_blank" rel="noopener noreferrer">Computer liest alte Texte<OutboundLink/></a></li>
+Texterkennungs-Tool für historische Druckschriften<OutboundLink/></a></li>
+<li>Augsburger Allgemeine: <a href="https://www.augsburger-allgemeine.de/bayern/Computer-liest-alte-Texte-id54130851.html" target="_blank" rel="noopener noreferrer">Computer liest alte Texte<OutboundLink/></a></li>
 <li>einBlick: <a href="https://www.uni-wuerzburg.de/aktuelles/einblick/single/news/modernes-tool-fuer-alte-texte" target="_blank" rel="noopener noreferrer">Modernes Tool für alte Texte<OutboundLink/></a></li>
 </ul>
 <h3 id="zitation" tabindex="-1"><a class="header-anchor" href="#zitation" aria-hidden="true">#</a> Zitation</h3>

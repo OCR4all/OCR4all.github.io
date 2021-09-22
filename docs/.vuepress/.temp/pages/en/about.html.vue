@@ -1,5 +1,4 @@
-<template><nav class="table-of-contents"><ul><li><RouterLink to="#workflow">Workflow</RouterLink></li><li><RouterLink to="#cooperation-with-ocr-d">Cooperation with OCR-D</RouterLink></li><li><RouterLink to="#reporting-assortment">Reporting (assortment)</RouterLink></li><li><RouterLink to="#zitation">Zitation</RouterLink></li><li><RouterLink to="#funding">Funding</RouterLink></li></ul></nav>
-<p>The OCR4all software was developed for the digitization of primarily
+<template><p>The OCR4all software was developed for the digitization of primarily
 very early printed documents. As many text recognition programs are
 often not able to handle the high complexity of the types and layout
 conceptions these texts hold, an option to organize the process of
@@ -25,9 +24,12 @@ the correction of the recognized texts the so-called Ground Truth
 Production. This Ground Truth is then the foundation for creating
 work-specific OCR models in a training module. Therefore OCR4all
 entails a full-featured OCR workflow.</p>
+<p><img src="@source/ocr4all-workflow.png" alt="Workflow"></p>
 <p>Particularly due to the capacity to create and train work-specific
 text recognition models, OCR4all makes achieving high-quality results
 in the digitization of texts in nearly all printed documents possible.</p>
+<p><img src="@source/ocr4all-segmentation.png" alt="Segmentation">
+<img src="@source/ocr4all-correction.png" alt="Correction"></p>
 <h3 id="cooperation-with-ocr-d" tabindex="-1"><a class="header-anchor" href="#cooperation-with-ocr-d" aria-hidden="true">#</a> Cooperation with OCR-D</h3>
 <p>In the summer of 2020, a co-operation between OCR4all and the
 coordinated funding initiative for further development of processes
@@ -60,9 +62,9 @@ Textdokumente</li>
 im Rahmen des DFG-geförderten Projekts <a href="https://fortext.net" target="_blank" rel="noopener noreferrer">forText<OutboundLink/></a></li>
 <li>Dr. Johann Ramminger: <a href="https://jramminger.github.io/ocr4all" target="_blank" rel="noopener noreferrer">ocr4all - OCR for Incunables<OutboundLink/></a></li>
 <li>Der Tagesspiegel: Computertool für alte Texte</li>
-<li>Der Standard: <a href="https://www.derstandard.de/story/2000101916347/zuverlaessige-texterkennungs-tool-fuer-historische-druckschriften" target="_blank" rel="noopener noreferrer">Zuverlässiges
-Texterkennungs-Tool für historische Druckschriften<OutboundLink/></a>
--Augsburger Allgemeine: <a href="https://www.augsburger-allgemeine.de/bayern/Computer-liest-alte-Texte-id54130851.html" target="_blank" rel="noopener noreferrer">Computer liest alte Texte<OutboundLink/></a></li>
+<li>Der Standard: <a href="https://www.derstandard.de/story/2000101916347/zuverlaessige-texterkennungs-tool-fuer-historische-druckschriften" target="_blank" rel="noopener noreferrer">Zuverlässiges Texterkennungs-Tool für historische
+Druckschriften<OutboundLink/></a></li>
+<li>Augsburger Allgemeine: <a href="https://www.augsburger-allgemeine.de/bayern/Computer-liest-alte-Texte-id54130851.html" target="_blank" rel="noopener noreferrer">Computer liest alte Texte<OutboundLink/></a></li>
 <li>einBlick: <a href="https://www.uni-wuerzburg.de/aktuelles/einblick/single/news/modernes-tool-fuer-alte-texte" target="_blank" rel="noopener noreferrer">Modernes Tool für alte Texte<OutboundLink/></a></li>
 </ul>
 <h3 id="zitation" tabindex="-1"><a class="header-anchor" href="#zitation" aria-hidden="true">#</a> Zitation</h3>

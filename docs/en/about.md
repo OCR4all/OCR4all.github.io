@@ -3,7 +3,6 @@ lang: en-US
 title: About
 description: Learn more about the OCR4all project
 ---
-[[toc]]
 The OCR4all software was developed for the digitization of primarily
 	very early printed documents. As many text recognition programs are
 	often not able to handle the high complexity of the types and layout
@@ -34,9 +33,14 @@ follow. Next is the Text Recognition which is carried out with
 	work-specific OCR models in a training module. Therefore OCR4all
 	entails a full-featured OCR workflow.
 
+![Workflow](../ocr4all-workflow.png)
+
 Particularly due to the capacity to create and train work-specific
 	text recognition models, OCR4all makes achieving high-quality results
 	in the digitization of texts in nearly all printed documents possible.
+
+![Segmentation](../ocr4all-segmentation.png)
+![Correction](../ocr4all-correction.png)
 
 ### Cooperation with OCR-D
 In the summer of 2020, a co-operation between OCR4all and the
@@ -73,9 +77,9 @@ The aim of the co-operation is not only the continuous exchange of
   im Rahmen des DFG-geförderten Projekts [forText](https://fortext.net)
 - Dr. Johann Ramminger: [ocr4all - OCR for Incunables](https://jramminger.github.io/ocr4all)
 - Der Tagesspiegel: Computertool für alte Texte
-- Der Standard: [Zuverlässiges
-  Texterkennungs-Tool für historische Druckschriften](https://www.derstandard.de/story/2000101916347/zuverlaessige-texterkennungs-tool-fuer-historische-druckschriften)
--Augsburger Allgemeine: [Computer liest alte Texte](https://www.augsburger-allgemeine.de/bayern/Computer-liest-alte-Texte-id54130851.html)
+- Der Standard: [Zuverlässiges Texterkennungs-Tool für historische 
+  Druckschriften](https://www.derstandard.de/story/2000101916347/zuverlaessige-texterkennungs-tool-fuer-historische-druckschriften)
+- Augsburger Allgemeine: [Computer liest alte Texte](https://www.augsburger-allgemeine.de/bayern/Computer-liest-alte-Texte-id54130851.html)
 - einBlick: [Modernes Tool für alte Texte](https://www.uni-wuerzburg.de/aktuelles/einblick/single/news/modernes-tool-fuer-alte-texte)
 ### Zitation
 

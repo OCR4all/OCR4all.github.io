@@ -3,7 +3,6 @@ lang: de-DE
 title: Über OCR4all
 description: Erfahren Sie mehr über das OCR4all-Projekt
 ---
-[[toc]]
 OCR4all ist eine Software, die zur digitalen Texterschließung vornehmlich sehr früh gedruckter Werke entwickelt wurde.
 Da deren Drucktypen und oft komplex gestalteten Layoutkonzeptionen die Erkennungsmöglichkeiten vieler anderer
 Texterkennungsprogramme übersteigen, bedarf es hier der Möglichkeit, den Digitalisierungsvorgang variabel, korpus- und
@@ -24,10 +23,15 @@ Region Segmentation mit [https://github.com/OCR4all/LAREX](https://github.com/OC
 ) bis hin zur Korrektur der erkannten Texte (Ground Truth Production) und der Erstellung werkspezifischer OCR-Modelle in
 einem Trainingsmodul beschreibt OCR4all einen vollwertigen OCR-Workflow.
 
+![Workflow](./ocr4all-workflow.png)
+
 Vor allem durch die Möglichkeit der Herstellung und des Trainings
 	werkspezifischer Texterkennungsmodelle können mit OCR4all bei so gut
 	wie allen gedruckten Texten sehr gute Ergebnisse in der digitalen
 	Texterschließung erzielt werden.
+
+![Segmentierung](./ocr4all-segmentation.png)
+![Korrektur](./ocr4all-correction.png)
 
 ### Kooperation mit OCR-D
 
@@ -65,7 +69,7 @@ Gegenstand der Kooperation ist, neben dem fortlaufenden Austausch vor
 - Der Tagesspiegel: Computertool für alte Texte
 - Der Standard: [Zuverlässiges
   Texterkennungs-Tool für historische Druckschriften](https://www.derstandard.de/story/2000101916347/zuverlaessige-texterkennungs-tool-fuer-historische-druckschriften)
--Augsburger Allgemeine: [Computer liest alte Texte](https://www.augsburger-allgemeine.de/bayern/Computer-liest-alte-Texte-id54130851.html)
+- Augsburger Allgemeine: [Computer liest alte Texte](https://www.augsburger-allgemeine.de/bayern/Computer-liest-alte-Texte-id54130851.html)
 - einBlick: [Modernes Tool für alte Texte](https://www.uni-wuerzburg.de/aktuelles/einblick/single/news/modernes-tool-fuer-alte-texte)
 ### Zitation
 

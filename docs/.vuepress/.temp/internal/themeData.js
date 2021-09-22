@@ -12,12 +12,12 @@ export const themeData = {
           "link": "/about.md/"
         },
         {
-          "text": "Aktivitäten",
-          "link": "/activities.md/"
-        },
-        {
           "text": "Software und Download",
           "link": "/software_download.md/"
+        },
+        {
+          "text": "Aktivitäten",
+          "link": "/activities.md/"
         },
         {
           "text": "Team",
@@ -37,12 +37,12 @@ export const themeData = {
           "link": "/about.md/"
         },
         {
-          "text": "Activities",
-          "link": "/activities.md/"
-        },
-        {
           "text": "Software and Download",
           "link": "/software_download.md/"
+        },
+        {
+          "text": "Activities",
+          "link": "/activities.md/"
         },
         {
           "text": "Team",
