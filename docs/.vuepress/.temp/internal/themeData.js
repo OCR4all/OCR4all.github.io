@@ -4,10 +4,6 @@ export const themeData = {
       "selectLanguageName": "Deutsch",
       "navbar": [
         {
-          "text": "Home",
-          "link": "/README.md/"
-        },
-        {
           "text": "Über OCR4all",
           "link": "/about.md/"
         },
@@ -28,10 +24,6 @@ export const themeData = {
     "/en/": {
       "selectLanguageName": "English",
       "navbar": [
-        {
-          "text": "Home",
-          "link": "/README.md/"
-        },
         {
           "text": "About",
           "link": "/about.md/"

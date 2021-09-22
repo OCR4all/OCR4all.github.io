@@ -9,7 +9,38 @@ export const data = {
     "description": "Lernen Sie unser Team kennen und kontaktieren Sie es"
   },
   "excerpt": "",
-  "headers": [],
+  "headers": [
+    {
+      "level": 3,
+      "title": "Leitung",
+      "slug": "leitung",
+      "children": []
+    },
+    {
+      "level": 3,
+      "title": "User Support",
+      "slug": "user-support",
+      "children": []
+    },
+    {
+      "level": 3,
+      "title": "Entwicklung",
+      "slug": "entwicklung",
+      "children": []
+    },
+    {
+      "level": 3,
+      "title": "Verschiedenes",
+      "slug": "verschiedenes",
+      "children": []
+    },
+    {
+      "level": 3,
+      "title": "Ehemalige Projektmitarbeiter",
+      "slug": "ehemalige-projektmitarbeiter",
+      "children": []
+    }
+  ],
   "filePathRelative": "team.md",
   "git": {
     "updatedTime": 1631306807000,
