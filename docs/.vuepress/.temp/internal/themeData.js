@@ -9,7 +9,7 @@ export const themeData = {
         },
         {
           "text": "Software und Download",
-          "link": "/software_download.md/"
+          "link": "/software_download/software_download.md/"
         },
         {
           "text": "Aktivitäten",
@@ -18,6 +18,10 @@ export const themeData = {
         {
           "text": "Team",
           "link": "/team.md/"
+        },
+        {
+          "text": "Libraries",
+          "link": "/libraries.md/"
         }
       ]
     },
@@ -26,19 +30,23 @@ export const themeData = {
       "navbar": [
         {
           "text": "About",
-          "link": "/about.md/"
+          "link": "/en/about.md/"
         },
         {
           "text": "Software and Download",
-          "link": "/software_download.md/"
+          "link": "/en/software_download/software_download.md/"
         },
         {
           "text": "Activities",
-          "link": "/activities.md/"
+          "link": "/en/activities.md/"
         },
         {
           "text": "Team",
-          "link": "/team.md/"
+          "link": "/en/team.md/"
+        },
+        {
+          "text": "Libraries",
+          "link": "/en/libraries.md/"
         }
       ]
     }

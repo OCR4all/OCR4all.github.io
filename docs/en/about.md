@@ -33,14 +33,14 @@ follow. Next is the Text Recognition which is carried out with
 	work-specific OCR models in a training module. Therefore OCR4all
 	entails a full-featured OCR workflow.
 
-![Workflow](../ocr4all-workflow.png)
+![Workflow](../.vuepress/public/images/ocr4all-workflow.png)
 
 Particularly due to the capacity to create and train work-specific
 	text recognition models, OCR4all makes achieving high-quality results
 	in the digitization of texts in nearly all printed documents possible.
 
-![Segmentation](../ocr4all-segmentation.png)
-![Correction](../ocr4all-correction.png)
+![Segmentation](../.vuepress/public/images/ocr4all-segmentation.png)
+![Correction](../.vuepress/public/images/ocr4all-correction.png)
 
 ### Cooperation with OCR-D
 In the summer of 2020, a co-operation between OCR4all and the

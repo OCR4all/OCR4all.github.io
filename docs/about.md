@@ -20,18 +20,18 @@ möglichst breiten Nutzergruppe dauerhaft frei verfügbar zu machen.
 Von der Vorverarbeitung der zur bearbeitenden Bilddateien \(sog. Preprocessing) über die Layoutsegmentierung \(sog. 
 Region Segmentation mit [https://github.com/OCR4all/LAREX](https://github.com/OCR4all/LAREX)), die Zeilensegmentierung 
 \(Line Segmentation) und Texterkennung \(Recognition mit [https://github.com/Calamari-OCR](https://github.com/Calamari-OCR)
-) bis hin zur Korrektur der erkannten Texte (Ground Truth Production) und der Erstellung werkspezifischer OCR-Modelle in
+) bis hin zur Korrektur der erkannten Texte (Ground Truth Production) und der Erstellung werksspezifischer OCR-Modelle in
 einem Trainingsmodul beschreibt OCR4all einen vollwertigen OCR-Workflow.
 
-![Workflow](./ocr4all-workflow.png)
+![Workflow](./.vuepress/public/images/ocr4all-workflow.png)
 
 Vor allem durch die Möglichkeit der Herstellung und des Trainings
-	werkspezifischer Texterkennungsmodelle können mit OCR4all bei so gut
+	werksspezifischer Texterkennungsmodelle können mit OCR4all bei so gut
 	wie allen gedruckten Texten sehr gute Ergebnisse in der digitalen
 	Texterschließung erzielt werden.
 
-![Segmentierung](./ocr4all-segmentation.png)
-![Korrektur](./ocr4all-correction.png)
+![Segmentierung](./.vuepress/public/images/ocr4all-segmentation.png)
+![Korrektur](./.vuepress/public/images/ocr4all-correction.png)
 
 ### Kooperation mit OCR-D
 
