@@ -16,7 +16,7 @@ Latest version: OCR4all 0.5.0. With the release of OCR4all 0.5.0 in
 	corresponding release notes of [OCR4all](https://github.com/OCR4all/OCR4all/releases)
     and [LAREX](https://github.com/OCR4all/LAREX/releases).
 
-::: details Installation guide
+::: tip Installation guide
 - [VirtualBox (English)](../lib/download.php?file=ocr4all-setup_guide_virtualbox_eng.pdf)
 - [VirtualBox (German)](../lib/download.php?file=ocr4all-setup_guide_virtualbox_ger.pdf)
 - [Docker (English)]()
@@ -25,13 +25,13 @@ Latest version: OCR4all 0.5.0. With the release of OCR4all 0.5.0 in
 An installation via VirtualBox is strongly recommended for non-technical users.
 :::
 
-::: details Download
+::: tip Download
 - [VirtualBox]()
 - [Docker](https://hub.docker.com/r/ls6uniwue/ocr4all)
 - [Github](https://github.com/OCR4all/OCR4all#ocr4all)
 :::
 
-::: details User manual
+::: tip User manual
 - [User manual (English)]()
 - [User manual (German)]()
 :::
