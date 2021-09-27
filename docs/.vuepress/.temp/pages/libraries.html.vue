@@ -10,4 +10,109 @@ aliquyam erat, sed diam voluptua. At vero eos et accusam et
 justo duo dolores et ea rebum. Stet clita kasd gubergren,
 no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
 <h3 id="projektgruppe" tabindex="-1"><a class="header-anchor" href="#projektgruppe" aria-hidden="true">#</a> Projektgruppe</h3>
+<table>
+<thead>
+<tr>
+<th>Dr. Anke Hertling</th>
+<th>Prof. Dr. Marc Latoschik</th>
+<th>Dr. Christian Reul</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="@source/.vuepress/public/images/ocr4all-zpd.png" alt="Bild1"></td>
+<td><img src="@source/.vuepress/public/images/ocr4all-zpd.png" alt="Bild2"></td>
+<td><img src="@source/.vuepress/public/images/ocr4all-zpd.png" alt="Bild3"></td>
+</tr>
+<tr>
+<td>Antragstellerin, GEI Braunschwaig, ...</td>
+<td>HCI Uni Würzburg, Antragsteller</td>
+<td>Antragsteller</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>Sina Bock</th>
+<th>Kristof Korwisi</th>
+<th>Katharina Krüger</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="@source/.vuepress/public/images/ocr4all-zpd.png" alt="Bild1"></td>
+<td><img src="@source/.vuepress/public/images/ocr4all-zpd.png" alt="Bild2"></td>
+<td><img src="@source/.vuepress/public/images/ocr4all-zpd.png" alt="Bild3"></td>
+</tr>
+<tr>
+<td>Mitarbeiterin ZPD</td>
+<td>HCI Uni Würzburg, M HCI</td>
+<td>M GEI</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>Maximilian Nöth</th>
+<th>Kevin Chadbourne</th>
+<th>Sebastian Klaes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="@source/.vuepress/public/images/ocr4all-zpd.png" alt="Bild1"></td>
+<td><img src="@source/.vuepress/public/images/ocr4all-zpd.png" alt="Bild2"></td>
+<td><img src="@source/.vuepress/public/images/ocr4all-zpd.png" alt="Bild3"></td>
+</tr>
+<tr>
+<td>M ZPD</td>
+<td>wiss. Hilfskraft ZPD</td>
+<td>Mitarbeiter GEI</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>Florian Langhanki</th>
+<th>Dr. Herbert Baier Saip</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="@source/.vuepress/public/images/ocr4all-zpd.png" alt="Bild1"></td>
+<td><img src="@source/.vuepress/public/images/ocr4all-zpd.png" alt="Bild2"></td>
+<td><img src="@source/.vuepress/public/images/ocr4all-zpd.png" alt="Bild3"></td>
+</tr>
+<tr>
+<td>PM ZPD</td>
+<td>Mitarbeiter ZPD</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>Name1</th>
+<th>Name2</th>
+<th>Name3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="@source/.vuepress/public/images/ocr4all-zpd.png" alt="Bild1"></td>
+<td><img src="@source/.vuepress/public/images/ocr4all-zpd.png" alt="Bild2"></td>
+<td><img src="@source/.vuepress/public/images/ocr4all-zpd.png" alt="Bild3"></td>
+</tr>
+<tr>
+<td>Aufgabe1</td>
+<td>Aufgabe2</td>
+<td>Aufgabe3</td>
+</tr>
+</tbody>
+</table>
 </template>
