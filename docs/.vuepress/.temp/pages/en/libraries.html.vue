@@ -21,8 +21,8 @@ no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
 <tbody>
 <tr>
 <td><img src="@source/.vuepress/public/images/ocr4all-zpd.png" alt="Bild1"></td>
-<td></td>
 <td><img src="@source/.vuepress/public/images/ocr4all-zpd.png" alt="Bild2"></td>
+<td><img src="@source/.vuepress/public/images/ocr4all-zpd.png" alt="Bild3"></td>
 </tr>
 <tr>
 <td>Requestor, GEI Braunschwaig</td>

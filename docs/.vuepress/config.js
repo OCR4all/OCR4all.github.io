@@ -25,14 +25,14 @@ module.exports = {
       { text: 'Libraries', link: '/libraries.md/'},
     ],
       },
-      '/en/': {
+      '/en/en/': {
         selectLanguageName: 'English',
         navbar: [
-      { text: 'About', link: '/en/about.md/'},
-      { text: 'Software and Download', link: '/en/software_download/software_download.md/' },
-      { text: 'Activities', link: '/en/activities.md/' },
-      { text: 'Team', link: '/en/team.md/' },
-      { text: 'Libraries', link: '/en/libraries.md/'},
+      { text: 'About', link: '/about.md/'},
+      { text: 'Software and Download', link: '/software_download/software_download.md/' },
+      { text: 'Activities', link: '/activities.md/' },
+      { text: 'Team', link: '/team.md/' },
+      { text: 'Libraries', link: '/libraries.md/'},
     ],
       },
     },

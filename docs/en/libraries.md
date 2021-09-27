@@ -18,7 +18,7 @@ no sea takimata sanctus est Lorem ipsum dolor sit amet.
 ### Project-Group
 | Dr. Anke Hertling | Prof. Dr. Marc Latoschik | Dr. Christian Reul |
 | ----- | ----- | ----- |
-| ![Bild1](../.vuepress/public/images/ocr4all-zpd.png) | | ![Bild2](../.vuepress/public/images/ocr4all-zpd.png) | ![Bild3](../.vuepress/public/images/ocr4all-zpd.png) |
+| ![Bild1](../.vuepress/public/images/ocr4all-zpd.png) | ![Bild2](../.vuepress/public/images/ocr4all-zpd.png) | ![Bild3](../.vuepress/public/images/ocr4all-zpd.png) |
 | Requestor, GEI Braunschwaig | HCI Uni Würzburg, Requestor | Requestor |
 
 | Sina Bock | Kristof Korwisi | Katharina Krüger |
