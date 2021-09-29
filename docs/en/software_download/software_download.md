@@ -17,8 +17,8 @@ Latest version: OCR4all 0.5.0. With the release of OCR4all 0.5.0 in
     and [LAREX](https://github.com/OCR4all/LAREX/releases).
 
 ::: tip Installation guide
-- [VirtualBox (English)]()
-- [VirtualBox (German)]()
+- [VirtualBox (English)](../../.vuepress/public/pdf/ocr4all-setup_guide_virtualbox_eng.pdf)
+- [VirtualBox (German)](../../.vuepress/public/pdf/ocr4all-setup_guide_virtualbox_ger.pdf)
 - [Docker (English)](https://github.com/OCR4all/getting_started/raw/master/ocr4all-setup_guide.pdf)
 - [Getting Started (Website)](https://github.com/OCR4all/getting_started#getting-started-with-ocr4all)
 

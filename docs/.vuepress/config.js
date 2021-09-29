@@ -25,7 +25,7 @@ module.exports = {
       { text: 'Libraries', link: '/libraries.md/'},
     ],
       },
-      '/en/en/': {
+      '/en/': {
         selectLanguageName: 'English',
         navbar: [
       { text: 'About', link: '/about.md/'},
