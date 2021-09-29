@@ -17,6 +17,7 @@ const routeItems = [
   ["v-24d40195","/en/software_download/software_download.html","Software and Download",["/en/software_download/software_download","/en/software_download/software_download.md"]],
   ["v-ca7ff2d2","/en/software_download/vm-download.html","",["/en/software_download/vm-download","/en/software_download/vm-download.md"]],
   ["v-3706649a","/404.html","",["/404"]],
+  ["v-139b5e2a","/en/guide.html","",["/en/guide","/en/guide.md"]],
 ]
 
 export const pagesRoutes = routeItems.reduce(

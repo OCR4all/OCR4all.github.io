@@ -13,105 +13,105 @@ no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
 <table>
 <thead>
 <tr>
-<th>Dr. Anke Hertling</th>
-<th>Prof. Dr. Marc Latoschik</th>
-<th>Dr. Christian Reul</th>
+<th style="text-align:center">Dr. Anke Hertling</th>
+<th style="text-align:center">Prof. Dr. Marc Latoschik</th>
+<th style="text-align:center">Dr. Christian Reul</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><img src="@source/.vuepress/public/images/ocr4all-zpd.png" alt="Bild1"></td>
-<td><img src="@source/.vuepress/public/images/ocr4all-zpd.png" alt="Bild2"></td>
-<td><img src="@source/.vuepress/public/images/ocr4all-zpd.png" alt="Bild3"></td>
+<td style="text-align:center"><img src="@source/.vuepress/public/images/ocr4all-zpd.png" alt="Bild1"></td>
+<td style="text-align:center"><img src="@source/.vuepress/public/images/ocr4all-zpd.png" alt="Bild2"></td>
+<td style="text-align:center"><img src="@source/.vuepress/public/images/ocr4all-zpd.png" alt="Bild3"></td>
 </tr>
 <tr>
-<td>Requestor, GEI Braunschwaig</td>
-<td>HCI Uni Würzburg, Requestor</td>
-<td>Requestor</td>
+<td style="text-align:center">Requestor, GEI Braunschwaig</td>
+<td style="text-align:center">HCI Uni Würzburg, Requestor</td>
+<td style="text-align:center">Requestor</td>
 </tr>
 </tbody>
 </table>
 <table>
 <thead>
 <tr>
-<th>Sina Bock</th>
-<th>Kristof Korwisi</th>
-<th>Katharina Krüger</th>
+<th style="text-align:center">Sina Bock</th>
+<th style="text-align:center">Kristof Korwisi</th>
+<th style="text-align:center">Katharina Krüger</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><img src="@source/.vuepress/public/images/ocr4all-zpd.png" alt="Bild1"></td>
-<td><img src="@source/.vuepress/public/images/ocr4all-zpd.png" alt="Bild2"></td>
-<td><img src="@source/.vuepress/public/images/ocr4all-zpd.png" alt="Bild3"></td>
+<td style="text-align:center"><img src="@source/.vuepress/public/images/ocr4all-zpd.png" alt="Bild1"></td>
+<td style="text-align:center"><img src="@source/.vuepress/public/images/ocr4all-zpd.png" alt="Bild2"></td>
+<td style="text-align:center"><img src="@source/.vuepress/public/images/ocr4all-zpd.png" alt="Bild3"></td>
 </tr>
 <tr>
-<td>Staff ZPD</td>
-<td>HCI Uni Würzburg, M HCI</td>
-<td>M GEI</td>
+<td style="text-align:center">Staff ZPD</td>
+<td style="text-align:center">HCI Uni Würzburg, Staff HCI</td>
+<td style="text-align:center">Staff GEI</td>
 </tr>
 </tbody>
 </table>
 <table>
 <thead>
 <tr>
-<th>Maximilian Nöth</th>
-<th>Kevin Chadbourne</th>
-<th>Sebastian Klaes</th>
+<th style="text-align:center">Maximilian Nöth</th>
+<th style="text-align:center">Kevin Chadbourne</th>
+<th style="text-align:center">Sebastian Klaes</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><img src="@source/.vuepress/public/images/ocr4all-zpd.png" alt="Bild1"></td>
-<td><img src="@source/.vuepress/public/images/ocr4all-zpd.png" alt="Bild2"></td>
-<td><img src="@source/.vuepress/public/images/ocr4all-zpd.png" alt="Bild3"></td>
+<td style="text-align:center"><img src="@source/.vuepress/public/images/ocr4all-zpd.png" alt="Bild1"></td>
+<td style="text-align:center"><img src="@source/.vuepress/public/images/ocr4all-zpd.png" alt="Bild2"></td>
+<td style="text-align:center"><img src="@source/.vuepress/public/images/ocr4all-zpd.png" alt="Bild3"></td>
 </tr>
 <tr>
-<td>M ZPD</td>
-<td>research assistant ZPD</td>
-<td>Staff GEI</td>
+<td style="text-align:center">Staff ZPD</td>
+<td style="text-align:center">research assistant ZPD</td>
+<td style="text-align:center">Staff GEI</td>
 </tr>
 </tbody>
 </table>
 <table>
 <thead>
 <tr>
-<th>Florian Langhanki</th>
-<th>Dr. Herbert Baier Saip</th>
-<th></th>
+<th style="text-align:center">Florian Langhanki</th>
+<th style="text-align:center">Dr. Herbert Baier Saip</th>
+<th style="text-align:center"></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><img src="@source/.vuepress/public/images/ocr4all-zpd.png" alt="Bild1"></td>
-<td><img src="@source/.vuepress/public/images/ocr4all-zpd.png" alt="Bild2"></td>
-<td><img src="@source/.vuepress/public/images/ocr4all-zpd.png" alt="Bild3"></td>
+<td style="text-align:center"><img src="@source/.vuepress/public/images/ocr4all-zpd.png" alt="Bild1"></td>
+<td style="text-align:center"><img src="@source/.vuepress/public/images/ocr4all-zpd.png" alt="Bild2"></td>
+<td style="text-align:center"><img src="@source/.vuepress/public/images/ocr4all-zpd.png" alt="Bild3"></td>
 </tr>
 <tr>
-<td>PM ZPD</td>
-<td>Staff ZPD</td>
-<td></td>
+<td style="text-align:center">PM ZPD</td>
+<td style="text-align:center">Staff ZPD</td>
+<td style="text-align:center"></td>
 </tr>
 </tbody>
 </table>
 <table>
 <thead>
 <tr>
-<th>Name1</th>
-<th>Name2</th>
-<th>Name3</th>
+<th style="text-align:center">Name1</th>
+<th style="text-align:center">Name2</th>
+<th style="text-align:center">Name3</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><img src="@source/.vuepress/public/images/ocr4all-zpd.png" alt="Bild1"></td>
-<td><img src="@source/.vuepress/public/images/ocr4all-zpd.png" alt="Bild2"></td>
-<td><img src="@source/.vuepress/public/images/ocr4all-zpd.png" alt="Bild3"></td>
+<td style="text-align:center"><img src="@source/.vuepress/public/images/ocr4all-zpd.png" alt="Bild1"></td>
+<td style="text-align:center"><img src="@source/.vuepress/public/images/ocr4all-zpd.png" alt="Bild2"></td>
+<td style="text-align:center"><img src="@source/.vuepress/public/images/ocr4all-zpd.png" alt="Bild3"></td>
 </tr>
 <tr>
-<td>Aufgabe1</td>
-<td>Aufgabe2</td>
-<td>Aufgabe3</td>
+<td style="text-align:center">Aufgabe1</td>
+<td style="text-align:center">Aufgabe2</td>
+<td style="text-align:center">Aufgabe3</td>
 </tr>
 </tbody>
 </table>

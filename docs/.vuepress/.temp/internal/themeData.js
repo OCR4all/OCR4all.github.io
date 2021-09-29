@@ -25,7 +25,7 @@ export const themeData = {
         }
       ]
     },
-    "/en/en/": {
+    "/en/": {
       "selectLanguageName": "English",
       "navbar": [
         {

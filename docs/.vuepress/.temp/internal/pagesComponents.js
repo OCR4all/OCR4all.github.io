@@ -33,4 +33,6 @@ export const pagesComponents = {
   "v-ca7ff2d2": defineAsyncComponent(() => import(/* webpackChunkName: "v-ca7ff2d2" */"C:/Users/Isabel/PycharmProjects/OCR4all.github.io.sina/docs/.vuepress/.temp/pages/en/software_download/vm-download.html.vue")),
   // path: /404.html
   "v-3706649a": defineAsyncComponent(() => import(/* webpackChunkName: "v-3706649a" */"C:/Users/Isabel/PycharmProjects/OCR4all.github.io.sina/docs/.vuepress/.temp/pages/404.html.vue")),
+  // path: /en/guide.html
+  "v-139b5e2a": defineAsyncComponent(() => import(/* webpackChunkName: "v-139b5e2a" */"C:/Users/Isabel/PycharmProjects/OCR4all.github.io.sina/docs/.vuepress/.temp/pages/en/guide.html.vue")),
 }

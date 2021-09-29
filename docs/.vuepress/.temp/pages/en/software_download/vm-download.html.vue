@@ -7,8 +7,8 @@
 <p>Please note our installation guides for an easy and quick
 implementation:</p>
 <ul>
-<li>English: <a href="">ocr4all-setup_guide_virtualbox_eng.pdf</a></li>
-<li>German: <a href="">ocr4all-setup_guide_virtualbox_ger.pdf</a></li>
+<li>English: <a href="../../.vuepress/public/pdf/ocr4all-setup_guide_virtualbox_eng.pdf">ocr4all-setup_guide_virtualbox_eng.pdf</a></li>
+<li>German: <a href="../../.vuepress/public/pdf/ocr4all-setup_guide_virtualbox_ger.pdf">ocr4all-setup_guide_virtualbox_ger.pdf</a></li>
 </ul>
 <p>Please do not hesitate to <a href="mailto:ocr4all@uni-wuerzburg.de?subject=ocr4all%20contact">contact
 us</a>
