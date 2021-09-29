@@ -28,8 +28,8 @@ and <a href="https://github.com/OCR4all/LAREX/releases" target="_blank" rel="noo
 </div>
 <div class="custom-container tip"><p class="custom-container-title">User manual</p>
 <ul>
-<li><a href="">User manual (English)</a></li>
-<li><a href="">User manual (German)</a></li>
+<li><a href="https://raw.githubusercontent.com/OCR4all/getting_started/master/ocr4all-user_guide_eng.pdf" target="_blank" rel="noopener noreferrer">User manual (English)<OutboundLink/></a></li>
+<li><a href="https://raw.githubusercontent.com/OCR4all/getting_started/master/ocr4all-user_guide_ger.pdf" target="_blank" rel="noopener noreferrer">User manual (German)<OutboundLink/></a></li>
 </ul>
 </div>
 </template>

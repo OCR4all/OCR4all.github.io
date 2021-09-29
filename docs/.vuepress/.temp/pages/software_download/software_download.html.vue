@@ -13,8 +13,8 @@ Bug Fixes und Verbesserungen sind den entsprechenden Release Notes von
 <a href="https://github.com/OCR4all/LAREX/releases" target="_blank" rel="noopener noreferrer">LAREX<OutboundLink/></a> zu entnehmen.</p>
 <div class="custom-container tip"><p class="custom-container-title">Installationsanleitung</p>
 <ul>
-<li><a href="">VirtualBox (English)</a></li>
-<li><a href="">VirtualBox (German)</a></li>
+<li><a href="../.vuepress/public/pdf/ocr4all-setup_guide_virtualbox_eng.pdf">VirtualBox (English)</a></li>
+<li><a href="../.vuepress/public/pdf/ocr4all-setup_guide_virtualbox_ger.pdf">VirtualBox (German)</a></li>
 <li><a href="https://github.com/OCR4all/getting_started/raw/master/ocr4all-setup_guide.pdf" target="_blank" rel="noopener noreferrer">Docker (English)<OutboundLink/></a></li>
 <li><a href="https://github.com/OCR4all/getting_started#getting-started-with-ocr4all" target="_blank" rel="noopener noreferrer">Getting Started (Website)<OutboundLink/></a></li>
 </ul>
@@ -29,8 +29,8 @@ Bug Fixes und Verbesserungen sind den entsprechenden Release Notes von
 </div>
 <div class="custom-container tip"><p class="custom-container-title">Benutzerhandbuch</p>
 <ul>
-<li><a href="">Benutzerhandbuch (Deutsch)</a></li>
-<li><a href="">Benutzerhandbuch (Englisch)</a></li>
+<li><a href="https://raw.githubusercontent.com/OCR4all/getting_started/master/ocr4all-user_guide_ger.pdf" target="_blank" rel="noopener noreferrer">Benutzerhandbuch (Deutsch)<OutboundLink/></a></li>
+<li><a href="https://raw.githubusercontent.com/OCR4all/getting_started/master/ocr4all-user_guide_eng.pdf" target="_blank" rel="noopener noreferrer">Benutzerhandbuch (Englisch)<OutboundLink/></a></li>
 </ul>
 </div>
 </template>

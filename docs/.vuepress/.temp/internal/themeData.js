@@ -25,28 +25,28 @@ export const themeData = {
         }
       ]
     },
-    "/en/": {
+    "/en/en/": {
       "selectLanguageName": "English",
       "navbar": [
         {
           "text": "About",
-          "link": "/en/about.md/"
+          "link": "/about.md/"
         },
         {
           "text": "Software and Download",
-          "link": "/en/software_download/software_download.md/"
+          "link": "/software_download/software_download.md/"
         },
         {
           "text": "Activities",
-          "link": "/en/activities.md/"
+          "link": "/activities.md/"
         },
         {
           "text": "Team",
-          "link": "/en/team.md/"
+          "link": "/team.md/"
         },
         {
           "text": "Libraries",
-          "link": "/en/libraries.md/"
+          "link": "/libraries.md/"
         }
       ]
     }
