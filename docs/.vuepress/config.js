@@ -2,12 +2,12 @@ module.exports = {
   locales: {
     // The key is the path for the locale to be nested under.
     // As a special case, the default locale can use '/' as its path.
-    '/OCR4all.github.io/': {
+    '/OCR4all/': {
       lang: 'de-DE',
       title: 'OCR4all',
       description: 'OCR4all Dokumentation',
     },
-    '/OCR4all.github.io/en/': {
+    '/OCR4all/en/': {
       lang: 'en-US',
       title: 'OCR4all',
       description: 'OCR4all documentation',
