@@ -5,12 +5,12 @@ export const siteData = {
   "description": "",
   "head": [],
   "locales": {
-    "/": {
+    "/OCR4all/": {
       "lang": "de-DE",
       "title": "OCR4all",
       "description": "OCR4all Dokumentation"
     },
-    "/en/": {
+    "/OCR4all/en/": {
       "lang": "en-US",
       "title": "OCR4all",
       "description": "OCR4all documentation"
