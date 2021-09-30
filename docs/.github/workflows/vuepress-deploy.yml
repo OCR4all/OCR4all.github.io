@@ -1,4 +1,4 @@
-name: Build and Deploy
+name: test
 on:
   # trigger deployment on every push to main branch
   push:
