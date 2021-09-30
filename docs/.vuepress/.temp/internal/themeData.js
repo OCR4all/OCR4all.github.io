@@ -20,8 +20,8 @@ export const themeData = {
           "link": "/team.md/"
         },
         {
-          "text": "Projekte",
-          "link": "/projects.md/"
+          "text": "Libraries",
+          "link": "/libraries.md/"
         }
       ]
     },
@@ -45,8 +45,8 @@ export const themeData = {
           "link": "/en/team.md/"
         },
         {
-          "text": "Projects",
-          "link": "/en/projects.md/"
+          "text": "Libraries",
+          "link": "/en/libraries.md/"
         }
       ]
     }
