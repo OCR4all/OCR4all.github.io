@@ -22,6 +22,7 @@ description: Lernen Sie unser Team kennen und kontaktieren Sie es
 - Raphaëlle Jung (Anleitungen und Illustrationen)
 - Dr. Uwe Springmann (Ideen und Feedback)
 - Prof. Dr. Frank Puppe (Funding)
+- Isabel Müller (Website)
 
 ### Ehemalige Projektmitarbeiter
 - Dennis Christ (OCR4all)

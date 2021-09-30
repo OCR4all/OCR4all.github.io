@@ -12,9 +12,9 @@ corresponding release notes of <a href="https://github.com/OCR4all/OCR4all/relea
 and <a href="https://github.com/OCR4all/LAREX/releases" target="_blank" rel="noopener noreferrer">LAREX<OutboundLink/></a>.</p>
 <div class="custom-container tip"><p class="custom-container-title">Installation guide</p>
 <ul>
-<li><a href="../../.vuepress/public/pdf/ocr4all-setup_guide_virtualbox_eng.pdf">VirtualBox (English)</a></li>
-<li><a href="../../.vuepress/public/pdf/ocr4all-setup_guide_virtualbox_ger.pdf">VirtualBox (German)</a></li>
-<li><a href="https://github.com/OCR4all/getting_started/raw/master/ocr4all-setup_guide.pdf" target="_blank" rel="noopener noreferrer">Docker (English)<OutboundLink/></a></li>
+<li><a href="http://ocr4all.org/lib/download.php?file=ocr4all-setup_guide_virtualbox_eng.pdf" target="_blank" rel="noopener noreferrer">VirtualBox (English)<OutboundLink/></a></li>
+<li><a href="http://ocr4all.org/lib/download.php?file=ocr4all-setup_guide_virtualbox_ger.pdf" target="_blank" rel="noopener noreferrer">VirtualBox (German)<OutboundLink/></a></li>
+<li><a href="">Docker (English)</a></li>
 <li><a href="https://github.com/OCR4all/getting_started#getting-started-with-ocr4all" target="_blank" rel="noopener noreferrer">Getting Started (Website)<OutboundLink/></a></li>
 </ul>
 <p>An installation via VirtualBox is strongly recommended for non-technical users.</p>

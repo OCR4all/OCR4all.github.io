@@ -23,6 +23,7 @@ lead) <a href="mailto:herbert.baier@uni-wuerzburg.de?subject=ocr4all%20contact">
 <li>Raphaëlle Jung (guides and illustrations)</li>
 <li>Dr. Uwe Springmann (ideas and feedback)</li>
 <li>Prof. Dr. Frank Puppe (Funding)</li>
+<li>Isabel Müller (Website)</li>
 </ul>
 <h3 id="former-project-staff" tabindex="-1"><a class="header-anchor" href="#former-project-staff" aria-hidden="true">#</a> Former project staff</h3>
 <ul>

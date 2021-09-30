@@ -1,5 +1,5 @@
-<template><h3 id="ocr4all-libraries" tabindex="-1"><a class="header-anchor" href="#ocr4all-libraries" aria-hidden="true">#</a> OCR4all libraries</h3>
-<h4 id="summary" tabindex="-1"><a class="header-anchor" href="#summary" aria-hidden="true">#</a> Summary</h4>
+<template><h2 id="ocr4all-libraries" tabindex="-1"><a class="header-anchor" href="#ocr4all-libraries" aria-hidden="true">#</a> OCR4all libraries</h2>
+<h3 id="summary" tabindex="-1"><a class="header-anchor" href="#summary" aria-hidden="true">#</a> Summary</h3>
 <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
 sed diam nonumy eirmod tempor invidunt ut labore et dolore magna
 aliquyam erat, sed diam voluptua. At vero eos et accusam et justo
@@ -10,7 +10,7 @@ diam nonumy eirmod tempor invidunt ut labore et dolore magna
 aliquyam erat, sed diam voluptua. At vero eos et accusam et
 justo duo dolores et ea rebum. Stet clita kasd gubergren,
 no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
-<h4 id="project-group" tabindex="-1"><a class="header-anchor" href="#project-group" aria-hidden="true">#</a> Project-Group</h4>
+<h3 id="project-group" tabindex="-1"><a class="header-anchor" href="#project-group" aria-hidden="true">#</a> Project-Group</h3>
 <table>
 <thead>
 <tr>
@@ -116,8 +116,8 @@ no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
 </tr>
 </tbody>
 </table>
-<h3 id="camerarius-digital" tabindex="-1"><a class="header-anchor" href="#camerarius-digital" aria-hidden="true">#</a> Camerarius digital</h3>
+<h2 id="camerarius-digital" tabindex="-1"><a class="header-anchor" href="#camerarius-digital" aria-hidden="true">#</a> Camerarius digital</h2>
 <p><a href="http://www.camerarius.de/camerarius-digital-2021-2024/" target="_blank" rel="noopener noreferrer">Camerarius digital<OutboundLink/></a> (DFG, 2021-24)</p>
-<h3 id="narragonien-digital" tabindex="-1"><a class="header-anchor" href="#narragonien-digital" aria-hidden="true">#</a> Narragonien digital</h3>
+<h2 id="narragonien-digital" tabindex="-1"><a class="header-anchor" href="#narragonien-digital" aria-hidden="true">#</a> Narragonien digital</h2>
 <p><a href="http://www.narragonien-digital.de/" target="_blank" rel="noopener noreferrer">Narragonien digital<OutboundLink/></a> (BMBF, 2014-2019)</p>
 </template>

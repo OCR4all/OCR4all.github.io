@@ -24,6 +24,7 @@ description: Get to know and contact our team
 - Raphaëlle Jung (guides and illustrations)
 - Dr. Uwe Springmann (ideas and feedback)
 - Prof. Dr. Frank Puppe (Funding)
+- Isabel Müller (Website)
 
 ### Former project staff
 - Dennis Christ (OCR4all)

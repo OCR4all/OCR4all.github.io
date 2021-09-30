@@ -11,19 +11,32 @@ export const data = {
   "excerpt": "",
   "headers": [
     {
-      "level": 3,
+      "level": 2,
       "title": "OCR4all libraries",
       "slug": "ocr4all-libraries",
-      "children": []
+      "children": [
+        {
+          "level": 3,
+          "title": "Summary",
+          "slug": "summary",
+          "children": []
+        },
+        {
+          "level": 3,
+          "title": "Project-Group",
+          "slug": "project-group",
+          "children": []
+        }
+      ]
     },
     {
-      "level": 3,
+      "level": 2,
       "title": "Camerarius digital",
       "slug": "camerarius-digital",
       "children": []
     },
     {
-      "level": 3,
+      "level": 2,
       "title": "Narragonien digital",
       "slug": "narragonien-digital",
       "children": []

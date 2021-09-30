@@ -3,8 +3,8 @@ lang: en-US
 title: Projects
 description: summary and project-group
 ---
-### OCR4all libraries
-#### Summary
+## OCR4all libraries
+### Summary
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, 
 sed diam nonumy eirmod tempor invidunt ut labore et dolore magna 
 aliquyam erat, sed diam voluptua. At vero eos et accusam et justo 
@@ -16,7 +16,7 @@ aliquyam erat, sed diam voluptua. At vero eos et accusam et
 justo duo dolores et ea rebum. Stet clita kasd gubergren, 
 no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
-#### Project-Group
+### Project-Group
 | Dr. Anke Hertling | Prof. Dr. Marc Latoschik | Dr. Christian Reul |
 | :---: | :---: | :---: |
 | ![Bild1](../.vuepress/public/images/ocr4all-zpd.png) | ![Bild2](../.vuepress/public/images/ocr4all-zpd.png) | ![Bild3](../.vuepress/public/images/ocr4all-zpd.png) |
@@ -42,8 +42,8 @@ no sea takimata sanctus est Lorem ipsum dolor sit amet.
 | ![Bild1](../.vuepress/public/images/ocr4all-zpd.png) | ![Bild2](../.vuepress/public/images/ocr4all-zpd.png) | ![Bild3](../.vuepress/public/images/ocr4all-zpd.png) |
 | Aufgabe1 | Aufgabe2 | Aufgabe3 |
 
-### Camerarius digital
+## Camerarius digital
 [Camerarius digital](http://www.camerarius.de/camerarius-digital-2021-2024/) (DFG, 2021-24)
 
-### Narragonien digital
+## Narragonien digital
 [Narragonien digital](http://www.narragonien-digital.de/) (BMBF, 2014-2019)

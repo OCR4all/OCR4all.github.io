@@ -21,6 +21,7 @@
 <li>Raphaëlle Jung (Anleitungen und Illustrationen)</li>
 <li>Dr. Uwe Springmann (Ideen und Feedback)</li>
 <li>Prof. Dr. Frank Puppe (Funding)</li>
+<li>Isabel Müller (Website)</li>
 </ul>
 <h3 id="ehemalige-projektmitarbeiter" tabindex="-1"><a class="header-anchor" href="#ehemalige-projektmitarbeiter" aria-hidden="true">#</a> Ehemalige Projektmitarbeiter</h3>
 <ul>
