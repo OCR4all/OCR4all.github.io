@@ -6,17 +6,7 @@ export const data = {
   "frontmatter": {},
   "excerpt": "",
   "headers": [],
-  "filePathRelative": "guide.md",
-  "git": {
-    "updatedTime": 1631400061000,
-    "contributors": [
-      {
-        "name": "Sina Bock",
-        "email": "sina.bock@uni-wuerzburg.de",
-        "commits": 1
-      }
-    ]
-  }
+  "filePathRelative": "guide.md"
 }
 
 if (import.meta.webpackHot) {

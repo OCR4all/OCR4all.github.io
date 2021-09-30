@@ -6,17 +6,7 @@ export const data = {
   "frontmatter": {},
   "excerpt": "",
   "headers": [],
-  "filePathRelative": "en/guide.md",
-  "git": {
-    "updatedTime": 1632920227000,
-    "contributors": [
-      {
-        "name": "Isabel",
-        "email": "isabel.mueller1@stud-mail.uni-wuerzburg.de",
-        "commits": 1
-      }
-    ]
-  }
+  "filePathRelative": "en/guide.md"
 }
 
 if (import.meta.webpackHot) {

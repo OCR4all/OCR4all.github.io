@@ -10,17 +10,7 @@ export const data = {
   },
   "excerpt": "",
   "headers": [],
-  "filePathRelative": "en/software_download/software_download.md",
-  "git": {
-    "updatedTime": 1632918635000,
-    "contributors": [
-      {
-        "name": "Isabel",
-        "email": "isabel.mueller1@stud-mail.uni-wuerzburg.de",
-        "commits": 3
-      }
-    ]
-  }
+  "filePathRelative": "en/software_download/software_download.md"
 }
 
 if (import.meta.webpackHot) {

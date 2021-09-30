@@ -6,7 +6,8 @@ export const data = {
   "frontmatter": {
     "lang": "de-DE",
     "title": "Aktivitäten",
-    "description": "Informieren Sie sich über Veröffentlichungen und Medienberichte"
+    "description": "Informieren Sie sich über Veröffentlichungen und Medienberichte",
+    "footer": "Mail"
   },
   "excerpt": "",
   "headers": [
@@ -41,17 +42,7 @@ export const data = {
       "children": []
     }
   ],
-  "filePathRelative": "activities.md",
-  "git": {
-    "updatedTime": 1633022687000,
-    "contributors": [
-      {
-        "name": "Isabel",
-        "email": "isabel.mueller1@stud-mail.uni-wuerzburg.de",
-        "commits": 5
-      }
-    ]
-  }
+  "filePathRelative": "activities.md"
 }
 
 if (import.meta.webpackHot) {

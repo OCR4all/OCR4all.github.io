@@ -1,4 +1,7 @@
 export const themeData = {
+  "lastUpdated": false,
+  "contributors": false,
+  "footer": "haligali",
   "locales": {
     "/": {
       "selectLanguageName": "Deutsch",
@@ -61,9 +64,7 @@ export const themeData = {
   "sidebarDepth": 2,
   "editLink": true,
   "editLinkText": "Edit this page",
-  "lastUpdated": true,
   "lastUpdatedText": "Last Updated",
-  "contributors": true,
   "contributorsText": "Contributors",
   "notFound": [
     "There's nothing here.",

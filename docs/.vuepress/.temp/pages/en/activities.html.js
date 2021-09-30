@@ -41,17 +41,7 @@ export const data = {
       "children": []
     }
   ],
-  "filePathRelative": "en/activities.md",
-  "git": {
-    "updatedTime": 1633022687000,
-    "contributors": [
-      {
-        "name": "Isabel",
-        "email": "isabel.mueller1@stud-mail.uni-wuerzburg.de",
-        "commits": 3
-      }
-    ]
-  }
+  "filePathRelative": "en/activities.md"
 }
 
 if (import.meta.webpackHot) {

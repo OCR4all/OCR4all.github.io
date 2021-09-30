@@ -8,12 +8,14 @@ export const siteData = {
     "/": {
       "lang": "de-DE",
       "title": "OCR4all",
-      "description": "OCR4all Dokumentation"
+      "description": "OCR4all Dokumentation",
+      "footer": "Vom mir gemacht"
     },
     "/en/": {
       "lang": "en-US",
       "title": "OCR4all",
-      "description": "OCR4all documentation"
+      "description": "OCR4all documentation",
+      "footer": "Made by me"
     }
   }
 }

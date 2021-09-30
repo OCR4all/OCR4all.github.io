@@ -6,17 +6,7 @@ export const data = {
   "frontmatter": {},
   "excerpt": "",
   "headers": [],
-  "filePathRelative": "software_download/vm-download.md",
-  "git": {
-    "updatedTime": 1632920227000,
-    "contributors": [
-      {
-        "name": "Isabel",
-        "email": "isabel.mueller1@stud-mail.uni-wuerzburg.de",
-        "commits": 2
-      }
-    ]
-  }
+  "filePathRelative": "software_download/vm-download.md"
 }
 
 if (import.meta.webpackHot) {

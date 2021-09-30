@@ -14,6 +14,8 @@ module.exports = {
     },
   },
   themeConfig: {
+    lastUpdated: false,
+    contributors: false,
     locales: {
       '/': {
         selectLanguageName: 'Deutsch',
