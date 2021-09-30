@@ -2,18 +2,18 @@ export const data = {
   "key": "v-8daa1a0e",
   "path": "/",
   "title": "Home",
-  "lang": "en-US",
+  "lang": "de-DE",
   "frontmatter": {},
   "excerpt": "",
   "headers": [],
   "filePathRelative": "README.md",
   "git": {
-    "updatedTime": 1632345345000,
+    "updatedTime": 1633022687000,
     "contributors": [
       {
         "name": "Isabel",
         "email": "isabel.mueller1@stud-mail.uni-wuerzburg.de",
-        "commits": 10
+        "commits": 11
       },
       {
         "name": "Sina Bock",
