@@ -88,11 +88,6 @@ Humanities (Trier, January 2019).</li>
 <li>Regular OCR4all workshops for students and employees of the
 University of Würzburg.</li>
 </ul>
-<h3 id="projects" tabindex="-1"><a class="header-anchor" href="#projects" aria-hidden="true">#</a> Projects</h3>
-<ul>
-<li><a href="http://www.camerarius.de/camerarius-digital-2021-2024/" target="_blank" rel="noopener noreferrer">Camerarius digital<OutboundLink/></a> (DFG, 2021-24)</li>
-<li><a href="http://www.narragonien-digital.de/" target="_blank" rel="noopener noreferrer">Narragonien digital<OutboundLink/></a> (BMBF, 2014-2019)</li>
-</ul>
 <h3 id="application-and-diffusion-assortment" tabindex="-1"><a class="header-anchor" href="#application-and-diffusion-assortment" aria-hidden="true">#</a> Application and diffusion (assortment)</h3>
 <ul>
 <li>Wide range of usage within the university of Würzburg, e.g.:

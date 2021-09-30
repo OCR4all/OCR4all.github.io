@@ -89,11 +89,6 @@ Digital Humanities (Trier, Januar 2019).</li>
 <li>Regelmäßige OCR4all Workshop für Studierende und Mitarbeiter:innen
 der Universität Würzburg.</li>
 </ul>
-<h3 id="projekte" tabindex="-1"><a class="header-anchor" href="#projekte" aria-hidden="true">#</a> Projekte</h3>
-<ul>
-<li><a href="http://www.camerarius.de/camerarius-digital-2021-2024/" target="_blank" rel="noopener noreferrer">Camerarius digital<OutboundLink/></a> (DFG, 2021-24)</li>
-<li><a href="http://www.narragonien-digital.de/" target="_blank" rel="noopener noreferrer">Narragonien digital<OutboundLink/></a> (BMBF, 2014-2019)</li>
-</ul>
 <h3 id="anwendung-und-verbreitung-auswahl" tabindex="-1"><a class="header-anchor" href="#anwendung-und-verbreitung-auswahl" aria-hidden="true">#</a> Anwendung und Verbreitung (Auswahl)</h3>
 <ul>
 <li>Breite Anwendung innerhalb der Universität Würzburg, u. a.:

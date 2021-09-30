@@ -8,8 +8,14 @@ export const data = {
   "headers": [],
   "filePathRelative": "en/guide.md",
   "git": {
-    "updatedTime": null,
-    "contributors": []
+    "updatedTime": 1632920227000,
+    "contributors": [
+      {
+        "name": "Isabel",
+        "email": "isabel.mueller1@stud-mail.uni-wuerzburg.de",
+        "commits": 1
+      }
+    ]
   }
 }
 

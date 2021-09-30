@@ -8,12 +8,12 @@ export const data = {
   "headers": [],
   "filePathRelative": "en/software_download/vm-download.md",
   "git": {
-    "updatedTime": 1632345345000,
+    "updatedTime": 1632920227000,
     "contributors": [
       {
         "name": "Isabel",
         "email": "isabel.mueller1@stud-mail.uni-wuerzburg.de",
-        "commits": 1
+        "commits": 2
       }
     ]
   }

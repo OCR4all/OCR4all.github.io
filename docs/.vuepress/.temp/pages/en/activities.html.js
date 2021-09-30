@@ -36,12 +36,6 @@ export const data = {
     },
     {
       "level": 3,
-      "title": "Projects",
-      "slug": "projects",
-      "children": []
-    },
-    {
-      "level": 3,
       "title": "Application and diffusion (assortment)",
       "slug": "application-and-diffusion-assortment",
       "children": []

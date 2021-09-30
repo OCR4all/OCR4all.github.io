@@ -4,5 +4,5 @@
 <p><RouterLink to="/software_download/software_download.html">Software und Download</RouterLink></p>
 <p><RouterLink to="/activities.html">Aktivitäten</RouterLink></p>
 <p><RouterLink to="/team.html">Team</RouterLink></p>
-<p><RouterLink to="/libraries.html">Libraries</RouterLink></p>
+<p><RouterLink to="/projects.html">Projekte</RouterLink></p>
 </template>

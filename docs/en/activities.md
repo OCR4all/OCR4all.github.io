@@ -88,10 +88,6 @@ description: Find out about publications and media coverage
 		Humanities (Trier, January 2019).
 - Regular OCR4all workshops for students and employees of the
 		University of Würzburg.
-  
-### Projects
-- [Camerarius digital](http://www.camerarius.de/camerarius-digital-2021-2024/) (DFG, 2021-24)
-- [Narragonien digital](http://www.narragonien-digital.de/) (BMBF, 2014-2019)
 
 ### Application and diffusion (assortment)
 

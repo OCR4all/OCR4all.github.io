@@ -89,10 +89,6 @@ description: Informieren Sie sich über Veröffentlichungen und Medienberichte
 		Digital Humanities (Trier, Januar 2019).
 - Regelmäßige OCR4all Workshop für Studierende und Mitarbeiter:innen
 		der Universität Würzburg.
-  
-### Projekte
-- [Camerarius digital](http://www.camerarius.de/camerarius-digital-2021-2024/) (DFG, 2021-24)
-- [Narragonien digital](http://www.narragonien-digital.de/) (BMBF, 2014-2019)
 
 ### Anwendung und Verbreitung (Auswahl)
 - Breite Anwendung innerhalb der Universität Würzburg, u. a.:

@@ -36,12 +36,6 @@ export const data = {
     },
     {
       "level": 3,
-      "title": "Projekte",
-      "slug": "projekte",
-      "children": []
-    },
-    {
-      "level": 3,
       "title": "Anwendung und Verbreitung (Auswahl)",
       "slug": "anwendung-und-verbreitung-auswahl",
       "children": []

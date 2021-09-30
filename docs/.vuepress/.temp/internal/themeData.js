@@ -20,8 +20,8 @@ export const themeData = {
           "link": "/team.md/"
         },
         {
-          "text": "Libraries",
-          "link": "/libraries.md/"
+          "text": "Projekte",
+          "link": "/projects.md/"
         }
       ]
     },
@@ -30,23 +30,23 @@ export const themeData = {
       "navbar": [
         {
           "text": "About",
-          "link": "/about.md/"
+          "link": "/en/about.md/"
         },
         {
           "text": "Software and Download",
-          "link": "/software_download/software_download.md/"
+          "link": "/en/software_download/software_download.md/"
         },
         {
           "text": "Activities",
-          "link": "/activities.md/"
+          "link": "/en/activities.md/"
         },
         {
           "text": "Team",
-          "link": "/team.md/"
+          "link": "/en/team.md/"
         },
         {
-          "text": "Libraries",
-          "link": "/libraries.md/"
+          "text": "Projects",
+          "link": "/en/projects.md/"
         }
       ]
     }
