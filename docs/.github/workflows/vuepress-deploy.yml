@@ -2,10 +2,14 @@ name: Build and Deploy
 on:
   # trigger deployment on every push to main branch
   push:
-    branches: main
+    branches: [main]
+  # trigger deployment manually
+  workflow_dispatch:
+
 jobs:
   docs:
-    runs-on: ubuntu-18.04 # ubuntu-latest is now 20.04 and doesn't seem to work
+    runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v2
         with:
@@ -23,13 +27,33 @@ jobs:
         uses: actions/cache@v2
         id: yarn-cache
         with:
-          repo-token: ${{ secrets.DEPLOY }}
           path: |
             **/node_modules
           key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
           restore-keys: |
             ${{ runner.os }}-yarn-
 
+      # install dependencies if the cache did not hit
+      - name: Install dependencies
+        if: steps.yarn-cache.outputs.cache-hit != 'true'
+        run: yarn --frozen-lockfile
+
+      # run build script
+      - name: Build VuePress site
+        run: yarn docs:build
+
+      # please check out the docs of the workflow for more details
+      # @see https://github.com/crazy-max/ghaction-github-pages
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v2
+        with:
+          # deploy to gh-pages branch
+          target_branch: gh-pages
+          # deploy the default output dir of VuePress
+          build_dir: docs/.vuepress/dist
+        env:
+          # @see https://docs.github.com/en/actions/reference/authentication-in-a-workflow#about-the-github_token-secret
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       # install dependencies if the cache did not hit
       - name: Install dependencies
