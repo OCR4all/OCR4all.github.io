@@ -1,7 +1,6 @@
 export const themeData = {
   "lastUpdated": false,
   "contributors": false,
-  "footer": "haligali",
   "locales": {
     "/": {
       "selectLanguageName": "Deutsch",
@@ -55,6 +54,7 @@ export const themeData = {
     }
   },
   "logo": "http://ocr4all.org/images/logo.jpg",
+  "logoDark": "http://ocr4all.org/images/ocr4all-zpd.png",
   "navbar": [],
   "darkMode": true,
   "repo": null,

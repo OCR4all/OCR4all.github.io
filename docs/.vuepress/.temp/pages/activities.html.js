@@ -6,8 +6,7 @@ export const data = {
   "frontmatter": {
     "lang": "de-DE",
     "title": "Aktivitäten",
-    "description": "Informieren Sie sich über Veröffentlichungen und Medienberichte",
-    "footer": "Mail"
+    "description": "Informieren Sie sich über Veröffentlichungen und Medienberichte"
   },
   "excerpt": "",
   "headers": [
