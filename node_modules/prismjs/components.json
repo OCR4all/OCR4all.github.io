@@ -160,6 +160,16 @@
 			"title": "AutoIt",
 			"owner": "Golmote"
 		},
+		"avisynth": {
+			"title": "AviSynth",
+			"alias": "avs",
+			"owner": "Zinfidel"
+		},
+		"avro-idl": {
+			"title":"Avro IDL",
+			"alias": "avdl",
+			"owner": "RunDevelopment"
+		},
 		"bash": {
 			"title": "Bash",
 			"alias": "shell",
@@ -183,6 +193,10 @@
 				"shortcode": "Shortcode"
 			},
 			"owner": "RunDevelopment"
+		},
+		"bicep": {
+			"title": "Bicep",
+			"owner": "johnnyreilly"
 		},
 		"birb": {
 			"title": "Birb",
@@ -437,6 +451,10 @@
 			"require": "clike",
 			"owner": "LiarOnce"
 		},
+		"gap": {
+			"title": "GAP (CAS)",
+			"owner": "RunDevelopment"
+		},
 		"gcode": {
 			"title": "G-code",
 			"owner": "RunDevelopment"
@@ -461,6 +479,11 @@
 			"title": "GLSL",
 			"require": "c",
 			"owner": "Golmote"
+		},
+		"gn": {
+			"title": "GN",
+			"alias": "gni",
+			"owner": "RunDevelopment"
 		},
 		"go": {
 			"title": "Go",
@@ -517,6 +540,10 @@
 			"title": "HLSL",
 			"require": "c",
 			"owner": "RunDevelopment"
+		},
+		"hoon": {
+			"title": "Hoon",
+			"owner": "matildepark"
 		},
 		"http": {
 			"title": "HTTP",
@@ -704,6 +731,10 @@
 			"alias": "kum",
 			"owner": "edukisto"
 		},
+		"kusto": {
+			"title": "Kusto",
+			"owner": "RunDevelopment"
+		},
 		"latex": {
 			"title": "LaTeX",
 			"alias": ["tex", "context"],
@@ -750,6 +781,7 @@
 		},
 		"log": {
 			"title": "Log file",
+			"optional": "javastacktrace",
 			"owner": "RunDevelopment"
 		},
 		"lolcode": {
@@ -759,6 +791,10 @@
 		"lua": {
 			"title": "Lua",
 			"owner": "Golmote"
+		},
+		"magma": {
+			"title": "Magma (CAS)",
+			"owner": "RunDevelopment"
 		},
 		"makefile": {
 			"title": "Makefile",
@@ -780,9 +816,17 @@
 			"title": "MATLAB",
 			"owner": "Golmote"
 		},
+		"maxscript": {
+			"title": "MAXScript",
+			"owner": "RunDevelopment"
+		},
 		"mel": {
 			"title": "MEL",
 			"owner": "Golmote"
+		},
+		"mermaid": {
+			"title": "Mermaid",
+			"owner": "RunDevelopment"
 		},
 		"mizar": {
 			"title": "Mizar",
@@ -1046,6 +1090,18 @@
 			"alias": "rkt",
 			"owner": "RunDevelopment"
 		},
+		"cshtml": {
+			"title": "Razor C#",
+			"alias": "razor",
+			"require": ["markup", "csharp"],
+			"optional":[
+				"css",
+				"css-extras",
+				"javascript",
+				"js-extras"
+			],
+			"owner": "RunDevelopment"
+		},
 		"jsx": {
 			"title": "React JSX",
 			"require": ["markup", "javascript"],
@@ -1113,6 +1169,7 @@
 		"sass": {
 			"title": "Sass (Sass)",
 			"require": "css",
+			"optional": "css-extras",
 			"owner": "Golmote"
 		},
 		"scss": {
@@ -1211,8 +1268,11 @@
 		},
 		"swift": {
 			"title": "Swift",
-			"require": "clike",
 			"owner": "chrischares"
+		},
+		"systemd": {
+			"title": "Systemd configuration file",
+			"owner": "RunDevelopment"
 		},
 		"t4-templating": {
 			"title": "T4 templating",
@@ -1357,6 +1417,10 @@
 			},
 			"owner": "msollami"
 		},
+		"wren": {
+			"title": "Wren",
+			"owner": "clsource"
+		},
 		"xeora": {
 			"title": "Xeora",
 			"require": "markup",
@@ -1451,7 +1515,7 @@
 		},
 		"highlight-keywords": {
 			"title": "Highlight Keywords",
-			"description": "Adds special CSS classes for each keyword matched in the code. For example, the keyword <code>if</code> will have the class <code>keyword-if</code> as well. You can have fine grained control over the appearance of each keyword by providing your own CSS rules.",
+			"description": "Adds special CSS classes for each keyword for fine-grained highlighting.",
 			"owner": "vkbansal",
 			"noCSS": true
 		},

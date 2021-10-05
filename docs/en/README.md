@@ -1,3 +1,10 @@
+---
+home: true
+lang: en-US
+title: Homepage
+description: Welcome to OCR4all
+footer: © ZPD University of Würzburg - Germany 2017-2021 | All rights reserved
+---
 # Home
 
 ![I love ZPD](../.vuepress/public/images/ocr4all-zpd.png)

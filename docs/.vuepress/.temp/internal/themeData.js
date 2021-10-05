@@ -54,7 +54,7 @@ export const themeData = {
     }
   },
   "logo": "http://ocr4all.org/images/logo.jpg",
-  "logoDark": "http://ocr4all.org/images/ocr4all-zpd.png",
+  "logoDark": "http://ocr4all.org/images/logo.jpg",
   "navbar": [],
   "darkMode": true,
   "repo": null,

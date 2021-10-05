@@ -1,9 +1,15 @@
 export const data = {
   "key": "v-8daa1a0e",
   "path": "/",
-  "title": "Home",
+  "title": "Startseite",
   "lang": "de-DE",
-  "frontmatter": {},
+  "frontmatter": {
+    "home": true,
+    "lang": "de-DE",
+    "title": "Startseite",
+    "description": "Herzlich Willkommen bei OCR4all",
+    "footer": "© ZPD Universität Würzburg - Deutschland 2017-2021 | Alle Rechte vorbehalten"
+  },
   "excerpt": "",
   "headers": [],
   "filePathRelative": "README.md"
