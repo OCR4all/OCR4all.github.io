@@ -39,6 +39,6 @@ module.exports = {
       },
     },
     logo: 'http://ocr4all.org/images/logo.jpg',
-    logoDark: 'http://ocr4all.org/images/logo.jpg',
+    logoDark: '/public/images/logoDark.png',
   },
 }
