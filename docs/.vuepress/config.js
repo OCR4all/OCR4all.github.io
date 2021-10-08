@@ -41,6 +41,6 @@ module.exports = {
       },
     },
     logo: 'http://ocr4all.org/images/logo.jpg',
-    logoDark: '/correction.png',
+    logoDark: 'https://raw.githubusercontent.com/SinaB0ck/OCR4all/main/docs/.vuepress/public/images/logoDark.png',
   },
 }

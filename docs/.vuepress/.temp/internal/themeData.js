@@ -62,7 +62,7 @@ export const themeData = {
     }
   },
   "logo": "http://ocr4all.org/images/logo.jpg",
-  "logoDark": "/correction.png",
+  "logoDark": "https://raw.githubusercontent.com/SinaB0ck/OCR4all/main/docs/.vuepress/public/images/logoDark.png",
   "navbar": [],
   "darkMode": true,
   "repo": null,
