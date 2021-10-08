@@ -62,7 +62,7 @@ export const themeData = {
     }
   },
   "logo": "http://ocr4all.org/images/logo.jpg",
-  "logoDark": "../.vuepress/public/images/logoDark.png",
+  "logoDark": "/correction.png",
   "navbar": [],
   "darkMode": true,
   "repo": null,
