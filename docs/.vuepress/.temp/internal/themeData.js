@@ -24,6 +24,10 @@ export const themeData = {
         {
           "text": "Projekte",
           "link": "/projects.md/"
+        },
+        {
+          "text": "Info",
+          "link": "/info_contact.md/"
         }
       ]
     },
@@ -49,12 +53,16 @@ export const themeData = {
         {
           "text": "Projects",
           "link": "/en/projects.md/"
+        },
+        {
+          "text": "Info",
+          "link": "/en/info_contact.md/"
         }
       ]
     }
   },
   "logo": "http://ocr4all.org/images/logo.jpg",
-  "logoDark": "http://ocr4all.org/images/logo.jpg",
+  "logoDark": "../.vuepress/public/images/logoDark.png",
   "navbar": [],
   "darkMode": true,
   "repo": null,

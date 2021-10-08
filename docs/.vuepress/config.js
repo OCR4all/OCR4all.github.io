@@ -25,6 +25,7 @@ module.exports = {
       { text: 'Aktivitäten', link: '/activities.md/' },
       { text: 'Team', link: '/team.md/' },
       { text: 'Projekte', link: '/projects.md/'},
+      { text: 'Info', link: '/info_contact.md/'},
     ],
       },
       '/en/': {
@@ -35,10 +36,11 @@ module.exports = {
       { text: 'Activities', link: '/en/activities.md/' },
       { text: 'Team', link: '/en/team.md/' },
       { text: 'Projects', link: '/en/projects.md/'},
+      { text: 'Info', link: '/en/info_contact.md/'}
     ],
       },
     },
     logo: 'http://ocr4all.org/images/logo.jpg',
-    logoDark: '/public/images/logoDark.png',
+    logoDark: '../.vuepress/public/images/logoDark.png',
   },
 }
