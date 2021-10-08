@@ -95,27 +95,6 @@ no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
 </tr>
 </tbody>
 </table>
-<table>
-<thead>
-<tr>
-<th style="text-align:center">Name1</th>
-<th style="text-align:center">Name2</th>
-<th style="text-align:center">Name3</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:center"><img src="@source/.vuepress/public/images/ocr4all-zpd.png" alt="Bild1"></td>
-<td style="text-align:center"><img src="@source/.vuepress/public/images/ocr4all-zpd.png" alt="Bild2"></td>
-<td style="text-align:center"><img src="@source/.vuepress/public/images/ocr4all-zpd.png" alt="Bild3"></td>
-</tr>
-<tr>
-<td style="text-align:center">Aufgabe1</td>
-<td style="text-align:center">Aufgabe2</td>
-<td style="text-align:center">Aufgabe3</td>
-</tr>
-</tbody>
-</table>
 <h2 id="camerarius-digital" tabindex="-1"><a class="header-anchor" href="#camerarius-digital" aria-hidden="true">#</a> Camerarius digital</h2>
 <p><a href="http://www.camerarius.de/camerarius-digital-2021-2024/" target="_blank" rel="noopener noreferrer">Camerarius digital<OutboundLink/></a> (DFG, 2021-24)</p>
 <h2 id="narragonien-digital" tabindex="-1"><a class="header-anchor" href="#narragonien-digital" aria-hidden="true">#</a> Narragonien digital</h2>

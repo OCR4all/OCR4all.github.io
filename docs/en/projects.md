@@ -37,11 +37,6 @@ no sea takimata sanctus est Lorem ipsum dolor sit amet.
 | ![Bild1](../.vuepress/public/images/ocr4all-zpd.png) | ![Bild2](../.vuepress/public/images/ocr4all-zpd.png) | ![Bild3](../.vuepress/public/images/ocr4all-zpd.png) |
 | PM ZPD | Staff ZPD | |
 
-| Name1 | Name2 | Name3 |
-| :---: | :---: | :---: |
-| ![Bild1](../.vuepress/public/images/ocr4all-zpd.png) | ![Bild2](../.vuepress/public/images/ocr4all-zpd.png) | ![Bild3](../.vuepress/public/images/ocr4all-zpd.png) |
-| Aufgabe1 | Aufgabe2 | Aufgabe3 |
-
 ## Camerarius digital
 [Camerarius digital](http://www.camerarius.de/camerarius-digital-2021-2024/) (DFG, 2021-24)
 
