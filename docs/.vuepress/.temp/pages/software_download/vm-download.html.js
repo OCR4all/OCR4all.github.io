@@ -2,7 +2,7 @@ export const data = {
   "key": "v-f25310fa",
   "path": "/software_download/vm-download.html",
   "title": "",
-  "lang": "de-DE",
+  "lang": "en-US",
   "frontmatter": {},
   "excerpt": "",
   "headers": [],
