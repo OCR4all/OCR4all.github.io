@@ -13,5 +13,5 @@ jobs:
         ACCESS_TOKEN: ${{ secrets.DEPLOY }}
         TARGET_REPO: SinaB0ck/OCR4all/
         TARGET_BRANCH: gh-pages
-        BUILD_SCRIPT: yarn && yarn build
+        BUILD_SCRIPT: yarn && yarn docs:build
         BUILD_DIR: docs/.vuepress/dist/
