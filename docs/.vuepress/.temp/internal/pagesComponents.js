@@ -7,12 +7,12 @@ export const pagesComponents = {
   "v-87e9e61a": defineAsyncComponent(() => import(/* webpackChunkName: "v-87e9e61a" */"C:/Users/sib27sm/PycharmProjects/OCR4all/docs/.vuepress/.temp/pages/activities.html.vue")),
   // path: /guide.html
   "v-5d7259d4": defineAsyncComponent(() => import(/* webpackChunkName: "v-5d7259d4" */"C:/Users/sib27sm/PycharmProjects/OCR4all/docs/.vuepress/.temp/pages/guide.html.vue")),
+  // path: /
+  "v-8daa1a0e": defineAsyncComponent(() => import(/* webpackChunkName: "v-8daa1a0e" */"C:/Users/sib27sm/PycharmProjects/OCR4all/docs/.vuepress/.temp/pages/index.html.vue")),
   // path: /info_contact.html
   "v-24bf7ed1": defineAsyncComponent(() => import(/* webpackChunkName: "v-24bf7ed1" */"C:/Users/sib27sm/PycharmProjects/OCR4all/docs/.vuepress/.temp/pages/info_contact.html.vue")),
   // path: /projects.html
   "v-3ac5ce46": defineAsyncComponent(() => import(/* webpackChunkName: "v-3ac5ce46" */"C:/Users/sib27sm/PycharmProjects/OCR4all/docs/.vuepress/.temp/pages/projects.html.vue")),
-  // path: /
-  "v-8daa1a0e": defineAsyncComponent(() => import(/* webpackChunkName: "v-8daa1a0e" */"C:/Users/sib27sm/PycharmProjects/OCR4all/docs/.vuepress/.temp/pages/index.html.vue")),
   // path: /team.html
   "v-1d79747a": defineAsyncComponent(() => import(/* webpackChunkName: "v-1d79747a" */"C:/Users/sib27sm/PycharmProjects/OCR4all/docs/.vuepress/.temp/pages/team.html.vue")),
   // path: /en/about.html

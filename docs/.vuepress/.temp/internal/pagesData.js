@@ -5,12 +5,12 @@ export const pagesData = {
   "v-87e9e61a": () => import(/* webpackChunkName: "v-87e9e61a" */"C:/Users/sib27sm/PycharmProjects/OCR4all/docs/.vuepress/.temp/pages/activities.html.js").then(({ data }) => data),
   // path: /guide.html
   "v-5d7259d4": () => import(/* webpackChunkName: "v-5d7259d4" */"C:/Users/sib27sm/PycharmProjects/OCR4all/docs/.vuepress/.temp/pages/guide.html.js").then(({ data }) => data),
+  // path: /
+  "v-8daa1a0e": () => import(/* webpackChunkName: "v-8daa1a0e" */"C:/Users/sib27sm/PycharmProjects/OCR4all/docs/.vuepress/.temp/pages/index.html.js").then(({ data }) => data),
   // path: /info_contact.html
   "v-24bf7ed1": () => import(/* webpackChunkName: "v-24bf7ed1" */"C:/Users/sib27sm/PycharmProjects/OCR4all/docs/.vuepress/.temp/pages/info_contact.html.js").then(({ data }) => data),
   // path: /projects.html
   "v-3ac5ce46": () => import(/* webpackChunkName: "v-3ac5ce46" */"C:/Users/sib27sm/PycharmProjects/OCR4all/docs/.vuepress/.temp/pages/projects.html.js").then(({ data }) => data),
-  // path: /
-  "v-8daa1a0e": () => import(/* webpackChunkName: "v-8daa1a0e" */"C:/Users/sib27sm/PycharmProjects/OCR4all/docs/.vuepress/.temp/pages/index.html.js").then(({ data }) => data),
   // path: /team.html
   "v-1d79747a": () => import(/* webpackChunkName: "v-1d79747a" */"C:/Users/sib27sm/PycharmProjects/OCR4all/docs/.vuepress/.temp/pages/team.html.js").then(({ data }) => data),
   // path: /en/about.html
