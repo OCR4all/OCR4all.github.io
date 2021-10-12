@@ -35,12 +35,12 @@ module.exports = {
         selectLanguageName: 'English',
         navbar: [
             { text: 'Home', link: '/' },
-      { text: 'About', link: 'en/about.md/'},
-      { text: 'Software and Download', link: 'en/software_download/software_download.md/' },
-      { text: 'Activities', link: 'en/activities.md/' },
-      { text: 'Team', link: 'en/team.md/' },
-      { text: 'Projects', link: 'en/projects.md/'},
-      { text: 'Info', link: 'en/info_contact.md/'}
+      { text: 'About', link: '/about.md/'},
+      { text: 'Software and Download', link: '/software_download/software_download.md/' },
+      { text: 'Activities', link: '/activities.md/' },
+      { text: 'Team', link: '/team.md/' },
+      { text: 'Projects', link: '/projects.md/'},
+      { text: 'Info', link: '/info_contact.md/'}
     ],
       },
     },
