@@ -6,27 +6,29 @@ module.exports = {
       lang: 'de-DE',
       title: 'OCR4all',
       description: 'OCR4all Dokumentation',
-      base: /OCR4all/,
+      base: '/OCR4all/',
     },
     '/en/': {
       lang: 'en-US',
       title: 'OCR4all',
       description: 'OCR4all documentation',
+      base: '/OCR4all/en/',
     },
   },
   themeConfig: {
     lastUpdated: false,
     contributors: false,
+    base: '/OCR4all/',
     locales: {
       '/': {
         selectLanguageName: 'Deutsch',
         navbar: [
-      { text: 'Über OCR4all', link: 'about.md/' },
-      { text: 'Software und Download', link: 'software_download/software_download.md/' },
-      { text: 'Aktivitäten', link: 'activities.md/' },
-      { text: 'Team', link: 'team.md/' },
-      { text: 'Projekte', link: 'projects.md/'},
-      { text: 'Info', link: 'info_contact.md/'},
+      { text: 'Über OCR4all', link: '/about.md/' },
+      { text: 'Software und Download', link: '/software_download/software_download.md/' },
+      { text: 'Aktivitäten', link: '/activities.md/' },
+      { text: 'Team', link: '/team.md/' },
+      { text: 'Projekte', link: '/projects.md/'},
+      { text: 'Info', link: '/info_contact.md/'},
     ],
       },
       '/': {
