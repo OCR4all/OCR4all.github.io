@@ -15,7 +15,7 @@ module.exports = {
     },
   },
   themeConfig: {
-    base: '/OCR4all/',
+    repo: 'SinaB0ck/OCR4all',
     lastUpdated: false,
     contributors: false,
     locales: {
