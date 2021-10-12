@@ -15,13 +15,14 @@ module.exports = {
     },
   },
   themeConfig: {
+    base: '/OCR4all/',
     lastUpdated: false,
     contributors: false,
     locales: {
       '/': {
         selectLanguageName: 'Deutsch',
         navbar: [
-      { text: 'Über OCR4all', link: 'about.md/' },
+      { text: 'Über OCR4all', link: '/about.md/' },
       { text: 'Software und Download', link: '/software_download/software_download.md/' },
       { text: 'Aktivitäten', link: '/activities.md/' },
       { text: 'Team', link: '/team.md/' },
@@ -29,7 +30,7 @@ module.exports = {
       { text: 'Info', link: '/info_contact.md/'},
     ],
       },
-      '/': {
+      '/en/': {
         selectLanguageName: 'English',
         navbar: [
       { text: 'About', link: 'en/about.md/'},
