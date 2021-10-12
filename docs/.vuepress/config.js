@@ -7,7 +7,7 @@ module.exports = {
       title: 'OCR4all',
       description: 'OCR4all Dokumentation',
     },
-    '/en/': {
+    '/OCR4all/en/': {
       lang: 'en-US',
       title: 'OCR4all',
       description: 'OCR4all documentation',
@@ -28,7 +28,7 @@ module.exports = {
       { text: 'Info', link: '/info_contact.md/'},
     ],
       },
-      '/en/': {
+      '/OCR4all/': {
         selectLanguageName: 'English',
         navbar: [
       { text: 'About', link: '/en/about.md/'},
