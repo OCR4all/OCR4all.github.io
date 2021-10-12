@@ -20,23 +20,23 @@ module.exports = {
       '/OCR4all/': {
         selectLanguageName: 'Deutsch',
         navbar: [
-      { text: 'Über OCR4all', link: '/about.md/' },
-      { text: 'Software und Download', link: '/software_download/software_download.md/' },
-      { text: 'Aktivitäten', link: '/activities.md/' },
-      { text: 'Team', link: '/team.md/' },
-      { text: 'Projekte', link: '/projects.md/'},
-      { text: 'Info', link: '/info_contact.md/'},
+      { text: 'Über OCR4all', link: 'about.md/' },
+      { text: 'Software und Download', link: 'software_download/software_download.md/' },
+      { text: 'Aktivitäten', link: 'activities.md/' },
+      { text: 'Team', link: 'team.md/' },
+      { text: 'Projekte', link: 'projects.md/'},
+      { text: 'Info', link: 'info_contact.md/'},
     ],
       },
       '/OCR4all/': {
         selectLanguageName: 'English',
         navbar: [
-      { text: 'About', link: '/en/about.md/'},
-      { text: 'Software and Download', link: '/en/software_download/software_download.md/' },
-      { text: 'Activities', link: '/en/activities.md/' },
-      { text: 'Team', link: '/en/team.md/' },
-      { text: 'Projects', link: '/en/projects.md/'},
-      { text: 'Info', link: '/en/info_contact.md/'}
+      { text: 'About', link: 'en/about.md/'},
+      { text: 'Software and Download', link: 'en/software_download/software_download.md/' },
+      { text: 'Activities', link: 'en/activities.md/' },
+      { text: 'Team', link: 'en/team.md/' },
+      { text: 'Projects', link: 'en/projects.md/'},
+      { text: 'Info', link: 'en/info_contact.md/'}
     ],
       },
     },
