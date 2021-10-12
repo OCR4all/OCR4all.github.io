@@ -22,6 +22,7 @@ module.exports = {
       '/': {
         selectLanguageName: 'Deutsch',
         navbar: [
+            { text: 'Home', link: '/' },
       { text: 'Über OCR4all', link: '/about.md/' },
       { text: 'Software und Download', link: '/software_download/software_download.md/' },
       { text: 'Aktivitäten', link: '/activities.md/' },
@@ -33,6 +34,7 @@ module.exports = {
       '/en/': {
         selectLanguageName: 'English',
         navbar: [
+            { text: 'Home', link: '/' },
       { text: 'About', link: 'en/about.md/'},
       { text: 'Software and Download', link: 'en/software_download/software_download.md/' },
       { text: 'Activities', link: 'en/activities.md/' },
