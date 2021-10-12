@@ -21,7 +21,7 @@ module.exports = {
       '/': {
         selectLanguageName: 'Deutsch',
         navbar: [
-      { text: 'Über OCR4all', link: '/about.md/' },
+      { text: 'Über OCR4all', link: 'about.md/' },
       { text: 'Software und Download', link: '/software_download/software_download.md/' },
       { text: 'Aktivitäten', link: '/activities.md/' },
       { text: 'Team', link: '/team.md/' },
