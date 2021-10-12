@@ -2,7 +2,7 @@ module.exports = {
   locales: {
     // The key is the path for the locale to be nested under.
     // As a special case, the default locale can use '/' as its path.
-    base: '/OCR4all/': {
+    'base': '/OCR4all/': {
       lang: 'de-DE',
       title: 'OCR4all',
       description: 'OCR4all Dokumentation',
@@ -17,7 +17,7 @@ module.exports = {
     lastUpdated: false,
     contributors: false,
     locales: {
-      '/': {
+      'base': '/OCR4all/': {
         selectLanguageName: 'Deutsch',
         navbar: [
       { text: 'Über OCR4all', link: '/about.md/' },
