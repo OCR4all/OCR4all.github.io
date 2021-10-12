@@ -12,7 +12,7 @@ export const data = {
   },
   "excerpt": "",
   "headers": [],
-  "filePathRelative": "README.md"
+  "filePathRelative": "index.md"
 }
 
 if (import.meta.webpackHot) {
