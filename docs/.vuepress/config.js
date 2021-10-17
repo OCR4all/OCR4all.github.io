@@ -42,7 +42,7 @@ module.exports = {
     ],
       },
     },
-    logo: 'https://ocr4all.org/images/logo.jpg',
+    logo: 'https://raw.githubusercontent.com/SinaB0ck/OCR4all/main/docs/.vuepress/public/images/logoLight.jpg',
     logoDark: 'https://raw.githubusercontent.com/SinaB0ck/OCR4all/main/docs/.vuepress/public/images/logoDark.png',
   },
 }
