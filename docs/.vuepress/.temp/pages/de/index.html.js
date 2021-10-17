@@ -6,7 +6,7 @@ export const data = {
   "frontmatter": {},
   "excerpt": "",
   "headers": [],
-  "filePathRelative": "de/README.md",
+  "filePathRelative": "de/index.md",
   "git": {
     "updatedTime": null,
     "contributors": []
