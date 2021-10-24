@@ -27,7 +27,7 @@ module.exports = {
       { text: 'Aktivitäten', link: '/activities.md/' },
       { text: 'Team', link: '/team.md/' },
       { text: 'Projekte', link: '/projects.md/'},
-      { text: 'Info', link: '/info_contact.md/'},
+      { text: 'Weiterführende Informationen', link: '/info_contact.md/'},
     ],
       },
       '/en/': {
@@ -38,7 +38,7 @@ module.exports = {
       { text: 'Activities', link: '/en/activities.md/' },
       { text: 'Team', link: '/en/team.md/' },
       { text: 'Projects', link: '/en/projects.md/'},
-      { text: 'Info', link: '/en/info_contact.md/'}
+      { text: 'Further Information', link: '/en/info_contact.md/'}
     ],
       },
     },
