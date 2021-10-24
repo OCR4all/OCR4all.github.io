@@ -16,6 +16,7 @@ aliquyam erat, sed diam voluptua. At vero eos et accusam et
 justo duo dolores et ea rebum. Stet clita kasd gubergren, 
 no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
+<!---
 ### Projektgruppe
 | Dr. Anke Hertling | Prof. Dr. Marc Latoschik | Dr. Christian Reul |
 | :---: | :---: | :---: |
@@ -36,6 +37,7 @@ no sea takimata sanctus est Lorem ipsum dolor sit amet.
 | :---: | :---: | :---: |
 | ![Bild1](./.vuepress/public/images/ocr4all-zpd.png) | ![Bild2](./.vuepress/public/images/ocr4all-zpd.png) | ![Bild3](./.vuepress/public/images/ocr4all-zpd.png) |
 | PM ZPD | Mitarbeiter ZPD | |
+--->
 
 ## Camerarius digital
 [Camerarius digital](http://www.camerarius.de/camerarius-digital-2021-2024/) (DFG, 2021-24)
