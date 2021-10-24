@@ -31,6 +31,6 @@ Die Installation über VirtualBox wird besonders nicht-technischen Nutzern dring
 - [Github](https://github.com/OCR4all/OCR4all#ocr4all)
 :::
   
-::: tip Benutzerhandbuch
+## Benutzerhandbuch
 - [Benutzerhandbuch (Deutsch)](https://raw.githubusercontent.com/OCR4all/getting_started/master/ocr4all-user_guide_ger.pdf)
-:::
+

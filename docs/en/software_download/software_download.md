@@ -30,6 +30,6 @@ An installation via VirtualBox is strongly recommended for non-technical users.
 - [Github](https://github.com/OCR4all/OCR4all#ocr4all)
 :::
 
-::: tip User manual
+## User manual
 - [User manual (English)](https://raw.githubusercontent.com/OCR4all/getting_started/master/ocr4all-user_guide_eng.pdf)
-:::
+
