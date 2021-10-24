@@ -16,3 +16,5 @@ footer: © ZPD University of Würzburg - Germany 2017-2021 | All rights reserved
 [Team](team.md)
 
 [Projects](projects.md)
+
+[Further Information](info_contact.md)
