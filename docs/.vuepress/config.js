@@ -31,8 +31,8 @@ module.exports = {
     ],
         sidebar: {
             '/software_download/': [
-            '/software_download.md/',
-            '/vm-download.md/'
+            'Software und Download.md',
+            'VirtualBox'
             ],
         },
       },
