@@ -29,12 +29,6 @@ module.exports = {
       { text: 'Projekte', link: '/projects.md/'},
       { text: 'Weiterführende Informationen', link: '/info_contact.md/'},
     ],
-        sidebar: {
-            '/software_download/': [
-            'Software und Download.md',
-            'VirtualBox'
-            ],
-        },
       },
       '/en/': {
         selectLanguageName: 'English',
