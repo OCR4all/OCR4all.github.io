@@ -29,6 +29,12 @@ module.exports = {
       { text: 'Projekte', link: '/projects.md/'},
       { text: 'Weiterführende Informationen', link: '/info_contact.md/'},
     ],
+        sidebar: {
+            '/software_download/': [
+            '/software_download.md/',
+            '/vm-download.md/'
+            ],
+        },
       },
       '/en/': {
         selectLanguageName: 'English',
