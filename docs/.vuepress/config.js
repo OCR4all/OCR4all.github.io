@@ -36,7 +36,7 @@ module.exports = {
         navbar: [
       { text: 'About', link: '/en/about.md/'},
       { text: 'Software and Download', link: '/en/software_download/software_download.md/' },
-      { text: 'Userguide', link: '/en/ocr4all_userguide/0.FrontPage.md/' },
+      { text: 'Userguide', link: '/en/ocr4all_userguide/0.FrontPage/0.FrontPage.md/' },
       { text: 'Activities', link: '/en/activities.md/' },
       { text: 'Team', link: '/en/team.md/' },
       { text: 'Projects', link: '/en/projects.md/'},
