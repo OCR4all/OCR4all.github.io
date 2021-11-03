@@ -24,6 +24,7 @@ module.exports = {
         navbar: [
       { text: 'Über OCR4all', link: '/about.md/' },
       { text: 'Software und Download', link: '/software_download/software_download.md/' },
+      { text: 'Benutzeranleitung', link: '/ocr4all_userguide/' },
       { text: 'Aktivitäten', link: '/activities.md/' },
       { text: 'Team', link: '/team.md/' },
       { text: 'Projekte', link: '/projects.md/'},
@@ -35,6 +36,7 @@ module.exports = {
         navbar: [
       { text: 'About', link: '/en/about.md/'},
       { text: 'Software and Download', link: '/en/software_download/software_download.md/' },
+      { text: 'Userguide', link: '/ocr4all_userguide/' },
       { text: 'Activities', link: '/en/activities.md/' },
       { text: 'Team', link: '/en/team.md/' },
       { text: 'Projects', link: '/en/projects.md/'},
