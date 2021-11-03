@@ -18,7 +18,7 @@ Latest version: OCR4all 0.5.0. With the release of OCR4all 0.5.0 in
 
 ::: tip Installation guide
 - [VirtualBox (English)](http://ocr4all.org/lib/download.php?file=ocr4all-setup_guide_virtualbox_eng.pdf)
-- [Docker (English)]()
+- [Docker](https://github.com/OCR4all/getting_started/blob/master/ocr4all-setup_guide_docker.pdf)
 - [Getting Started (Website)](https://github.com/OCR4all/getting_started#getting-started-with-ocr4all)
 
 An installation via VirtualBox is strongly recommended for non-technical users.
