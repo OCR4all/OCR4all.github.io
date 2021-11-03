@@ -23,15 +23,15 @@ Region Segmentation mit [https://github.com/OCR4all/LAREX](https://github.com/OC
 ) bis hin zur Korrektur der erkannten Texte (Ground Truth Production) und der Erstellung werksspezifischer OCR-Modelle in
 einem Trainingsmodul beschreibt OCR4all einen vollwertigen OCR-Workflow.
 
-![Workflow](./.vuepress/public/images/ocr4all-workflow.png)
+![Workflow](./.vuepress/public/images/workflow.png)
 
 Vor allem durch die Möglichkeit der Herstellung und des Trainings
 	werksspezifischer Texterkennungsmodelle können mit OCR4all bei so gut
 	wie allen gedruckten Texten sehr gute Ergebnisse in der digitalen
 	Texterschließung erzielt werden.
 
-![Segmentierung](./.vuepress/public/images/ocr4all-segmentation.png)
-![Korrektur](./.vuepress/public/images/ocr4all-correction.png)
+![Segmentierung](./.vuepress/public/images/ocr4all-complex.png)
+![Korrektur](./.vuepress/public/images/larex-corr.png)
 
 ### Kooperation mit OCR-D
 
