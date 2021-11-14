@@ -1,3 +1,11 @@
+---
+lang: de-DE
+title: Scan Vorbereitung
+description: Scan Vorbereitung
+# NavLink
+prev: /ocr4all_userguide/1.OCR4all/1.2_Set up and folder structure.md
+next: /ocr4all_userguide/3.ProjectStartAndOverview/3.1-Getting started.md
+---
 # 2.	Vorbereitung von Scans und Bilddateien (ScanTailor)
 
 <p style="text-align: justify">Häufig liegen Werke, für die eine OCR durchgeführt werden soll, lediglich als Faksimilia vor. Deren Einzelbilder weisen zwar meistens eine gute bis sehr gute Qualität auf, sind jedoch in ihrer Gesamtanlage für den direkten Import in OCR4all eher ungeeignet. Dies ist bspw. der Fall, wenn Bilddateien über den eigentlichen Seiteninhalt hinaus Teile von Buchdeckel oder - rückseite sowie Teile einer Auflagefläche zeigen. Werden solche Bilder während des Workflows binarisiert, entstehen durch unterschiedliche Kontraste in den Originalen schwarze Trennlinien, die neben der eigentlichen OCR v. a. für die Segmentierung problematisch sind. Auch die Rotation von Scans oder die Darstellung von zwei Seiten pro Scan stellen häufige Probleme dar.
