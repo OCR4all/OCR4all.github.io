@@ -11,7 +11,7 @@ module.exports = {
     '/en/': {
       lang: 'en-US',
       title: 'OCR4all',
-      description: 'OCR4all documentation',
+      description: 'OCR4all Documentation',
     },
   },
   themeConfig: {
