@@ -1,11 +1,15 @@
 ---
 lang: en-US
-title: Errors, frequent problems and how to avoid them
+title: 5. Errors, frequent problems and how to avoid them
 description: Errors, frequent problems and how to avoid them
 # NavLink
 prev: /en/ocr4all_userguide/4.Workflow/Summary
 next: false
 ---
+::: warning 
+This page is still under construction.
+If you come across any problems please [contact us](mailto:florian.langhanki@uni-wuerzburg.de).
+:::
 ## 5.	Errors, frequent problems and how to avoid them
 
 Problems with the installation and start of Docker:
