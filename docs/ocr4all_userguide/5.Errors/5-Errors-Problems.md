@@ -1,7 +1,7 @@
 ---
 lang: de-DE
-title: Workflow
-description: Workflow
+title: Fehler, häufige Probleme und ihre Vermeidung
+description: Fehler, häufige Probleme und ihre Vermeidung
 # NavLink
 prev: /ocr4all_userguide/4.Workflow/Summary.md
 next: false
