@@ -1,6 +1,6 @@
 ---
 lang: de-DE
-title: Workflow
+title: 4. Workflow
 description: Workflow
 # NavLink
 prev: /ocr4all_userguide/3.ProjectStartAndOverview/3.2-Project Overview.md

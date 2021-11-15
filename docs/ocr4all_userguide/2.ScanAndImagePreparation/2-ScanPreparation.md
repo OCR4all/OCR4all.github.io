@@ -1,6 +1,6 @@
 ---
 lang: de-DE
-title: Scan Vorbereitung
+title: 2. Scan Vorbereitung
 description: Scan Vorbereitung
 # NavLink
 prev: /ocr4all_userguide/1.OCR4all/1.2_Set up and folder structure.md
