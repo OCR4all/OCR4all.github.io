@@ -1,7 +1,7 @@
 ---
 lang: en-US
-title: Workflow
-description: Workflow
+title: Errors, frequent problems and how to avoid them
+description: Errors, frequent problems and how to avoid them
 # NavLink
 prev: /en/ocr4all_userguide/4.Workflow/Summary
 next: false
