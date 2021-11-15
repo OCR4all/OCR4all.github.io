@@ -1,3 +1,11 @@
+---
+lang: en-US
+title: Scan and Image Preparation (ScanTailor)
+description: Scan and Image Preparation
+# NavLink
+prev: /en/ocr4all_userguide/1.OCR4all/1.2_Set up and folder structure.md
+next: /en/ocr4all_userguide/3.ProjectStartAndOverview/3.1-Getting started.md
+---
 # 2.	Scan and Image Preparation (ScanTailor)
 
 <p style="text-align: justify">When it comes to early modern prints, the available material exists often solely in the form of facsimilia. Although they generally exhibit a good if not very good quality, their overall condition makes them rather unsuited for a direct export in OCR4all. This is the case when the image file contains, aside the mere text, pictures of the book cover or printing surface. Were those images to be binarized during the workflow, black lines will often occur which are due to contrast differences in the original image and will impair both the OCR and the segmentation. Scan rotation and the display of two book pages on the same scan are other, frequent problems.

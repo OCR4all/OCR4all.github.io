@@ -1,3 +1,11 @@
+---
+lang: en-US
+title: Workflow
+description: Workflow
+# NavLink
+prev: /en/ocr4all_userguide/3.ProjectStartAndOverview/3.2-Project Overview.md
+next: /en/ocr4all_userguide/5.Errors/5-Errors-Problems.md
+---
 ## 4.	Workflow
 In general, OCR4all provides two different versions of an OCR workflow. They are widely different, particularly when it comes to the workload they require and, inevitably, the verifiability of partial outcomes and subsequent quality of the generated data. Both will be outlined and categorized in the following.
 

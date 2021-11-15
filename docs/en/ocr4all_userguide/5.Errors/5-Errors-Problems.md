@@ -1,3 +1,11 @@
+---
+lang: en-US
+title: Workflow
+description: Workflow
+# NavLink
+prev: /en/ocr4all_userguide/4.Workflow/Summary
+next: false
+---
 ## 5.	Errors, frequent problems and how to avoid them
 
 Problems with the installation and start of Docker:
