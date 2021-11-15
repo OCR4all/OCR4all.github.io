@@ -6,6 +6,10 @@ description: Workflow
 prev: /ocr4all_userguide/3.ProjectStartAndOverview/3.2-Project Overview.md
 next: /ocr4all_userguide/5.Errors/5-Errors-Problems.md
 ---
+::: warning 
+Die Seite wird gerade noch überarbeitet.
+Bei auftretenden Problemen [kontaktieren](mailto:florian.langhanki@uni-wuerzburg.de) Sie uns bitte.
+:::
 ## 4.	Workflow
 OCR4all bietet grundsätzlich zwei unterschiedliche Varianten eines OCR-Workflows an, die sich v. a. im Hinblick auf den mit ihnen verbundenen Arbeitsaufwand, damit jedoch fast zwangsläufig auch in Überprüfbarkeit von Teilergebnissen und somit Qualität der erstellten Daten stark voneinander unterscheiden können. Beide Varianten werden im Folgenden vorgestellt und eingeordnet.
 

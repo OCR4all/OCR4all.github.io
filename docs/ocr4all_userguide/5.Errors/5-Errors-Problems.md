@@ -6,6 +6,10 @@ description: Fehler, häufige Probleme und ihre Vermeidung
 prev: /ocr4all_userguide/4.Workflow/Summary.md
 next: false
 ---
+::: warning 
+Die Seite wird gerade noch überarbeitet.
+Bei auftretenden Problemen [kontaktieren](mailto:florian.langhanki@uni-wuerzburg.de) Sie uns bitte.
+:::
 ## 5.	Fehler, häufige Probleme und ihre Vermeidung
 
 Probleme bei der Installation und beim Start von Docker:  
