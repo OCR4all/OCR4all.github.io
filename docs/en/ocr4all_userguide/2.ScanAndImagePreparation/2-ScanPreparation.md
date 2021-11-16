@@ -6,7 +6,7 @@ description: Scan and Image Preparation
 prev: /en/ocr4all_userguide/1.OCR4all/1.2_Set up and folder structure.md
 next: /en/ocr4all_userguide/3.ProjectStartAndOverview/3.1-Getting started.md
 ---
-::: warning 
+::: danger Warning
 This page is still under construction.
 If you come across any problems please [contact us](mailto:florian.langhanki@uni-wuerzburg.de).
 :::

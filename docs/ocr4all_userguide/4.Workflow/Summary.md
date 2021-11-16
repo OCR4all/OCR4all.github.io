@@ -6,7 +6,7 @@ description: Workflow
 prev: /ocr4all_userguide/3.ProjectStartAndOverview/3.2-Project Overview.md
 next: /ocr4all_userguide/5.Errors/5-Errors-Problems.md
 ---
-::: warning 
+::: danger Achtung 
 Die Seite wird gerade noch überarbeitet.
 Bei auftretenden Problemen [kontaktieren](mailto:florian.langhanki@uni-wuerzburg.de) Sie uns bitte.
 :::

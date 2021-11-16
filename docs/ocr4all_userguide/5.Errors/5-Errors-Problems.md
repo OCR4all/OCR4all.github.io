@@ -6,7 +6,7 @@ description: Fehler, häufige Probleme und ihre Vermeidung
 prev: /ocr4all_userguide/4.Workflow/Summary.md
 next: false
 ---
-::: warning 
+::: danger Achtung 
 Die Seite wird gerade noch überarbeitet.
 Bei auftretenden Problemen [kontaktieren](mailto:florian.langhanki@uni-wuerzburg.de) Sie uns bitte.
 :::

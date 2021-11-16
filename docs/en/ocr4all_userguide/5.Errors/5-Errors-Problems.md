@@ -6,7 +6,7 @@ description: Errors, frequent problems and how to avoid them
 prev: /en/ocr4all_userguide/4.Workflow/Summary
 next: false
 ---
-::: warning 
+::: danger Warning
 This page is still under construction.
 If you come across any problems please [contact us](mailto:florian.langhanki@uni-wuerzburg.de).
 :::

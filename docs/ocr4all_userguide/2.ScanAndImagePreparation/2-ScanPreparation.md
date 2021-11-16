@@ -6,7 +6,7 @@ description: Scan Vorbereitung
 prev: /ocr4all_userguide/1.OCR4all/1.2_Set up and folder structure.md
 next: /ocr4all_userguide/3.ProjectStartAndOverview/3.1-Getting started.md
 ---
-::: warning 
+::: danger Achtung 
 Die Seite wird gerade noch überarbeitet.
 Bei auftretenden Problemen [kontaktieren](mailto:florian.langhanki@uni-wuerzburg.de) Sie uns bitte.
 :::
