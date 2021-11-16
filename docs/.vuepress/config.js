@@ -44,7 +44,7 @@ module.exports = {
         navbar: [
       { text: 'About', link: '/en/about.md/'},
       { text: 'Software and Download', link: '/en/software_download/software_download.md/' },
-      { text: 'Userguide',
+      { text: 'User Guide',
         children: ['/en/ocr4all_userguide/0.FrontPage/0.FrontPage.md',
         '/en/ocr4all_userguide/1.OCR4all/1.1_Introduction.md',
         '/en/ocr4all_userguide/1.OCR4all/1.2_Set up and folder structure.md',
