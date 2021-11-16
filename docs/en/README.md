@@ -5,7 +5,7 @@ title: Homepage
 description: Welcome to OCR4all
 footer: © ZPD University of Würzburg - Germany 2017-2021 | All rights reserved
 ---
-![I love ZPD](../.vuepress/public/images/ocr4all-zpd.png)
+![I love ZPD](../.vuepress/public/images/ocr4all-zpd_transparent_bg.png)
 
 [About](about.md)
 
