@@ -16,13 +16,13 @@ OCR4all bietet grundsätzlich zwei unterschiedliche Varianten eines OCR-Workflow
 ### 4.1	Process Flow
 Die Variante des sog. „**Process Flow**“ (Hauptmenü ☰ → Process Flow) bietet die Möglichkeit eines nahezu vollautomatisierten Workflows. Hier werden lediglich die zur Bearbeitung vorgesehenen Scans in der rechten Seitenleiste ausgewählt und mittels Haken danach all jene Arbeitsschritte ausgewählt, die am vorliegenden Datenmaterial durchgeführt werden sollen.
 
-<pre>
 
-BILD
-
-</pre>
+![Abb6.png](/docs/.vuepress/public/images/Abb6.png)
 
 Abb. 6: Teilkomponenten des „Process Flow“.
+
+
+
 
 Lediglich für das Teilmodul „Recognition“ muss nun noch ein geeignetes OCR-Modell oder Modellensemble (fünf gleichzeitig und miteinander agierende Einzelmodelle, s. dazu auch Kap. 4.7) zur Erkennung ausgewählt werden (dies geschieht unter „Settings“ →
 „Recognition” → „General”), wie in der folgenden Abb. dargestellt, aus der Liste aller verfügbaren OCR-Modelle („Line recognition models – Available“).
