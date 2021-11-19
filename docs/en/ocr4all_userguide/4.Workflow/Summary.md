@@ -10,6 +10,7 @@ next: /en/ocr4all_userguide/5.Errors/5-Errors-Problems.md
 This page is still under construction.
 If you come across any problems please [contact us](mailto:florian.langhanki@uni-wuerzburg.de).
 :::
+
 ## 4.	Workflow
 In general, OCR4all provides two different versions of an OCR workflow. They are widely different, particularly when it comes to the workload they require and, inevitably, the verifiability of partial outcomes and subsequent quality of the generated data. Both will be outlined and categorized in the following.
 
@@ -123,7 +124,7 @@ BILD
 
 fig. 12. LAREX interface with automatic segmentation results.
 
-### 4.4.2	Overview and toolbar
+#### 4.4.2	Overview and toolbar
 
 The left sidebar displays all previously selected scans. Colour-coded markings visible in the bottom right corner indicate the current stage of each scan’s processing:
 
