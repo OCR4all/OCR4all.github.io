@@ -18,7 +18,7 @@ OCR4all bietet grundsätzlich zwei unterschiedliche Varianten eines OCR-Workflow
 Die Variante des sog. „**Process Flow**“ (Hauptmenü ☰ → Process Flow) bietet die Möglichkeit eines nahezu vollautomatisierten Workflows. Hier werden lediglich die zur Bearbeitung vorgesehenen Scans in der rechten Seitenleiste ausgewählt und mittels Haken danach all jene Arbeitsschritte ausgewählt, die am vorliegenden Datenmaterial durchgeführt werden sollen.
 
 
-![Abb6.png](/docs/.vuepress/public/images/Abb6.png)
+![Abb6.png](../../.vuepress/public/images/Abb6.png)
 
 Abb. 5: Teilkomponenten des „Process Flow“.
 
@@ -28,7 +28,7 @@ Lediglich für das Teilmodul „Recognition“ muss nun noch ein geeignetes OCR-
 „Recognition” → „General”), wie in der folgenden Abb. dargestellt, aus der Liste aller verfügbaren OCR-Modelle („Line recognition models – Available“).
 
 
-![Abb7-2.png](/docs/.vuepress/public/images/Abb7-2.png)
+![Abb7-2.png](../../.vuepress/public/images/Abb7-2.png)
 
 Abb. 6: Auswahl eines geeigneten OCR-Modells.
 
@@ -39,7 +39,7 @@ Generell ist es dabei möglich, mehr als nur ein Modell für die Erkennung ausw�
 Durch „EXECUTE“ wird der „Process Flow“ gestartet. Über Fortschrittsbalken zu den einzelnen Teilmodulen lässt sich der aktuelle Stand der automatisierten Bearbeitung verfolgen. Nach dem vollständigen Durchlauf des Workflows können die Ergebnisse im Menüpunkt „Ground Truth Production“ (☰) überprüft werden.
 
 
-![Abb7.png](/docs/.vuepress/public/images/Abb7.png)
+![Abb7.png](../../.vuepress/public/images/Abb7.png)
 
 Abb. 7: Zeilenbilder mit entsprechendem OCR-Ergebnis.
 
@@ -59,7 +59,7 @@ V. a. Erstnutzern wird an dieser Stelle ohnehin geraten, mindestens einmal den n
 - In der rechten Seitenleiste werden alle Scans ausgewählt, die bearbeitet werden sollen; alle Einstellungen („Settings (General)“ und „Settings (Advanced)“) bleiben bestehen, d. h. der Winkel der zu bearbeitenden Bilder bleibt unverändert, ebenso die automatisch generierte Anzahl der durch das Teilmodul verwendeten CPUs (letzteres betrifft alle folgenden Teilmodule von OCR4all!).
 
 
-![Abb9.png](/docs/.vuepress/public/images/Abb9.png)
+![Abb9.png](../../.vuepress/public/images/Abb9.png)
 
 Abb. 8: Einstellungen zum Preprocessing.
 
@@ -78,7 +78,7 @@ Abb. 8: Einstellungen zum Preprocessing.
  wollen. Unter „Image Preview” wird Ihnen nun in einer Gegenüberstellung das Ergebnis im Vergleich mit dem unbearbeiteten Scan angezeigt. Rot eingefärbte Bildelemente wurden durch den Arbeitsschritt entfernt.
 
 
-![Abb10.png](/docs/.vuepress/public/images/Abb10.png)
+![Abb10.png](../../.vuepress/public/images/Abb10.png)
 
 Abb. 9: Einstellungen zum Teilmodul Noise Removal.
 
@@ -102,7 +102,7 @@ LAREX dient als Tool der Segmentierung, d. h. zur Strukturierung und Klassifizie
 - „OPEN LAREX“ → LAREX öffnet sich in einem neuen Tab.
 
 
-![Abb11.png](/docs/.vuepress/public/images/Abb11.png)
+![Abb11.png](../../.vuepress/public/images/Abb11.png)
  
 Abb. 10: LAREX-Einstellungen.
 
@@ -111,7 +111,7 @@ Abb. 10: LAREX-Einstellungen.
 Mittig wird nun die erste der ausgewählten Scanseiten angezeigt. Es sind bereits erste Segmentierungsergebnisse zu sehen. Diese entstehen aufgrund einer automatischen Segmentierung einer jeden Scanseite, sobald diese das erste Mal aufgerufen wird. Gespeichert sind diese Ergebnisse nicht. Aufgabe des Users ist es im Folgenden, Einstellungen vorzunehmen, um die angezeigten automatischen Segmentierungsergebnisse an das Layout des vorliegenden Werks anzupassen bzw. händische Nachkorrekturen dieser Ergebnisse vorzunehmen, um ein korrektes Segmentierungsergebnis zu erhalten.
 
 
-![Abb12-2.png](/docs/.vuepress/public/images/Abb12-2.png)
+![Abb12-2.png](../../.vuepress/public/images/Abb12-2.png)
 
 Abb. 11: Startanzeige und automatische Segmentierungsergebnisse.
 
@@ -125,7 +125,7 @@ In der linken Seitenleiste werden alle zu segmentierenden und zuvor ausgewählte
 - Schloss, grün: „There is a segmentation for this page on the server.“ – Die einzelnen, gespeicherten Segmentierungsergebnisse wurden nach Abschluss der Segmentierung des Gesamtwerks als korrekt bestätigt (s. u.).
 
 
-![Abb12.png](/docs/.vuepress/public/images/Abb12.png)
+![Abb12.png](../../.vuepress/public/images/Abb12.png)
  
 Abb. 12: Verschiedene Anzeigemodi
 
@@ -134,7 +134,7 @@ Abb. 12: Verschiedene Anzeigemodi
 - Über die Buttons '0' und '1' ist es möglich, zwischen der binarisierten (schwarz-weiß) und der normalisierten (Graustufen) Bilddarstellung zu wechseln. Die entsprechende Auswahl wird für alle restlichen Seiten des Werks gemerkt. Es ist jederzeit möglich, den Anzeigemodus wieder zu ändern.
 - In der Kopfleiste finden sich verschiedene Werkzeuge und Werkzeuggruppen zur Navigation und Bearbeitung:
 
-![Abb13.png](/docs/.vuepress/public/images/Abb13.png)
+![Abb13.png](../../.vuepress/public/images/Abb13.png)
  
 Abb. 13: Verschiedene Menüpunkte der Werkzeugleiste.
 
@@ -145,7 +145,7 @@ Abb. 13: Verschiedene Menüpunkte der Werkzeugleiste.
 - _BILDCHEN_ Delete selected items: Entfernt die aktuell ausgewählten Regionen.
 - **RoI**, **Region**, **Segment**, **Order**: Hier werden, ergänzt durch die rechte Seitenleiste, die verschiedenen Möglichkeiten der Scanbearbeitung und Segmentierung aufgezeigt. Während die in der Werkzeugleiste aufgeführten Optionen im Allgemeinen einer spezifischen Bearbeitung der aktuell vorliegenden Scanseite dienen (s. u.), werden dagegen in der rechten Seitenleiste v. a. scanübergreifende und werkbezogene Optionen angezeigt.
  
-![Abb14.png](/docs/.vuepress/public/images/Abb14.png)
+![Abb14.png](../../.vuepress/public/images/Abb14.png)
   
 Abb. 14: Einstellungen der rechten Seitenleiste.
 
@@ -157,7 +157,7 @@ Auch sie können jedoch jederzeit ergänzt, verändert und angepasst werden. Hil
 „page_number“ (Seitenzahl) können durch den User weitere, werkspezifische Layoutregionen unter „Create“ hinzugefügt und definiert werden, d. h. neben einer Darstellungsfarbe kann unter „minSize“ auch die Mindestgröße einer als entsprechende Layoutregion zu erkennenden Text- oder Bildregion auf der Scanseite festgelegt werden. Mithilfe des „SAVE“-Buttons wird die so definierte Layoutregion der werkspezifischen Liste hinzugefügt.
 
 
-![Abb15.png](/docs/.vuepress/public/images/Abb15.png)
+![Abb15.png](../../.vuepress/public/images/Abb15.png)
 
 Abb. 15: Einstellungsoptionen unter Regions.
 
@@ -166,7 +166,7 @@ Abb. 15: Einstellungsoptionen unter Regions.
 - Zusätzlich bietet „**Regions**“ die Möglichkeit, bestimmten Layoutregionen einen festen und vordefinierten Platz auf einer Scanseite zuzuweisen, der bei der automatischen Segmentierung der nachfolgenden Seiten (beim ersten Öffnen dieser) übernommen wird, d. h.: Wiederholt sich das Layout einer Seite über ein Werk hinweg immer wieder, so kann hier eine Art der Layoutschablone erzeugt werden, mit deren Hilfe die automatische Segmentierung verbessert und damit die Anzahl der korrigierenden Eingriffe durch den User im Folgenden potentiell verringert wird. Um die Lage der Layoutregionen an das Layout der Seiten innerhalb des Werkes anzupassen, kann die aktuelle Lage der Layoutregionen angezeigt und danach durch einfaches Auswählen der Regionen auf der Scanseite verändert werden.
 
 
-![Abb16.png](/docs/.vuepress/public/images/Abb16.png)
+![Abb16.png](../../.vuepress/public/images/Abb16.png)
 
 Abb. 16: Anzeige von Layoutregionen und Layoutschablone.
 
@@ -175,7 +175,7 @@ Abb. 16: Anzeige von Layoutregionen und Layoutschablone.
 - Wird durch den User eine neue „Region“ definiert, so kann die Lage dieser über die Werkzeugleiste und die nachfolgende Option „Region“ → „Create a region rectangle (Shortcut: 1)“ festgelegt und auch danach jederzeit verändert werden. Für „images“ kann keine Layoutregion auf der Scanseite verortet werden.
 
 
-![Abb17.png](/docs/.vuepress/public/images/Abb17.png)
+![Abb17.png](../../.vuepress/public/images/Abb17.png)
 
 Abb. 17: Einrichtung neuer Layoutregionen.
 
@@ -186,7 +186,7 @@ Abb. 17: Einrichtung neuer Layoutregionen.
 - „**Parameters**“: Hier werden allgemeine Parameter der Text- und Bilderkennung festgelegt. Die Notwendigkeit der Einstellung werkspezifischer Parameter erklärt sich aus dem sehr uneinheitlichen Layout und Druckbild v. a. frühneuzeitlicher Drucke. So können hier Wörter und auch ganze Zeilen in unterschiedlichen Abständen zueinander gedruckt sein. Um bspw. zu vermeiden, dass diese als eigene Layoutregionen und nicht zugehörig zu einem zusammenhängenden Textabschnitt erkannt werden, kann unter „Text Dilation“ die Ausdehnung einer als Text erkannten Region in X- und Y-Richtung definiert werden. Auf diese Weise können Zeilen- und Wortabstände überwunden und weitständige Textabschnitte miteinander verschmolzen werden. Es empfiehlt sich hier, werkspezifisch unterschiedliche Einstellungen zu testen, um diese zu optimieren.
 
 
-![Abb18.png](/docs/.vuepress/public/images/Abb18.png)
+![Abb18.png](../../.vuepress/public/images/Abb18.png)
 
 Abb. 18: Einstellungen in Parameters.
 
@@ -196,7 +196,7 @@ Abb. 18: Einstellungen in Parameters.
 „Parameters“ festgelegten Segmentierungs- und Darstellungsoptionen gespeichert und bei Bedarf, z. B. bei der Wiederaufnahme der Segmentierung eines Werks nach einer Unterbrechung, wieder geladen werden. Dazu dienen die Buttons „SAVE SETTINGS“ und „LOAD SETTINGS“. Im Falle des Speicherns wird eine XML-Datei erzeugt, die beim Laden wieder ausgewählt werden muss (auf „Load Settings“ klicken, in sich öffnendem Fenster entsprechende Datei auswählen und öffnen). Zusätzlich gibt es hier ebenfalls die Möglichkeit, sich Segmentierungsergebnisse bereits gespeicherter Seiten noch einmal laden und damit anzeigen zu lassen. Dazu wird unter „Advanced Settings“ auf „LOAD NOW“ geklickt. Falls für die vorliegende Scanseite einmal eine XML-Datei mit Segmentierungsergebnissen gespeichert wurde, wird diese nun geladen. Gleichzeitig kann diese letzte Option automatisiert ab dem Start von LAREX realisiert sein, sofern bereits entsprechende Segmentierungsergebnisse vorliegen.
 
 
-![Abb19.png](/docs/.vuepress/public/images/Abb19.png)
+![Abb19.png](../../.vuepress/public/images/Abb19.png)
 
 Abb. 19: Settings.
 
@@ -206,7 +206,7 @@ Abb. 19: Settings.
 Dazu wird in der Werkzeugleiste in der Gruppe „Order“ zwischen den Werkzeugen „Auto generate a reading order“ und „Set a reading order“ ausgewählt.
 
 
-![Abb20.png](/docs/.vuepress/public/images/Abb20.png)
+![Abb20.png](../../.vuepress/public/images/Abb20.png)
 
 Abb. 20: Rechts: Reading Order in der Werkzeugleiste.
 
@@ -223,7 +223,7 @@ Der folgende Segmentierungsdurchgang bezieht sich auf die vierte Seite des Stand
 **Fehleranalyse**: Welche Layoutelemente wurden richtig erkannt, welche fehlerhaft, welche gar nicht? Befinden sich auf den Seitenrändern Benutzerspuren, Bordüren, Verschmutzungen oder Textteile, die nicht erkannt werden sollen, das Segmentierungsergebnis jedoch beeinflussen?
 
 
-![Abb21.png](/docs/.vuepress/public/images/Abb21.png)
+![Abb21.png](../../.vuepress/public/images/Abb21.png)
 
 Abb. 21: Automatisches Segmentierungsergebnis für die vierte Seite aus „Cirurgia“.
  
@@ -233,7 +233,7 @@ Abb. 21: Automatisches Segmentierungsergebnis für die vierte Seite aus „Cirur
 B. Benutzerspuren, Verunreinigungen, Bibliotheksstempel etc.), so kann eine RoI festgelegt werden, um diese Bereiche von Vornherein aus der automatischen Segmentierung auszuschließen. Dazu wird in der Werkzeugleiste unter „RoI“ die Option „Set the Region of Interest“ ausgewählt und mithilfe der linken Maustaste ein Rechteck um den zu segmentierenden Inhalt der Scanseite gelegt.
 
 
-![Abb22.png](/docs/.vuepress/public/images/Abb22.png)
+![Abb22.png](../../.vuepress/public/images/Abb22.png)
 
 Abb. 22: Festlegungen einer Region of Interest.
 
@@ -247,7 +247,7 @@ Unabhängig von der RoI kann durch die Option „Create a ignore rectangle“ ei
 Falsch erkannte Layoutelemente können in ihrer Typisierung geändert werden. Dazu klickt man mit der rechten Maustaste auf das entsprechende Element – im sich öffnenden Auswahlfenster kann die korrekte Region ausgewählt werden.
 
 
-![Abb23.png](/docs/.vuepress/public/images/Abb23.png)
+![Abb23.png](../../.vuepress/public/images/Abb23.png)
  
 Abb. 23: Korrektur einer fehlerhaften Typisierung.
 
@@ -261,7 +261,7 @@ Die dritte Möglichkeit umfasst die Zerteilung des als paragraph erkannten Textb
 „Segment“ mit der Option „Create a cut line“ (Shortcut: 5) ausgewählt.
 
 
-![Abb24.png](/docs/.vuepress/public/images/Abb24.png)
+![Abb24.png](../../.vuepress/public/images/Abb24.png)
 
 Abb. 24: Auswahl der Schnittlinie in der Werkzeugleiste.
 
@@ -270,7 +270,7 @@ Abb. 24: Auswahl der Schnittlinie in der Werkzeugleiste.
 Mit Hilfe der linken Maustaste wird die Linie polygonartig durch mehrere Klicks quer durch das aufzuspaltende Layoutelement gezogen. Durch einen Doppelklick auf die linke Maustaste kann ein Endpunkt der Linie gesetzt wird.
 
 
-![Abb25.png](/docs/.vuepress/public/images/Abb25.png)
+![Abb25.png](../../.vuepress/public/images/Abb25.png)
  
 Abb. 25: Festlegung der Schnittlinie zwischen zwei zu trennenden Bereichen eines Layoutelements.
 
@@ -279,7 +279,7 @@ Abb. 25: Festlegung der Schnittlinie zwischen zwei zu trennenden Bereichen eines
 Wird nun auf „SEGMENT“ geklickt, wird der als ein Layoutelement erkannte Bereich in zwei unterschiedliche Layoutelemente aufgetrennt. Anschließend kann der Bereich der Überschrift mittels Rechtsklick und entsprechender Auswahl (s. o.) korrekt umbenannt werden.
 
 
-![Abb26.png](/docs/.vuepress/public/images/Abb26.png)
+![Abb26.png](../../.vuepress/public/images/Abb26.png)
 
 Abb. 26: Korrekte Typisierung der getrennten Bereiche.
 
@@ -290,7 +290,7 @@ Sollen Layoutelemente, falsch gezogene Schnittlinien, verzogene Polygone etc. ge
 **Festlegung der „Reading Order“** (s. o.):
 
 
-![Abb27.png](/docs/.vuepress/public/images/Abb27.png)
+![Abb27.png](../../.vuepress/public/images/Abb27.png)
 
 Abb. 27: Festlegung der Reading Order.
 
@@ -299,7 +299,7 @@ Abb. 27: Festlegung der Reading Order.
 **Speichern des Segmentierungsergebnisses des aktuellen Scans**: Das Speichern der Ergebnisse erfolgt durch einen Klick auf den „SAVE RESULT“-Button oder durch Strg + S. In diesem Moment wird in der OCR4all-Ordnerstruktur eine XML-Datei mit den Segmentierungsergebnissen abgelegt.
 
 
-![Abb28.png](/docs/.vuepress/public/images/Abb28.png)
+![Abb28.png](../../.vuepress/public/images/Abb28.png)
 
 Abb. 28: Speichern von Segmentierungsergebnissen.
 
@@ -316,7 +316,7 @@ Darüber hinaus bestehen generell **weitere Bearbeitungsmöglichkeiten** von Sca
   - Um die Funktion auszuführen, erfolgt zuerst ein Klick auf den entsprechenden Button in der Werkzeugleiste oder der Shortcut 6. Daraufhin werden alle als Layoutelemente der Seite erkannten Bestandteile blau eingefärbt.
 
 
-![Abb29.png](/docs/.vuepress/public/images/Abb29.png)
+![Abb29.png](../../.vuepress/public/images/Abb29.png)
 
 Abb. 29: Konturenanzeige.
 
@@ -325,7 +325,7 @@ Abb. 29: Konturenanzeige.
 - Klickt man nun auf nur einzelne Typen oder sogar Typenbestandteile, verfärben sie sich violett – sie sind nun ausgewählt.
 
 
-![Abb30.png](/docs/.vuepress/public/images/Abb30.png)
+![Abb30.png](../../.vuepress/public/images/Abb30.png)
 
 Abb. 30: Konturenauswahl.
 
@@ -334,7 +334,7 @@ Abb. 30: Konturenauswahl.
 - Es können auch mehrere Typen, ganze Wörter und Zeilen oder Teile ganzer Layoutelemente ausgewählt werden (s. o.: Umschalt + Auswahl über Aufziehen eines Rechtecks). Erfolgt nach der Auswahl bestimmter Typen, Wörter, Zeilen etc. der Shortcut C, so werden alle ausgewählten Elemente der Scanseite zu einem eigenen Layoutelement zusammengefasst, unabhängig von ihrer vorherigen Elementzugehörigkeit. Die Eingrenzung des so entstehenden neuen Layoutelements ist dabei im Vergleich zu den automatisch erkannten Elementen sehr viel feiner, weil sie sich wie besprochen direkt an den Rändern einzelner Typen oder Bilder orientiert. Auf diese Weise ist eine sehr viel detailliertere Segmentierung als über die standardisierten Tools möglich.
 
 
-![Abb31.png](/docs/.vuepress/public/images/Abb31.png)
+![Abb31.png](../../.vuepress/public/images/Abb31.png)
 
 Abb. 31: Zusammenfassung ausgewählter Konturen zu einem neuen Layoutelement.
  
@@ -343,7 +343,7 @@ Abb. 31: Zusammenfassung ausgewählter Konturen zu einem neuen Layoutelement.
 - Der anschließende Klick auf „SEGMENT“ fixiert den Eingriff. Abschließend kann das entstandene, eigenständige Layoutelement entsprechend obigen Vorgehens nach Belieben umbenannt werden.
 
 
-![Abb32.png](/docs/.vuepress/public/images/Abb32.png)
+![Abb32.png](../../.vuepress/public/images/Abb32.png)
 
 Abb. 32: Typisierung des segmentierten Layoutelements.
 
@@ -355,7 +355,7 @@ Abb. 32: Typisierung des segmentierten Layoutelements.
 - Bei besonders kleinteiligem und damit aufwendigem Layout können Segmentierungsergebnisse durch spezielle **Detaileingriffe** weiter optimiert werden. Die Umrisse der als Layoutelemente erkannten Bereiche einer Scanseite werden bei genauerem Hinsehen als Punktlinie dargestellt.
 
 
-![Abb33.png](/docs/.vuepress/public/images/Abb33.png)
+![Abb33.png](../../.vuepress/public/images/Abb33.png)
 
 Abb. 33: Punktlinie als Umriss von Layoutelementen.
 
@@ -377,7 +377,7 @@ Abb. 33: Punktlinie als Umriss von Layoutelementen.
 - In direkter Vorbereitung auf die folgende OCR werden in diesem Arbeitsschritt alle mittels LAREX festgelegten und klassifizierten Layoutelemente in denen Text enthalten ist, in Zeilen zerschnitten (die OCR funktioniert zeilenbasiert) und im zugehörigen PageXML abgelegt.
 
 
-![Abb34.png](/docs/.vuepress/public/images/Abb34.png)
+![Abb34.png](../../.vuepress/public/images/Abb34.png)
 
 Abb. 34: Einstellungen zur Line Segmentation.
 
@@ -401,7 +401,7 @@ Abb. 34: Einstellungen zur Line Segmentation.
 - Wählen Sie nun unter „Line recognition models” in der Spalte „Available” all jene Modelle oder Modellensembles aus, die zur Erkennung ihres Textes entsprechend der vorhandenen Schriftarten und Typen (z. B. frühneuzeitliche bzw. historische Fraktur, Kursive, historische Antiqua etc.) geeignet sind. Die Verwendung von Modellensembles (fünf gleichzeitig und gemeinsam agierende Einzelmodelle) statt einfacher Einzelmodelle wird dringend empfohlen! Durch einfaches Anklicken werden sie in die Spalte „Selected” verschoben. Über die „Search“-Funktion ist eine Filterung nach Namen möglich, wenn besonders viele Modelle zur Auswahl stehen.
 
 
-![Abb35.png](/docs/.vuepress/public/images/Abb35.png)
+![Abb35.png](../../.vuepress/public/images/Abb35.png)
 
 Abb. 35: Auswahl eines gemischten Modellensembles für die Texterkennung.
 
@@ -420,7 +420,7 @@ Abb. 35: Auswahl eines gemischten Modellensembles für die Texterkennung.
 - Das zugrundeliegende Korrekturtool ist dreispaltig aufgebaut: Auf der linken Seite finden sich, jeweils untereinander, die auswählbaren Seiten. Mittig werden die durch den Workflow erzeugten Zeilenbilder aus den Textseiten (s. o.) sowie die aus ihnen generierten Zeilen OCR-Text angezeigt. Diese standardmäßig dargestellte Anzeige wird als „Text View“ bezeichnet.
 
 
-![Abb36.png](/docs/.vuepress/public/images/Abb36.png)
+![Abb36.png](../../.vuepress/public/images/Abb36.png)
 
 Abb. 36: Ground Truth Production mit „Text View”.
 
@@ -429,7 +429,7 @@ Abb. 36: Ground Truth Production mit „Text View”.
 - Über die Option „Switch to Page View” in der Werkzeugleiste besteht die Möglichkeit, von der „Text View“ auf die „Page View“ zu wechseln. In dieser Ansicht können die einzelnen Textzeilen im visuellen Gesamtkontext des Seitenlayouts bearbeitet werden. Nutzen Sie die Option „Switch to Text View“, um wieder auf die „Text View“ umzuschalten.
 
 
-![Abb37.png](/docs/.vuepress/public/images/Abb37.png)
+![Abb37.png](../../.vuepress/public/images/Abb37.png)
 
 Abb. 37: Ground Truth Production mit „Page View”.
 
@@ -450,7 +450,7 @@ Abb. 37: Ground Truth Production mit „Page View”.
 - Um diese zu generieren, werden all jene Scans in der rechten Seitenleiste ausgewählt, die mittels dieses aktuellen Modells erkannt und danach in der „Ground Truth Production” korrigiert wurden. Klickt der Nutzer auf „EXECUTE” und lässt sämtliche Einstellungen unverändert, so wird ihm in der Konsole eine Tabelle ausgegeben: Ganz oben in der Ausgabe finden sich als Prozentsatz die Fehlerrate sowie die Gesamtanzahl der Fehler („errs”). Darunter werden – tabellarisch gelistet durch den Vergleich von Ausgabetext der Recognition und während der Korrektur erstellter Ground Truth – die gefundenen Fehler angezeigt. In der ersten Spalte ist dabei der korrigierte Text zu erkennen („GT”), in der zweiten Spalte der ursprünglich durch das Modell erkannte („PRED”), dahinter die Häufigkeit des Auftretens genau jenes Fehlers sowie der Prozentsatz eben dieses Fehlers an der Gesamtfehlermenge.
 
 
-![Abb38.png](/docs/.vuepress/public/images/Abb38.png)
+![Abb38.png](../../.vuepress/public/images/Abb38.png)
 
 Abb. 38: Evaluationsergebnis mit Gesamtfehlerrate und den zehn häufigsten Fehler sowie deren Prozentsatz an der Gesamtfehlermenge.
 
@@ -482,7 +482,7 @@ Warum dann aber die Erstellung werkspezifischer Modelle mittels des Trainings-Mo
 - Die erweiterten Einstellungen bleiben unverändert.
 
 
-![Abb39.png](/docs/.vuepress/public/images/Abb39.png)
+![Abb39.png](../../.vuepress/public/images/Abb39.png)
 
 Abb. 39: Einstellungen für das Training von werkspezifischen Modellensembles.
 
@@ -501,7 +501,7 @@ Unter dem Menüpunkt „Post Correction“ können die in den vorherigen Teilmod
 - Der Reiter „LINES“ ermöglicht die manuelle Anpassung der automatischen Zeilenerkennung. So können analog zur vorhergehenden Auszeichnung der Regionen, einzelne Zeilen hinzugefügt, deren Form und Position verändert oder diese entfernt werden. Auch die Reading Order kann auf Zeilenebene manuell angepasst werden. Diese Aktionen werden wie bei LAREX unter Verwendung verschiedener Werkzeuge aus der Werkzeugleiste und der Seitenleiste durchgeführt.
 
 
-![Abb40.png](/docs/.vuepress/public/images/Abb40.png)
+![Abb40.png](../../.vuepress/public/images/Abb40.png)
 
 Abb. 40: Anpassung der zeilenbasierten Reading Order in der „Post Correction“.
 
@@ -515,7 +515,7 @@ Abb. 40: Anpassung der zeilenbasierten Reading Order in der „Post Correction�
 **Output**: endgültiger Output als Text (einzelne Textzeilen zusammengefasst zu Seiten und Volltext) und PageXML auf Seitenbasis
 
 
-![Abb41.png](/docs/.vuepress/public/images/Abb41.png)
+![Abb41.png](../../.vuepress/public/images/Abb41.png)
 
 Abb. 41: Result Generation.
 
