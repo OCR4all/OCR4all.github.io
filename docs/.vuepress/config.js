@@ -1,4 +1,9 @@
 module.exports = {
+  plugins: [
+    ["vuepress-plugin-auto-sidebar", {
+      // options
+    }],
+  ],
   base: '/OCR4all/',
   locales: {
     // The key is the path for the locale to be nested under.
@@ -31,7 +36,7 @@ module.exports = {
         '/ocr4all_userguide/2.ScanAndImagePreparation/2-ScanPreparation.md',
         '/ocr4all_userguide/3.ProjectStartAndOverview/3.1-Getting started.md',
         '/ocr4all_userguide/3.ProjectStartAndOverview/3.2-Project Overview.md',
-        '/ocr4all_userguide/4.Workflow/Summary.md',
+        '/ocr4all_userguide/4.Workflow/4.001-Process_Flow.md',
         '/ocr4all_userguide/5.Errors/5-Errors-Problems.md'], },
       { text: 'Aktivitäten', link: '/activities.md/' },
       { text: 'Team', link: '/team.md/' },
@@ -51,7 +56,7 @@ module.exports = {
         '/en/ocr4all_userguide/2.ScanAndImagePreparation/2-ScanPreparation.md',
         '/en/ocr4all_userguide/3.ProjectStartAndOverview/3.1-Getting started.md',
         '/en/ocr4all_userguide/3.ProjectStartAndOverview/3.2-Project Overview.md',
-        '/en/ocr4all_userguide/4.Workflow/Summary.md',
+        '/en/ocr4all_userguide/4.Workflow/4.001-Process_Flow.md',
         '/en/ocr4all_userguide/5.Errors/5-Errors-Problems.md'], },
       { text: 'Activities', link: '/en/activities.md/' },
       { text: 'Team', link: '/en/team.md/' },
