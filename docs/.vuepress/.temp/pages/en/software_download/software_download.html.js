@@ -9,7 +9,14 @@ export const data = {
     "description": "Download OCR4all software, installation guide, user manual"
   },
   "excerpt": "",
-  "headers": [],
+  "headers": [
+    {
+      "level": 2,
+      "title": "User manual",
+      "slug": "user-manual",
+      "children": []
+    }
+  ],
   "filePathRelative": "en/software_download/software_download.md"
 }
 

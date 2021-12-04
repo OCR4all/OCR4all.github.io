@@ -1,19 +1,19 @@
 export const siteData = {
-  "base": "/",
+  "base": "/OCR4all/",
   "lang": "en-US",
   "title": "",
   "description": "",
   "head": [],
   "locales": {
-    "/OCR4all/": {
+    "/": {
       "lang": "de-DE",
       "title": "OCR4all",
       "description": "OCR4all Dokumentation"
     },
-    "/OCR4all/en/": {
+    "/en/": {
       "lang": "en-US",
       "title": "OCR4all",
-      "description": "OCR4all documentation"
+      "description": "OCR4all Documentation"
     }
   }
 }

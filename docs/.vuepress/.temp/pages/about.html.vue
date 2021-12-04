@@ -15,13 +15,13 @@ Region Segmentation mit <a href="https://github.com/OCR4all/LAREX" target="_blan
 (Line Segmentation) und Texterkennung (Recognition mit <a href="https://github.com/Calamari-OCR" target="_blank" rel="noopener noreferrer">https://github.com/Calamari-OCR<OutboundLink/></a>
 ) bis hin zur Korrektur der erkannten Texte (Ground Truth Production) und der Erstellung werksspezifischer OCR-Modelle in
 einem Trainingsmodul beschreibt OCR4all einen vollwertigen OCR-Workflow.</p>
-<p><img src="@source/.vuepress/public/images/ocr4all-workflow.png" alt="Workflow"></p>
+<p><img src="@source/.vuepress/public/images/workflow.png" alt="Workflow"></p>
 <p>Vor allem durch die Möglichkeit der Herstellung und des Trainings
 werksspezifischer Texterkennungsmodelle können mit OCR4all bei so gut
 wie allen gedruckten Texten sehr gute Ergebnisse in der digitalen
 Texterschließung erzielt werden.</p>
-<p><img src="@source/.vuepress/public/images/ocr4all-segmentation.png" alt="Segmentierung">
-<img src="@source/.vuepress/public/images/ocr4all-correction.png" alt="Korrektur"></p>
+<p><img src="@source/.vuepress/public/images/ocr4all-complex.png" alt="Segmentierung">
+<img src="@source/.vuepress/public/images/larex-corr.png" alt="Korrektur"></p>
 <h3 id="kooperation-mit-ocr-d" tabindex="-1"><a class="header-anchor" href="#kooperation-mit-ocr-d" aria-hidden="true">#</a> Kooperation mit OCR-D</h3>
 <p>Im Sommer 2020 wurde eine Kooperation zwischen OCR4all und der
 koordinierten Förderinitiative zur Weiterentwicklung von Verfahren der

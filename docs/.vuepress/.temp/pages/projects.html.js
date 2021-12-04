@@ -20,12 +20,6 @@ export const data = {
           "title": "Zusammenfassung",
           "slug": "zusammenfassung",
           "children": []
-        },
-        {
-          "level": 3,
-          "title": "Projektgruppe",
-          "slug": "projektgruppe",
-          "children": []
         }
       ]
     },

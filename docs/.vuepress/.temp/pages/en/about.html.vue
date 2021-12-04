@@ -24,12 +24,12 @@ the correction of the recognized texts the so-called Ground Truth
 Production. This Ground Truth is then the foundation for creating
 work-specific OCR models in a training module. Therefore OCR4all
 entails a full-featured OCR workflow.</p>
-<p><img src="@source/.vuepress/public/images/ocr4all-workflow.png" alt="Workflow"></p>
+<p><img src="@source/.vuepress/public/images/workflow.png" alt="Workflow"></p>
 <p>Particularly due to the capacity to create and train work-specific
 text recognition models, OCR4all makes achieving high-quality results
 in the digitization of texts in nearly all printed documents possible.</p>
-<p><img src="@source/.vuepress/public/images/ocr4all-segmentation.png" alt="Segmentation">
-<img src="@source/.vuepress/public/images/ocr4all-correction.png" alt="Correction"></p>
+<p><img src="@source/.vuepress/public/images/ocr4all-complex.png" alt="Segmentation">
+<img src="@source/.vuepress/public/images/larex-corr.png" alt="Correction"></p>
 <h3 id="cooperation-with-ocr-d" tabindex="-1"><a class="header-anchor" href="#cooperation-with-ocr-d" aria-hidden="true">#</a> Cooperation with OCR-D</h3>
 <p>In the summer of 2020, a co-operation between OCR4all and the
 coordinated funding initiative for further development of processes

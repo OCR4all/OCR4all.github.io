@@ -14,9 +14,8 @@ Bug Fixes und Verbesserungen sind den entsprechenden Release Notes von
 <div class="custom-container tip"><p class="custom-container-title">Installationsanleitung</p>
 <ul>
 <li><a href="http://ocr4all.org/lib/download.php?file=ocr4all-setup_guide_virtualbox_ger.pdf" target="_blank" rel="noopener noreferrer">VirtualBox (Deutsch)<OutboundLink/></a></li>
-<li><a href="http://ocr4all.org/lib/download.php?file=ocr4all-setup_guide_virtualbox_eng.pdf" target="_blank" rel="noopener noreferrer">VirtualBox (Englisch)<OutboundLink/></a></li>
-<li><a href="">Docker (Englisch)</a></li>
-<li><a href="https://github.com/OCR4all/getting_started#getting-started-with-ocr4all" target="_blank" rel="noopener noreferrer">Getting Started (Website)<OutboundLink/></a></li>
+<li><a href="https://github.com/OCR4all/getting_started/blob/master/ocr4all-setup_guide_docker.pdf" target="_blank" rel="noopener noreferrer">Docker (Englisch)<OutboundLink/></a></li>
+<li><a href="https://github.com/OCR4all/getting_started#getting-started-with-ocr4all" target="_blank" rel="noopener noreferrer">Getting Started (Website - Englisch)<OutboundLink/></a></li>
 </ul>
 <p>Die Installation über VirtualBox wird besonders nicht-technischen Nutzern dringend empfohlen!</p>
 </div>
@@ -27,10 +26,8 @@ Bug Fixes und Verbesserungen sind den entsprechenden Release Notes von
 <li><a href="https://github.com/OCR4all/OCR4all#ocr4all" target="_blank" rel="noopener noreferrer">Github<OutboundLink/></a></li>
 </ul>
 </div>
-<div class="custom-container tip"><p class="custom-container-title">Benutzerhandbuch</p>
+<h2 id="benutzerhandbuch" tabindex="-1"><a class="header-anchor" href="#benutzerhandbuch" aria-hidden="true">#</a> Benutzerhandbuch</h2>
 <ul>
 <li><a href="https://raw.githubusercontent.com/OCR4all/getting_started/master/ocr4all-user_guide_ger.pdf" target="_blank" rel="noopener noreferrer">Benutzerhandbuch (Deutsch)<OutboundLink/></a></li>
-<li><a href="https://raw.githubusercontent.com/OCR4all/getting_started/master/ocr4all-user_guide_eng.pdf" target="_blank" rel="noopener noreferrer">Benutzerhandbuch (Englisch)<OutboundLink/></a></li>
 </ul>
-</div>
 </template>

@@ -1,4 +1,8 @@
-<template><p>Latest OCR4all image for VirtualBox is available for download here:
+<template><div class="custom-container warning"><p class="custom-container-title">WARNING</p>
+<p>This page is still under construction.
+If you come across any problems please <a href="mailto:florian.langhanki@uni-wuerzburg.de">contact us</a>.</p>
+</div>
+<p>Latest OCR4all image for VirtualBox is available for download here:
 <a href="http://ocr4all.org/lib/download.php?file=OCR4all_0.5.zip" target="_blank" rel="noopener noreferrer">OCR4all_0.5.zip<OutboundLink/></a></p>
 <p>More downloads:</p>
 <ul>

@@ -13,8 +13,7 @@ and <a href="https://github.com/OCR4all/LAREX/releases" target="_blank" rel="noo
 <div class="custom-container tip"><p class="custom-container-title">Installation guide</p>
 <ul>
 <li><a href="http://ocr4all.org/lib/download.php?file=ocr4all-setup_guide_virtualbox_eng.pdf" target="_blank" rel="noopener noreferrer">VirtualBox (English)<OutboundLink/></a></li>
-<li><a href="http://ocr4all.org/lib/download.php?file=ocr4all-setup_guide_virtualbox_ger.pdf" target="_blank" rel="noopener noreferrer">VirtualBox (German)<OutboundLink/></a></li>
-<li><a href="">Docker (English)</a></li>
+<li><a href="https://github.com/OCR4all/getting_started/blob/master/ocr4all-setup_guide_docker.pdf" target="_blank" rel="noopener noreferrer">Docker<OutboundLink/></a></li>
 <li><a href="https://github.com/OCR4all/getting_started#getting-started-with-ocr4all" target="_blank" rel="noopener noreferrer">Getting Started (Website)<OutboundLink/></a></li>
 </ul>
 <p>An installation via VirtualBox is strongly recommended for non-technical users.</p>
@@ -26,10 +25,8 @@ and <a href="https://github.com/OCR4all/LAREX/releases" target="_blank" rel="noo
 <li><a href="https://github.com/OCR4all/OCR4all#ocr4all" target="_blank" rel="noopener noreferrer">Github<OutboundLink/></a></li>
 </ul>
 </div>
-<div class="custom-container tip"><p class="custom-container-title">User manual</p>
+<h2 id="user-manual" tabindex="-1"><a class="header-anchor" href="#user-manual" aria-hidden="true">#</a> User manual</h2>
 <ul>
 <li><a href="https://raw.githubusercontent.com/OCR4all/getting_started/master/ocr4all-user_guide_eng.pdf" target="_blank" rel="noopener noreferrer">User manual (English)<OutboundLink/></a></li>
-<li><a href="https://raw.githubusercontent.com/OCR4all/getting_started/master/ocr4all-user_guide_ger.pdf" target="_blank" rel="noopener noreferrer">User manual (German)<OutboundLink/></a></li>
 </ul>
-</div>
 </template>
