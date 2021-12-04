@@ -1,7 +1,7 @@
 module.exports = {
   plugins: [
     ["vuepress-plugin-auto-sidebar", {
-      // options
+      //options
     }],
   ],
   base: '/OCR4all/',
