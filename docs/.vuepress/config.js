@@ -3,7 +3,7 @@ module.exports = {
     ["vuepress-plugin-auto-sidebar", {
       //options
     }]
-  ]
+  ],
   base: '/OCR4all/',
   locales: {
     // The key is the path for the locale to be nested under.
