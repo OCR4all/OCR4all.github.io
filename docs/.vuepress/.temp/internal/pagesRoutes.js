@@ -42,6 +42,7 @@ const routeItems = [
   ["v-567fadf4","/ocr4all_userguide/4.Workflow/4.009-Training.html","",["/ocr4all_userguide/4.Workflow/4.009-Training","/ocr4all_userguide/4.Workflow/4.009-Training.md"]],
   ["v-60863502","/ocr4all_userguide/4.Workflow/4.010-Post_Correction.html","",["/ocr4all_userguide/4.Workflow/4.010-Post_Correction","/ocr4all_userguide/4.Workflow/4.010-Post_Correction.md"]],
   ["v-2f9260be","/ocr4all_userguide/4.Workflow/4.011-Result_Generation.html","",["/ocr4all_userguide/4.Workflow/4.011-Result_Generation","/ocr4all_userguide/4.Workflow/4.011-Result_Generation.md"]],
+  ["v-3ad27dfe","/ocr4all_userguide/4.Workflow/Summary.html","",["/ocr4all_userguide/4.Workflow/Summary","/ocr4all_userguide/4.Workflow/Summary.md"]],
   ["v-1edef05b","/ocr4all_userguide/5.Errors/5-Errors-Problems.html","5. Fehler, häufige Probleme und ihre Vermeidung",["/ocr4all_userguide/5.Errors/5-Errors-Problems","/ocr4all_userguide/5.Errors/5-Errors-Problems.md"]],
   ["v-2257cdd3","/en/ocr4all_userguide/0.FrontPage/0.FrontPage.html","0. Start",["/en/ocr4all_userguide/0.FrontPage/0.FrontPage","/en/ocr4all_userguide/0.FrontPage/0.FrontPage.md"]],
   ["v-31c58358","/en/ocr4all_userguide/1.OCR4all/1.1_Introduction.html","1.1 Introduction",["/en/ocr4all_userguide/1.OCR4all/1.1_Introduction","/en/ocr4all_userguide/1.OCR4all/1.1_Introduction.md"]],
@@ -66,6 +67,7 @@ const routeItems = [
   ["v-1b3075cc","/en/ocr4all_userguide/4.Workflow/4.009-Training.html","",["/en/ocr4all_userguide/4.Workflow/4.009-Training","/en/ocr4all_userguide/4.Workflow/4.009-Training.md"]],
   ["v-a5b56a2a","/en/ocr4all_userguide/4.Workflow/4.010-Post_Correction.html","",["/en/ocr4all_userguide/4.Workflow/4.010-Post_Correction","/en/ocr4all_userguide/4.Workflow/4.010-Post_Correction.md"]],
   ["v-0d1b8a0d","/en/ocr4all_userguide/4.Workflow/4.011-Result_Generation.html","",["/en/ocr4all_userguide/4.Workflow/4.011-Result_Generation","/en/ocr4all_userguide/4.Workflow/4.011-Result_Generation.md"]],
+  ["v-f71cdf2c","/en/ocr4all_userguide/4.Workflow/Summary.html","",["/en/ocr4all_userguide/4.Workflow/Summary","/en/ocr4all_userguide/4.Workflow/Summary.md"]],
   ["v-93aa5272","/en/ocr4all_userguide/5.Errors/5-Errors-Problems.html","5. Errors, frequent problems and how to avoid them",["/en/ocr4all_userguide/5.Errors/5-Errors-Problems","/en/ocr4all_userguide/5.Errors/5-Errors-Problems.md"]],
   ["v-3706649a","/404.html","",["/404"]],
 ]
