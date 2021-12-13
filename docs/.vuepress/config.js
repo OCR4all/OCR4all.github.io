@@ -3,8 +3,8 @@ module.exports = {
     ["vuepress-plugin-auto-sidebar", {
       //options
     }]
-  ],
-  base: '/OCR4all.github.io/',
+  ]
+  base: '/OCR4all/',
   locales: {
     // The key is the path for the locale to be nested under.
     // As a special case, the default locale can use '/' as its path.
@@ -20,7 +20,7 @@ module.exports = {
     },
   },
   themeConfig: {
-    repo: 'OCR4all/OCR4all.github.io',
+    repo: 'SinaB0ck/OCR4all',
     lastUpdated: false,
     contributors: false,
     locales: {
