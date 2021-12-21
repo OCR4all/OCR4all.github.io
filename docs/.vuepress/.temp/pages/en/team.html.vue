@@ -31,5 +31,6 @@ lead) <a href="mailto:herbert.baier@uni-wuerzburg.de?subject=ocr4all%20contact">
 <li>Alexander Hartelt (OCR4all)</li>
 <li>Nico Balbach (OCR4all and LAREX)</li>
 <li>Christine Grundig (ideas and feedback)</li>
+<li>Maximilian Wehner</li>
 </ul>
 </template>

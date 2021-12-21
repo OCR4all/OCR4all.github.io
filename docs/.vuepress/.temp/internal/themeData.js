@@ -23,7 +23,7 @@ export const themeData = {
             "/ocr4all_userguide/2.ScanAndImagePreparation/2-ScanPreparation.md",
             "/ocr4all_userguide/3.ProjectStartAndOverview/3.1-Getting started.md",
             "/ocr4all_userguide/3.ProjectStartAndOverview/3.2-Project Overview.md",
-            "/ocr4all_userguide/4.Workflow/4.001-Process_Flow.md",
+            "/ocr4all_userguide/4.Workflow/Summary.md",
             "/ocr4all_userguide/5.Errors/5-Errors-Problems.md"
           ]
         },
@@ -64,7 +64,7 @@ export const themeData = {
             "/en/ocr4all_userguide/2.ScanAndImagePreparation/2-ScanPreparation.md",
             "/en/ocr4all_userguide/3.ProjectStartAndOverview/3.1-Getting started.md",
             "/en/ocr4all_userguide/3.ProjectStartAndOverview/3.2-Project Overview.md",
-            "/en/ocr4all_userguide/4.Workflow/4.001-Process_Flow.md",
+            "/en/ocr4all_userguide/4.Workflow/Summary.md",
             "/en/ocr4all_userguide/5.Errors/5-Errors-Problems.md"
           ]
         },

@@ -31,3 +31,4 @@ description: Get to know and contact our team
 - Alexander Hartelt (OCR4all)
 - Nico Balbach (OCR4all and LAREX)
 - Christine Grundig (ideas and feedback)
+- Maximilian Wehner

@@ -1,13 +1,9 @@
 export const data = {
   "key": "v-6173b5ba",
   "path": "/ocr4all_userguide/4.Workflow/4.001-Process_Flow.html",
-  "title": "4. Workflow",
+  "title": "",
   "lang": "de-DE",
-  "frontmatter": {
-    "lang": "de-DE",
-    "title": "4. Workflow",
-    "description": "Workflow"
-  },
+  "frontmatter": {},
   "excerpt": "",
   "headers": [
     {

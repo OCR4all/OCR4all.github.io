@@ -14,14 +14,7 @@ export const data = {
       "level": 2,
       "title": "OCR4all libraries",
       "slug": "ocr4all-libraries",
-      "children": [
-        {
-          "level": 3,
-          "title": "Zusammenfassung",
-          "slug": "zusammenfassung",
-          "children": []
-        }
-      ]
+      "children": []
     },
     {
       "level": 2,

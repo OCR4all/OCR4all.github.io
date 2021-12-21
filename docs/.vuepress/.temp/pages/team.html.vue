@@ -29,5 +29,6 @@
 <li>Alexander Hartelt (OCR4all)</li>
 <li>Nico Balbach (OCR4all und LAREX)</li>
 <li>Christine Grundig (Ideen und Feedback)</li>
+<li>Maximilian Wehner</li>
 </ul>
 </template>

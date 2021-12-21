@@ -1,15 +1,17 @@
 <template><h2 id="ocr4all-libraries" tabindex="-1"><a class="header-anchor" href="#ocr4all-libraries" aria-hidden="true">#</a> OCR4all libraries</h2>
-<h3 id="zusammenfassung" tabindex="-1"><a class="header-anchor" href="#zusammenfassung" aria-hidden="true">#</a> Zusammenfassung</h3>
-<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
-sed diam nonumy eirmod tempor invidunt ut labore et dolore magna
-aliquyam erat, sed diam voluptua. At vero eos et accusam et justo
-duo dolores et ea rebum.
-Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed
-diam nonumy eirmod tempor invidunt ut labore et dolore magna
-aliquyam erat, sed diam voluptua. At vero eos et accusam et
-justo duo dolores et ea rebum. Stet clita kasd gubergren,
-no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+<!---
+### Zusammenfassung
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, 
+sed diam nonumy eirmod tempor invidunt ut labore et dolore magna 
+aliquyam erat, sed diam voluptua. At vero eos et accusam et justo 
+duo dolores et ea rebum. 
+Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. 
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed 
+diam nonumy eirmod tempor invidunt ut labore et dolore magna 
+aliquyam erat, sed diam voluptua. At vero eos et accusam et 
+justo duo dolores et ea rebum. Stet clita kasd gubergren, 
+no sea takimata sanctus est Lorem ipsum dolor sit amet.
+--->
 <!---
 ### Projektgruppe
 | Dr. Anke Hertling | Prof. Dr. Marc Latoschik | Dr. Christian Reul |
