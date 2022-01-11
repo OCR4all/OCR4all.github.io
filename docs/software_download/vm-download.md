@@ -3,7 +3,7 @@ Die Seite wird gerade noch überarbeitet.
 Bei auftretenden Problemen [kontaktieren](mailto:florian.langhanki@uni-wuerzburg.de) Sie uns bitte.
 :::
 Das neueste OCR4all-Bild für VirtualBox steht hier zum Herunterladen zur Verfügung: 
-[OCR4all_0.5.zip](https://www.kallimachos.uni-wuerzburg.de/ocr4all-download/download.php?file=OCR4all_0.5.zip)
+[OCR4all_0.5.zip](http://www.kallimachos.uni-wuerzburg.de/ocr4all-download/download.php?file=OCR4all_0.5.zip)
 
 Weitere Downloads: 
 - [OCR4all_0.3.zip](http://ocr4all.org/lib/download.php?file=OCR4all_0.3.zip)
