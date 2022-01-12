@@ -47,7 +47,9 @@ export const data = {
       },
       {
         "text": "4. Workflow",
-        "link": "/en/ocr4all_userguide/4.Workflow/Summary.md"
+        "children": [
+          "/en/ocr4all_userguide/4.Workflow/Summary.md"
+        ]
       },
       {
         "text": "5. Errors, Problems",

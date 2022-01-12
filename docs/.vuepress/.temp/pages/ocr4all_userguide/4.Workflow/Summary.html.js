@@ -47,7 +47,9 @@ export const data = {
       },
       {
         "text": "4. Workflow",
-        "link": "/ocr4all_userguide/4.Workflow/Summary.md"
+        "children": [
+          "/ocr4all_userguide/4.Workflow/Summary.md"
+        ]
       },
       {
         "text": "5. Fehler, häufige Probleme und ihre Vermeidung",

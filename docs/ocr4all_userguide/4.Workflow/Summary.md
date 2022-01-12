@@ -12,7 +12,7 @@ children: [{text: '1.1 Einführung', link: '/ocr4all_userguide/1.OCR4all/1.1_Int
 { text: '3. Projekt starten und Übersicht', 
 children: [{text: '3.1 OCR4all starten', link: '/ocr4all_userguide/3.ProjectStartAndOverview/3.1-Getting started.md'}, 
 {text: '3.2 Project Overview', link: '/ocr4all_userguide/3.ProjectStartAndOverview/3.2-Project Overview.md'}]}, 
-{ text: '4. Workflow', link: '/ocr4all_userguide/4.Workflow/Summary.md', }, 
+{ text: '4. Workflow', children: ['/ocr4all_userguide/4.Workflow/Summary.md']}, 
 { text: '5. Fehler, häufige Probleme und ihre Vermeidung', link: '/ocr4all_userguide/5.Errors/5-Errors-Problems.md', }]
 # NavLink
 prev: /ocr4all_userguide/3.ProjectStartAndOverview/3.2-Project Overview.md
