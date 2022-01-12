@@ -18,8 +18,14 @@ export const data = {
       {
         "text": "1. OCR4all",
         "children": [
-          "/en/ocr4all_userguide/1.OCR4all/1.1_Introduction.md",
-          "/en/ocr4all_userguide/1.OCR4all/1.2_Set up and folder structure.md"
+          {
+            "text": "1.1 Introduction",
+            "link": "/en/ocr4all_userguide/1.OCR4all/1.1_Introduction.md"
+          },
+          {
+            "text": "1.2 Set up and folder structure",
+            "link": "/en/ocr4all_userguide/1.OCR4all/1.2_Set up and folder structure.md"
+          }
         ]
       },
       {
@@ -29,8 +35,14 @@ export const data = {
       {
         "text": "3. Project Start and Overview",
         "children": [
-          "/en/ocr4all_userguide/3.ProjectStartAndOverview/3.1-Getting started.md",
-          "/en/ocr4all_userguide/3.ProjectStartAndOverview/3.2-Project Overview.md"
+          {
+            "text": "3.1 Getting started",
+            "link": "/en/ocr4all_userguide/3.ProjectStartAndOverview/3.1-Getting started.md"
+          },
+          {
+            "text": "3.2 Project Overview",
+            "link": "/en/ocr4all_userguide/3.ProjectStartAndOverview/3.2-Project Overview.md"
+          }
         ]
       },
       {
