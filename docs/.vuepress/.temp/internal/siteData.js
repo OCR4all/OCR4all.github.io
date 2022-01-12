@@ -1,5 +1,5 @@
 export const siteData = {
-  "base": "/OCR4all/",
+  "base": "/",
   "lang": "en-US",
   "title": "",
   "description": "",

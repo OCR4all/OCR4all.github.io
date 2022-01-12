@@ -1,5 +1,5 @@
 export const themeData = {
-  "repo": "SinaB0ck/OCR4all",
+  "repo": "OCR4all/OCR4all.github.io/",
   "lastUpdated": false,
   "contributors": false,
   "locales": {
