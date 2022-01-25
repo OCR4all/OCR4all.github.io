@@ -9,12 +9,11 @@
 </ul>
 <h3 id="entwicklung" tabindex="-1"><a class="header-anchor" href="#entwicklung" aria-hidden="true">#</a> Entwicklung</h3>
 <ul>
-<li>Dr. Herbert Baier Saip (Softwarearchitekt und Entwicklungsleiter) <a href="mailto:herbert.baier@uni-wuerzburg.de?subject=ocr4all%20Kontakt">Mail</a></li>
-<li>Maximilian Nöth (OCR4all und LAREX)</li>
-<li>Yannik Herbst (OCR4all und Distribution über VirtualBox)</li>
+<li>Dr. Herbert Baier Saip (OCR4all Backend) <a href="mailto:herbert.baier@uni-wuerzburg.de?subject=ocr4all%20Kontakt">Mail</a></li>
+<li>Maximilian Nöth (OCR4all Frontend und LAREX) <a href="mailto:maximilian.noeth@uni-wuerzburg.de?subject=ocr4all%20Kontakt">Mail</a></li>
+<li>Kevin Chadbourne (LAREX)</li>
 <li>Dr. Christoph Wick (Calamari)</li>
 <li>Andreas Büttner (Calamari)</li>
-<li>Björn Eyselein (Artifactory und Distribution über Docker)</li>
 </ul>
 <h3 id="verschiedenes" tabindex="-1"><a class="header-anchor" href="#verschiedenes" aria-hidden="true">#</a> Verschiedenes</h3>
 <ul>
@@ -22,13 +21,16 @@
 <li>Dr. Uwe Springmann (Ideen und Feedback)</li>
 <li>Prof. Dr. Frank Puppe (Funding)</li>
 <li>Isabel Müller (Website)</li>
+<li>Kristof Korwisi (Usability)</li>
 </ul>
 <h3 id="ehemalige-projektmitarbeiter" tabindex="-1"><a class="header-anchor" href="#ehemalige-projektmitarbeiter" aria-hidden="true">#</a> Ehemalige Projektmitarbeiter</h3>
 <ul>
-<li>Dennis Christ (OCR4all)</li>
-<li>Alexander Hartelt (OCR4all)</li>
 <li>Nico Balbach (OCR4all und LAREX)</li>
+<li>Dennis Christ (OCR4all)</li>
+<li>Björn Eyselein (Artifactory und Distribution über Docker)</li>
 <li>Christine Grundig (Ideen und Feedback)</li>
-<li>Maximilian Wehner</li>
+<li>Alexander Hartelt (OCR4all)</li>
+<li>Yannik Herbst (OCR4all und Distribution über VirtualBox)</li>
+<li>Maximilian Wehner (User Support)</li>
 </ul>
 </template>

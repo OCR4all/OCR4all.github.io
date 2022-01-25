@@ -9,28 +9,28 @@
 </ul>
 <h3 id="development" tabindex="-1"><a class="header-anchor" href="#development" aria-hidden="true">#</a> Development</h3>
 <ul>
-<li>Dr. Herbert Baier Saip (Software architecture and developement
-lead) <a href="mailto:herbert.baier@uni-wuerzburg.de?subject=ocr4all%20contact">Mail</a></li>
-<li>Maximilian Nöth (OCR4all and LAREX)</li>
-<li>Kevin Chadbourne (OCR4all)</li>
-<li>Yannik Herbst (OCR4all and distribution via VirtualBox)</li>
+<li>Dr. Herbert Baier Saip (OCR4all Backend) <a href="mailto:herbert.baier@uni-wuerzburg.de?subject=ocr4all%20contact">Mail</a></li>
+<li>Maximilian Nöth (OCR4all Frontend and LAREX) <a href="mailto:maximilian.noeth@uni-wuerzburg.de?subject=ocr4all%20contakt">Mail</a></li>
+<li>Kevin Chadbourne (LAREX)</li>
 <li>Dr. Christoph Wick (Calamari)</li>
 <li>Andreas Büttner (Calamari)</li>
-<li>Björn Eyselein (Artifactory and distribution via Docker)</li>
 </ul>
 <h3 id="miscellaneous" tabindex="-1"><a class="header-anchor" href="#miscellaneous" aria-hidden="true">#</a> Miscellaneous</h3>
 <ul>
-<li>Raphaëlle Jung (guides and illustrations)</li>
-<li>Dr. Uwe Springmann (ideas and feedback)</li>
+<li>Raphaëlle Jung (Guides and Illustrations)</li>
+<li>Dr. Uwe Springmann (Ideas and Feedback)</li>
 <li>Prof. Dr. Frank Puppe (Funding)</li>
 <li>Isabel Müller (Website)</li>
+<li>Kristof Korwisi (Usability)</li>
 </ul>
 <h3 id="former-project-staff" tabindex="-1"><a class="header-anchor" href="#former-project-staff" aria-hidden="true">#</a> Former project staff</h3>
 <ul>
-<li>Dennis Christ (OCR4all)</li>
-<li>Alexander Hartelt (OCR4all)</li>
 <li>Nico Balbach (OCR4all and LAREX)</li>
-<li>Christine Grundig (ideas and feedback)</li>
-<li>Maximilian Wehner</li>
+<li>Dennis Christ (OCR4all)</li>
+<li>Björn Eyselein (Artifactory and distribution via Docker)</li>
+<li>Christine Grundig (Ideas and Feedback)</li>
+<li>Alexander Hartelt (OCR4all)</li>
+<li>Yannik Herbst (OCR4all and distribution via VirtualBox)</li>
+<li>Maximilian Wehner (User Support)</li>
 </ul>
 </template>

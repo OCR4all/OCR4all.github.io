@@ -6,13 +6,13 @@ If you come across any problems please <a href="mailto:florian.langhanki@uni-wue
 <a href="http://www.kallimachos.uni-wuerzburg.de/ocr4all-download/download.php?file=OCR4all_0.5.zip" target="_blank" rel="noopener noreferrer">OCR4all_0.5.zip<OutboundLink/></a></p>
 <p>More downloads:</p>
 <ul>
-<li><a href="http://ocr4all.org/lib/download.php?file=OCR4all_0.3.zip" target="_blank" rel="noopener noreferrer">OCR4all_0.3.zip<OutboundLink/></a></li>
+<li><a href="http://www.kallimachos.uni-wuerzburg.de/ocr4all-download/download.php?file=OCR4all_0.3.zip" target="_blank" rel="noopener noreferrer">OCR4all_0.3.zip<OutboundLink/></a></li>
 </ul>
 <p>Please note our installation guides for an easy and quick
 implementation:</p>
 <ul>
-<li>English: <a href="http://ocr4all.org/lib/download.php?file=ocr4all-setup_guide_virtualbox_eng.pdf" target="_blank" rel="noopener noreferrer">ocr4all-setup_guide_virtualbox_eng.pdf<OutboundLink/></a></li>
-<li>German: <a href="http://ocr4all.org/lib/download.php?file=ocr4all-setup_guide_virtualbox_ger.pdf" target="_blank" rel="noopener noreferrer">ocr4all-setup_guide_virtualbox_ger.pdf<OutboundLink/></a></li>
+<li>English: <a href="http://github.com/OCR4all/getting_started/blob/master/ocr4all-setup_guide_virtualbox_eng.pdf" target="_blank" rel="noopener noreferrer">ocr4all-setup_guide_virtualbox_eng.pdf<OutboundLink/></a></li>
+<li>German: <a href="http://github.com/OCR4all/getting_started/blob/master/ocr4all-setup_guide_virtualbox_ger.pdf" target="_blank" rel="noopener noreferrer">ocr4all-setup_guide_virtualbox_ger.pdf<OutboundLink/></a></li>
 </ul>
 <p>Please do not hesitate to <a href="mailto:ocr4all@uni-wuerzburg.de?subject=ocr4all%20contact">contact
 us</a>

@@ -11,24 +11,24 @@ description: Get to know and contact our team
 - Annika Müller
 
 ### Development
-- Dr. Herbert Baier Saip (Software architecture and developement
-		lead) [Mail](mailto:herbert.baier@uni-wuerzburg.de?subject=ocr4all%20contact)
-- Maximilian Nöth (OCR4all and LAREX)
-- Kevin Chadbourne (OCR4all)
-- Yannik Herbst (OCR4all and distribution via VirtualBox)
+- Dr. Herbert Baier Saip (OCR4all Backend) [Mail](mailto:herbert.baier@uni-wuerzburg.de?subject=ocr4all%20contact)
+- Maximilian Nöth (OCR4all Frontend and LAREX) [Mail](mailto:maximilian.noeth@uni-wuerzburg.de?subject=ocr4all%20contakt)
+- Kevin Chadbourne (LAREX)
 - Dr. Christoph Wick (Calamari)
 - Andreas Büttner (Calamari)
-- Björn Eyselein (Artifactory and distribution via Docker)
 
 ### Miscellaneous
-- Raphaëlle Jung (guides and illustrations)
-- Dr. Uwe Springmann (ideas and feedback)
+- Raphaëlle Jung (Guides and Illustrations)
+- Dr. Uwe Springmann (Ideas and Feedback)
 - Prof. Dr. Frank Puppe (Funding)
 - Isabel Müller (Website)
+- Kristof Korwisi (Usability)
 
 ### Former project staff
-- Dennis Christ (OCR4all)
-- Alexander Hartelt (OCR4all)
 - Nico Balbach (OCR4all and LAREX)
-- Christine Grundig (ideas and feedback)
-- Maximilian Wehner
+- Dennis Christ (OCR4all)
+- Björn Eyselein (Artifactory and distribution via Docker)
+- Christine Grundig (Ideas and Feedback)
+- Alexander Hartelt (OCR4all)
+- Yannik Herbst (OCR4all and distribution via VirtualBox)
+- Maximilian Wehner (User Support)
