@@ -61,6 +61,7 @@ Gegenstand der Kooperation ist, neben dem fortlaufenden Austausch vor
 	außerhalb der VD-Massendigitalisierung erreicht.
 
 ### Berichterstattung (Auswahl)
+- einBlick: [Historische Schriften digital erkennen](https://www.uni-wuerzburg.de/aktuelles/einblick/single/news/historische-schriften-digital-erkennen/)
 - Radiointerview SWR2 Impuls: Mittelalterliche Handschriften werden
 		Textdokumente
 - [Toolvorstellung](https://fortext.net/tools/tools/ocr4all) 
@@ -71,6 +72,7 @@ Gegenstand der Kooperation ist, neben dem fortlaufenden Austausch vor
   Texterkennungs-Tool für historische Druckschriften](https://www.derstandard.de/story/2000101916347/zuverlaessige-texterkennungs-tool-fuer-historische-druckschriften)
 - Augsburger Allgemeine: [Computer liest alte Texte](https://www.augsburger-allgemeine.de/bayern/Computer-liest-alte-Texte-id54130851.html)
 - einBlick: [Modernes Tool für alte Texte](https://www.uni-wuerzburg.de/aktuelles/einblick/single/news/modernes-tool-fuer-alte-texte)
+
 ### Zitation
 
 Falls Sie OCR4all verwenden, zitieren Sie bitte das zugehörige [Paper](https://www.mdpi.com/2076-3417/9/22/4853"):

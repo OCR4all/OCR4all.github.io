@@ -48,6 +48,7 @@ durch den vereinfachten Zugang auch neue Anwendergruppen in- und
 außerhalb der VD-Massendigitalisierung erreicht.</p>
 <h3 id="berichterstattung-auswahl" tabindex="-1"><a class="header-anchor" href="#berichterstattung-auswahl" aria-hidden="true">#</a> Berichterstattung (Auswahl)</h3>
 <ul>
+<li>einBlick: <a href="https://www.uni-wuerzburg.de/aktuelles/einblick/single/news/historische-schriften-digital-erkennen/" target="_blank" rel="noopener noreferrer">Historische Schriften digital erkennen<OutboundLink/></a></li>
 <li>Radiointerview SWR2 Impuls: Mittelalterliche Handschriften werden
 Textdokumente</li>
 <li><a href="https://fortext.net/tools/tools/ocr4all" target="_blank" rel="noopener noreferrer">Toolvorstellung<OutboundLink/></a>

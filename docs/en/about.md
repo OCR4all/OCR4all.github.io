@@ -71,6 +71,7 @@ The aim of the co-operation is not only the continuous exchange of
 	groups inside and outside VD mass digitization.
 
 ### Reporting (assortment)
+- einBlick: [Historische Schriften digital erkennen](https://www.uni-wuerzburg.de/aktuelles/einblick/single/news/historische-schriften-digital-erkennen/)
 - Radiointerview SWR2 Impuls: Mittelalterliche Handschriften werden
 		Textdokumente
 - [Toolvorstellung](https://fortext.net/tools/tools/ocr4all) 
@@ -81,6 +82,7 @@ The aim of the co-operation is not only the continuous exchange of
   Druckschriften](https://www.derstandard.de/story/2000101916347/zuverlaessige-texterkennungs-tool-fuer-historische-druckschriften)
 - Augsburger Allgemeine: [Computer liest alte Texte](https://www.augsburger-allgemeine.de/bayern/Computer-liest-alte-Texte-id54130851.html)
 - einBlick: [Modernes Tool für alte Texte](https://www.uni-wuerzburg.de/aktuelles/einblick/single/news/modernes-tool-fuer-alte-texte)
+
 ### Zitation
 
 If you are using OCR4all please cite the corresponding [paper](https://www.mdpi.com/2076-3417/9/22/4853"):
