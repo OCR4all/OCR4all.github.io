@@ -1,4 +1,5 @@
-<template><h2 id="ocr4all-libraries" tabindex="-1"><a class="header-anchor" href="#ocr4all-libraries" aria-hidden="true">#</a> OCR4all libraries</h2>
+<template><h2 id="ocr4all-libraries" tabindex="-1"><a class="header-anchor" href="#ocr4all-libraries" aria-hidden="true">#</a> OCR4all-libraries</h2>
+<p><a href="https://gepris.dfg.de/gepris/projekt/460665940?context=projekt&amp;task=showDetail&amp;id=460665940&amp;" target="_blank" rel="noopener noreferrer">OCR4all-libraries – Volltexterkennung historischer Sammlungen<OutboundLink/></a> (DFG, 2021-23)</p>
 <!---
 ### Zusammenfassung
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, 
@@ -35,7 +36,7 @@ no sea takimata sanctus est Lorem ipsum dolor sit amet.
 | PM ZPD | Mitarbeiter ZPD | |
 --->
 <h2 id="camerarius-digital" tabindex="-1"><a class="header-anchor" href="#camerarius-digital" aria-hidden="true">#</a> Camerarius digital</h2>
-<p><a href="http://www.camerarius.de/camerarius-digital-2021-2024/" target="_blank" rel="noopener noreferrer">Camerarius digital<OutboundLink/></a> (DFG, 2021-24)</p>
+<p><a href="http://www.camerarius.de/camerarius-digital-2021-2024/" target="_blank" rel="noopener noreferrer">Projekthomepage<OutboundLink/></a> (DFG, 2021-24)</p>
 <h2 id="narragonien-digital" tabindex="-1"><a class="header-anchor" href="#narragonien-digital" aria-hidden="true">#</a> Narragonien digital</h2>
-<p><a href="http://www.narragonien-digital.de/" target="_blank" rel="noopener noreferrer">Narragonien digital<OutboundLink/></a> (BMBF, 2014-2019)</p>
+<p><a href="http://www.narragonien-digital.de/" target="_blank" rel="noopener noreferrer">Projekthomepage<OutboundLink/></a> (BMBF, 2014-2019)</p>
 </template>

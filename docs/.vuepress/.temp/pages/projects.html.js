@@ -12,7 +12,7 @@ export const data = {
   "headers": [
     {
       "level": 2,
-      "title": "OCR4all libraries",
+      "title": "OCR4all-libraries",
       "slug": "ocr4all-libraries",
       "children": []
     },

@@ -3,7 +3,8 @@ lang: de-GE
 title: Projekte
 description: Zusammenfassung und Projektgruppe
 ---
-## OCR4all libraries
+## OCR4all-libraries
+[OCR4all-libraries – Volltexterkennung historischer Sammlungen](https://gepris.dfg.de/gepris/projekt/460665940?context=projekt&task=showDetail&id=460665940&) (DFG, 2021-23)
 <!---
 ### Zusammenfassung
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, 
@@ -42,7 +43,7 @@ no sea takimata sanctus est Lorem ipsum dolor sit amet.
 --->
 
 ## Camerarius digital
-[Camerarius digital](http://www.camerarius.de/camerarius-digital-2021-2024/) (DFG, 2021-24)
+[Projekthomepage](http://www.camerarius.de/camerarius-digital-2021-2024/) (DFG, 2021-24)
 
 ## Narragonien digital
-[Narragonien digital](http://www.narragonien-digital.de/) (BMBF, 2014-2019)
+[Projekthomepage](http://www.narragonien-digital.de/) (BMBF, 2014-2019)
