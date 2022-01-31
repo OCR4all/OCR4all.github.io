@@ -27,7 +27,7 @@ Die Installation über VirtualBox wird besonders nicht-technischen Nutzern dring
 
 ::: tip Download
 - [VirtualBox](./vm-download.md)
-- [Docker](https://hub.docker.com/r/ls6uniwue/ocr4all)
+- [Docker](https://hub.docker.com/r/uniwuezpd/ocr4all)
 - [Github](https://github.com/OCR4all/OCR4all#ocr4all)
 :::
   
