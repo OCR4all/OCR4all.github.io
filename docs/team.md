@@ -14,15 +14,13 @@ description: Lernen Sie unser Team kennen und kontaktieren Sie es
 - Dr. Herbert Baier Saip (OCR4all Backend) [Mail](mailto:herbert.baier@uni-wuerzburg.de?subject=ocr4all%20Kontakt)
 - Maximilian Nöth (OCR4all Frontend und LAREX) [Mail](mailto:maximilian.noeth@uni-wuerzburg.de?subject=ocr4all%20Kontakt)
 - Kevin Chadbourne (LAREX)
-- Dr. Christoph Wick (Calamari)
 - Andreas Büttner (Calamari)
 
 ### Verschiedenes
 - Raphaëlle Jung (Anleitungen und Illustrationen)
-- Dr. Uwe Springmann (Ideen und Feedback)
-- Prof. Dr. Frank Puppe (Funding)
-- Isabel Müller (Website)
 - Kristof Korwisi (Usability)
+- Isabel Müller (Website)
+- Dr. Uwe Springmann (Ideen und Feedback)
 
 ### Ehemalige Projektmitarbeiter
 - Nico Balbach (OCR4all und LAREX)
@@ -32,3 +30,4 @@ description: Lernen Sie unser Team kennen und kontaktieren Sie es
 - Alexander Hartelt (OCR4all)
 - Yannik Herbst (OCR4all und Distribution über VirtualBox)
 - Maximilian Wehner (User Support)
+- Dr. Christoph Wick (Calamari)
