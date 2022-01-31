@@ -5,10 +5,11 @@ export const data = {
   "lang": "en-US",
   "frontmatter": {
     "home": true,
+    "tagline": null,
     "lang": "en-US",
     "title": "Homepage",
     "description": "Welcome to OCR4all",
-    "footer": "© ZPD University of Würzburg - Germany 2017-2021 | All rights reserved"
+    "footer": "© ZPD University of Würzburg - Germany 2017-2022 | All rights reserved"
   },
   "excerpt": "",
   "headers": [],
