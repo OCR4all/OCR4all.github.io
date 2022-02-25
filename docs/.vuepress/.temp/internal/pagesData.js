@@ -43,10 +43,6 @@ export const pagesData = {
   "v-5b5444be": () => import(/* webpackChunkName: "v-5b5444be" */"C:/Users/Isabel/PycharmProjects/OCR4all.github.io/docs/.vuepress/.temp/pages/ocr4all_userguide/1.OCR4all/1.2_Set up and folder structure.html.js").then(({ data }) => data),
   // path: /ocr4all_userguide/2.ScanAndImagePreparation/2-ScanPreparation.html
   "v-73af71da": () => import(/* webpackChunkName: "v-73af71da" */"C:/Users/Isabel/PycharmProjects/OCR4all.github.io/docs/.vuepress/.temp/pages/ocr4all_userguide/2.ScanAndImagePreparation/2-ScanPreparation.html.js").then(({ data }) => data),
-  // path: /ocr4all_userguide/3.ProjectStartAndOverview/3.1-Getting%20started.html
-  "v-6df0e67c": () => import(/* webpackChunkName: "v-6df0e67c" */"C:/Users/Isabel/PycharmProjects/OCR4all.github.io/docs/.vuepress/.temp/pages/ocr4all_userguide/3.ProjectStartAndOverview/3.1-Getting started.html.js").then(({ data }) => data),
-  // path: /ocr4all_userguide/3.ProjectStartAndOverview/3.2-Project%20Overview.html
-  "v-8fbffe9c": () => import(/* webpackChunkName: "v-8fbffe9c" */"C:/Users/Isabel/PycharmProjects/OCR4all.github.io/docs/.vuepress/.temp/pages/ocr4all_userguide/3.ProjectStartAndOverview/3.2-Project Overview.html.js").then(({ data }) => data),
   // path: /ocr4all_userguide/4.Workflow/4.001-Process_Flow.html
   "v-6173b5ba": () => import(/* webpackChunkName: "v-6173b5ba" */"C:/Users/Isabel/PycharmProjects/OCR4all.github.io/docs/.vuepress/.temp/pages/ocr4all_userguide/4.Workflow/4.001-Process_Flow.html.js").then(({ data }) => data),
   // path: /ocr4all_userguide/4.Workflow/4.002-Preprocessing.html
@@ -85,6 +81,10 @@ export const pagesData = {
   "v-3ad27dfe": () => import(/* webpackChunkName: "v-3ad27dfe" */"C:/Users/Isabel/PycharmProjects/OCR4all.github.io/docs/.vuepress/.temp/pages/ocr4all_userguide/4.Workflow/Summary.html.js").then(({ data }) => data),
   // path: /ocr4all_userguide/5.Errors/5-Errors-Problems.html
   "v-1edef05b": () => import(/* webpackChunkName: "v-1edef05b" */"C:/Users/Isabel/PycharmProjects/OCR4all.github.io/docs/.vuepress/.temp/pages/ocr4all_userguide/5.Errors/5-Errors-Problems.html.js").then(({ data }) => data),
+  // path: /ocr4all_userguide/3.ProjectStartAndOverview/3.1-Getting%20started.html
+  "v-6df0e67c": () => import(/* webpackChunkName: "v-6df0e67c" */"C:/Users/Isabel/PycharmProjects/OCR4all.github.io/docs/.vuepress/.temp/pages/ocr4all_userguide/3.ProjectStartAndOverview/3.1-Getting started.html.js").then(({ data }) => data),
+  // path: /ocr4all_userguide/3.ProjectStartAndOverview/3.2-Project%20Overview.html
+  "v-8fbffe9c": () => import(/* webpackChunkName: "v-8fbffe9c" */"C:/Users/Isabel/PycharmProjects/OCR4all.github.io/docs/.vuepress/.temp/pages/ocr4all_userguide/3.ProjectStartAndOverview/3.2-Project Overview.html.js").then(({ data }) => data),
   // path: /en/ocr4all_userguide/0.FrontPage/0.FrontPage.html
   "v-2257cdd3": () => import(/* webpackChunkName: "v-2257cdd3" */"C:/Users/Isabel/PycharmProjects/OCR4all.github.io/docs/.vuepress/.temp/pages/en/ocr4all_userguide/0.FrontPage/0.FrontPage.html.js").then(({ data }) => data),
   // path: /en/ocr4all_userguide/1.OCR4all/1.1_Introduction.html
