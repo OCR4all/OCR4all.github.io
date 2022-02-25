@@ -15,7 +15,7 @@ module.exports = {
     },
   },
   themeConfig: {
-    repo: 'OCR4all/OCR4all.github.io/',
+    repo: 'OCR4all/',
     lastUpdated: false,
     contributors: false,
     locales: {

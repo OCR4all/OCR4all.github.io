@@ -1,5 +1,5 @@
 export const themeData = {
-  "repo": "OCR4all/OCR4all",
+  "repo": "OCR4all/",
   "lastUpdated": false,
   "contributors": false,
   "locales": {
