@@ -2,6 +2,7 @@ export const themeData = {
   "repo": "OCR4all/",
   "lastUpdated": false,
   "contributors": false,
+  "editLink": false,
   "locales": {
     "/": {
       "selectLanguageName": "Deutsch",
@@ -95,7 +96,6 @@ export const themeData = {
   "selectLanguageAriaLabel": "Select language",
   "sidebar": "auto",
   "sidebarDepth": 2,
-  "editLink": true,
   "editLinkText": "Edit this page",
   "lastUpdatedText": "Last Updated",
   "contributorsText": "Contributors",

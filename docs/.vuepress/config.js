@@ -18,6 +18,7 @@ module.exports = {
     repo: 'OCR4all/',
     lastUpdated: false,
     contributors: false,
+    editLink: false,
     locales: {
       '/': {
         selectLanguageName: 'Deutsch',
