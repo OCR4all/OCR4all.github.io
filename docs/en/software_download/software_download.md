@@ -3,7 +3,9 @@ lang: en-US
 title: Software and Download
 description: Download OCR4all software, installation guide, user manual
 ---
-Latest version: OCR4all 0.5.0. With the release of OCR4all 0.5.0 in
+Latest version: OCR4all 0.6.1. 
+
+With the release of OCR4all 0.5.0 in
 	November of 2020, the software now offers not only the setup via Docker
 	but also the option of installation via [VirtualBox](./vm-download.md),
 	which is particularly recommended for non-technical users. In addition,
