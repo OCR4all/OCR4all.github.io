@@ -83,7 +83,7 @@ The aim of the co-operation is not only the continuous exchange of
 - Augsburger Allgemeine: [Computer liest alte Texte](https://www.augsburger-allgemeine.de/bayern/Computer-liest-alte-Texte-id54130851.html)
 - einBlick: [Modernes Tool für alte Texte](https://www.uni-wuerzburg.de/aktuelles/einblick/single/news/modernes-tool-fuer-alte-texte)
 
-### Zitation
+### Cite
 
 If you are using OCR4all please cite the corresponding [paper](https://www.mdpi.com/2076-3417/9/22/4853):
 Reul, C., Christ, D., Hartelt, A., Balbach, N., Wehner, M., Springmann, U., Wick, C., Grundig, Büttner, A., C.,
