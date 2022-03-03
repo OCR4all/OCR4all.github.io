@@ -85,7 +85,7 @@ The aim of the co-operation is not only the continuous exchange of
 
 ### Zitation
 
-If you are using OCR4all please cite the corresponding [paper](https://www.mdpi.com/2076-3417/9/22/4853"):
+If you are using OCR4all please cite the corresponding [paper](https://www.mdpi.com/2076-3417/9/22/4853):
 Reul, C., Christ, D., Hartelt, A., Balbach, N., Wehner, M., Springmann, U., Wick, C., Grundig, Büttner, A., C.,
 Puppe, F.: OCR4all — An open-source tool providing a (semi-) automatic OCR workflow for historical printings,
 Applied Sciences 9(22) (2019)
