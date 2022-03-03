@@ -76,9 +76,10 @@ Gegenstand der Kooperation ist, neben dem fortlaufenden Austausch vor
 ### Zitation
 
 Falls Sie OCR4all verwenden, zitieren Sie bitte das zugehörige [Paper](https://www.mdpi.com/2076-3417/9/22/4853):
-Reul, C., Christ, D., Hartelt, A., Balbach, N., Wehner, M., Springmann, U., Wick, C., Grundig, Büttner, A., C.,
+
+`Reul, C., Christ, D., Hartelt, A., Balbach, N., Wehner, M., Springmann, U., Wick, C., Grundig, Büttner, A., C.,
 Puppe, F.: OCR4all — An open-source tool providing a (semi-) automatic OCR workflow for historical printings,
-Applied Sciences 9(22) (2019)
+Applied Sciences 9(22) (2019)`
 
 ### Funding
 - [DFG-Förderinitiative "OCR-D"](https://ocr-d.de/de/), (Phase 2 und 3)
