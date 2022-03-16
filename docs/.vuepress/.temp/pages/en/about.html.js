@@ -30,8 +30,8 @@ export const data = {
     },
     {
       "level": 3,
-      "title": "Zitation",
-      "slug": "zitation",
+      "title": "Cite",
+      "slug": "cite",
       "children": []
     },
     {

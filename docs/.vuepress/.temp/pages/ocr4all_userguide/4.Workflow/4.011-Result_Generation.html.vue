@@ -1,7 +1,7 @@
 <template><h3 id="_4-11result-generation" tabindex="-1"><a class="header-anchor" href="#_4-11result-generation" aria-hidden="true">#</a> 4.11	Result Generation</h3>
 <p><strong>Input</strong>: OCR-Ergebnisse auf Zeilenbasis, optional Ground Truth (wenn vorhanden) und zusätzliche Daten aus der Segmentierung (LAREX) und Zeilensegmentierung<br>
 <strong>Output</strong>: endgültiger Output als Text (einzelne Textzeilen zusammengefasst zu Seiten und Volltext) und PageXML auf Seitenbasis</p>
-<p><img src="/docs/.vuepress/public/images/Abb41.png" alt="Abb41.png"></p>
+<p><img src="/images/Abb41.png" alt="Abb41.png"></p>
 <p>Abb. 41: Result Generation.</p>
 <ul>
 <li>Sind die Erkennungs- und/oder Korrekturarbeiten an einem Werk aus Sicht des Nutzers abgeschlossen, so können Ergebnisse in Form von TXT- sowie XML-Dateien generiert werden. Sie werden unter ocr4all/data/results gespeichert.</li>

@@ -4,7 +4,7 @@
 <ul>
 <li>In direkter Vorbereitung auf die folgende OCR werden in diesem Arbeitsschritt alle mittels LAREX festgelegten und klassifizierten Layoutelemente in denen Text enthalten ist, in Zeilen zerschnitten (die OCR funktioniert zeilenbasiert) und im zugehörigen PageXML abgelegt.</li>
 </ul>
-<p><img src="/docs/.vuepress/public/images/Abb34.png" alt="Abb34.png"></p>
+<p><img src="/images/Abb34.png" alt="Abb34.png"></p>
 <p>Abb. 34: Einstellungen zur Line Segmentation.</p>
 <ul>
 <li>Generell können auch hier die vorhandenen Einstellungen beibehalten werden. <strong>Wichtige Einschränkung mit Blick auf das vorhandene Seitenlayout</strong>: Liegt ein zwei- oder mehrspaltiges Seitenlayout vor und wurden die entsprechenden Textspalten in LAREX jeweils als eigenständige Haupttexte segmentiert, muss bei „Maximum # of whitespace column separators” der voreingestellte Wert von -1 (Bestätigung, dass kein mehrspaltiges Layout vorhanden und eine Spaltentrennung deshalb nicht erwünscht ist) wie folgt geändert werden:

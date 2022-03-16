@@ -6,13 +6,13 @@
 <li>Diskette, grün: „Segmentation was saved in this session.“ – Für die Scanseite liegen die Segmentierungsergebnisse, gespeichert als XML-Dateien, vor.</li>
 <li>Schloss, grün: „There is a segmentation for this page on the server.“ – Die einzelnen, gespeicherten Segmentierungsergebnisse wurden nach Abschluss der Segmentierung des Gesamtwerks als korrekt bestätigt (s. u.).</li>
 </ul>
-<p><img src="/docs/.vuepress/public/images/Abb12.png" alt="Abb12.png"></p>
+<p><img src="/images/Abb12.png" alt="Abb12.png"></p>
 <p>Abb. 12: Verschiedene Anzeigemodi</p>
 <ul>
 <li>Über die Buttons '0' und '1' ist es möglich, zwischen der binarisierten (schwarz-weiß) und der normalisierten (Graustufen) Bilddarstellung zu wechseln. Die entsprechende Auswahl wird für alle restlichen Seiten des Werks gemerkt. Es ist jederzeit möglich, den Anzeigemodus wieder zu ändern.</li>
 <li>In der Kopfleiste finden sich verschiedene Werkzeuge und Werkzeuggruppen zur Navigation und Bearbeitung:</li>
 </ul>
-<p><img src="/docs/.vuepress/public/images/Abb13.png" alt="Abb13.png"></p>
+<p><img src="/images/Abb13.png" alt="Abb13.png"></p>
 <p>Abb. 13: Verschiedene Menüpunkte der Werkzeugleiste.</p>
 <ul>
 <li><em>BILDCHEN</em> <strong>Open a different book</strong>: Für die in OCR4all eingebundene Version von LAREX sind hier keine Einstellungen oder Veränderungen notwendig!</li>
@@ -22,7 +22,7 @@
 <li><em>BILDCHEN</em> Delete selected items: Entfernt die aktuell ausgewählten Regionen.</li>
 <li><strong>RoI</strong>, <strong>Region</strong>, <strong>Segment</strong>, <strong>Order</strong>: Hier werden, ergänzt durch die rechte Seitenleiste, die verschiedenen Möglichkeiten der Scanbearbeitung und Segmentierung aufgezeigt. Während die in der Werkzeugleiste aufgeführten Optionen im Allgemeinen einer spezifischen Bearbeitung der aktuell vorliegenden Scanseite dienen (s. u.), werden dagegen in der rechten Seitenleiste v. a. scanübergreifende und werkbezogene Optionen angezeigt.</li>
 </ul>
-<p><img src="/docs/.vuepress/public/images/Abb14.png" alt="Abb14.png"></p>
+<p><img src="/images/Abb14.png" alt="Abb14.png"></p>
 <p>Abb. 14: Einstellungen der rechten Seitenleiste.</p>
 <p>Auch sie können jedoch jederzeit ergänzt, verändert und angepasst werden. Hilfreich und sinnvoll ist es in diesem Fall, alle vorgenommenen Einstellungen hinsichtlich der Erkennungsparameter („Parameters“) sowie der in einem Werk vorhandenen und vom User festgelegten Layoutelemente („Regions“) jederzeit unter „Settings“ zu speichern und bei der nächsten Verwendung des Tools wiederzuverwenden. Dies ermöglicht die Arbeit mit werkspezifischen Einstellungen.</p>
 </template>

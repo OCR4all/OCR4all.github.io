@@ -68,11 +68,9 @@ Druckschriften<OutboundLink/></a></li>
 <li>Augsburger Allgemeine: <a href="https://www.augsburger-allgemeine.de/bayern/Computer-liest-alte-Texte-id54130851.html" target="_blank" rel="noopener noreferrer">Computer liest alte Texte<OutboundLink/></a></li>
 <li>einBlick: <a href="https://www.uni-wuerzburg.de/aktuelles/einblick/single/news/modernes-tool-fuer-alte-texte" target="_blank" rel="noopener noreferrer">Modernes Tool für alte Texte<OutboundLink/></a></li>
 </ul>
-<h3 id="zitation" tabindex="-1"><a class="header-anchor" href="#zitation" aria-hidden="true">#</a> Zitation</h3>
-<p>If you are using OCR4all please cite the corresponding <a href="https://www.mdpi.com/2076-3417/9/22/4853%22" target="_blank" rel="noopener noreferrer">paper<OutboundLink/></a>:
-Reul, C., Christ, D., Hartelt, A., Balbach, N., Wehner, M., Springmann, U., Wick, C., Grundig, Büttner, A., C.,
-Puppe, F.: OCR4all — An open-source tool providing a (semi-) automatic OCR workflow for historical printings,
-Applied Sciences 9(22) (2019)</p>
+<h3 id="cite" tabindex="-1"><a class="header-anchor" href="#cite" aria-hidden="true">#</a> Cite</h3>
+<p>If you are using OCR4all please cite the corresponding <a href="https://www.mdpi.com/2076-3417/9/22/4853" target="_blank" rel="noopener noreferrer">paper<OutboundLink/></a>:</p>
+<p><code>Reul, C., Christ, D., Hartelt, A., Balbach, N., Wehner, M., Springmann, U., Wick, C., Grundig, Büttner, A., C., Puppe, F.: OCR4all — An open-source tool providing a (semi-) automatic OCR workflow for historical printings, Applied Sciences 9(22) (2019)</code></p>
 <h3 id="funding" tabindex="-1"><a class="header-anchor" href="#funding" aria-hidden="true">#</a> Funding</h3>
 <ul>
 <li><a href="https://ocr-d.de/en/" target="_blank" rel="noopener noreferrer">DFG-funded Initiative &quot;OCR-D&quot;<OutboundLink/></a>, (phase 2 and 3)</li>

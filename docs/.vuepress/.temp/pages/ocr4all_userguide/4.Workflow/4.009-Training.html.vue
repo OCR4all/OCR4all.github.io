@@ -22,7 +22,7 @@ Warum dann aber die Erstellung werkspezifischer Modelle mittels des Trainings-Mo
 </li>
 <li>Die erweiterten Einstellungen bleiben unverändert.</li>
 </ul>
-<p><img src="/docs/.vuepress/public/images/Abb39.png" alt="Abb39.png"></p>
+<p><img src="/images/Abb39.png" alt="Abb39.png"></p>
 <p>Abb. 39: Einstellungen für das Training von werkspezifischen Modellensembles.</p>
 <ul>
 <li>Mittels „EXECUTE“ wird das Training gestartet. Im Folgenden kann das Training der Konsole nachvollzogen werden. Je nach Gesamtmenge der vorhandenen Zeilen Ground Truth variieren die Trainingszeiten.</li>

@@ -1,4 +1,5 @@
-<template><p>Aktuelle Version: OCR4all 0.5.0. Mit der Veröffentlichung von OCR4all
+<template><p>Aktuelle Version: OCR4all 0.6.1.</p>
+<p>Mit der Veröffentlichung von OCR4all
 0.5.0 im November 2020 bietet die Software neben der Einrichtung über
 Docker nun auch die Möglichkeit einer Installation über <RouterLink to="/software_download/vm-download.html">VirtualBox</RouterLink>,
 was besonders nicht-technischen

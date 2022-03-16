@@ -5,7 +5,7 @@
 <li>Dieser Bearbeitungsschritt dient der Erstellung von Binär- und normalisierten Graustufenbildern, welche die Grundlage für erfolgreiche Segmentierung und OCR darstellen.</li>
 <li>In der rechten Seitenleiste werden alle Scans ausgewählt, die bearbeitet werden sollen; alle Einstellungen („Settings (General)“ und „Settings (Advanced)“) bleiben bestehen, d. h. der Winkel der zu bearbeitenden Bilder bleibt unverändert, ebenso die automatisch generierte Anzahl der durch das Teilmodul verwendeten CPUs (letzteres betrifft alle folgenden Teilmodule von OCR4all!).</li>
 </ul>
-<p><img src="/docs/.vuepress/public/images/Abb9.png" alt="Abb9.png"></p>
+<p><img src="/images/Abb9.png" alt="Abb9.png"></p>
 <p>Abb. 8: Einstellungen zum Preprocessing.</p>
 <ul>
 <li>Der Binarisierungsvorgang kann durch einen Klick auf „EXECUTE” gestartet werden. Der Verlauf des Arbeitsschritts kann in der Konsole, genauer dem „Console Output“, verfolgt werden. Ggf. werden in „Console Error“ während des Binarisierungsprozesses Warnungen ausgegeben. Diese haben jedoch keine Auswirkungen auf das Ergebnis der Binarisierung.</li>

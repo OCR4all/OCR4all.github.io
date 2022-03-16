@@ -6,7 +6,7 @@
 <li>Klicken Sie zur Benutzung im Hauptmenü auf den Arbeitsschritt „Noise Removal” und wählen Sie am rechten Bildschirmrand aus, auf welche Scans dieser Vorgang angewendet werden soll. Lassen Sie alle Defaults zunächst bestehen und betrachten Sie nach der Betätigung von „EXECUTE“ probeweise das Ergebnis, in dem Sie auf den Schriftzug des jeweiligen Scans in der rechten Seitenleiste klicken, den Sie betrachten
 wollen. Unter „Image Preview” wird Ihnen nun in einer Gegenüberstellung das Ergebnis im Vergleich mit dem unbearbeiteten Scan angezeigt. Rot eingefärbte Bildelemente wurden durch den Arbeitsschritt entfernt.</li>
 </ul>
-<p><img src="/docs/.vuepress/public/images/Abb10.png" alt="Abb10.png"></p>
+<p><img src="/images/Abb10.png" alt="Abb10.png"></p>
 <p>Abb. 9: Einstellungen zum Teilmodul Noise Removal.</p>
 <ul>
 <li>Sind noch zu viele störende Elemente auf dem Scan zu sehen, setzen Sie den Wert der „Maximal size for removing contours” geringfügig nach oben, führen den Arbeitsschritt durch einen Klick auf „EXECUTE” erneut durch und prüfen wiederum das Ergebnis.</li>

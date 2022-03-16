@@ -7,11 +7,7 @@ If you come across any problems please <a href="mailto:florian.langhanki@uni-wue
 <ul>
 <li>'<strong>Settings</strong>': This feature allows for selecting the book set to be worked on, which can be chosen from the dropdown menu found under ‘Project selection’ – the title having been previously saved as a folder under ocr4all/data/book title (see 1.2). Additionally, the ‘gray’ setting must be selected under the menu point ‘Project image type’.</li>
 </ul>
-<pre>
-
-BILD BILD
-
-</pre>
+<p><img src="@source/.vuepress/public/images/Abb2.jpg" alt="Abb2.jpg"></p>
 <p>fig. 2: Project Overview settings.</p>
 <ul>
 <li>
@@ -21,11 +17,7 @@ BILD BILD
 <p>It is irrelevant whether a PDF or individual images were placed in the 'input' folder. If possible, however, single images are usually preferred.</p>
 </li>
 </ul>
-<pre>
-
-BILD BILD
-
-</pre>
+<p><img src="@source/.vuepress/public/images/Abb3.png" alt="Abb3.png"></p>
 <p>fig. 3. Data conversion request (i.g. PDF in 'input' folder).</p>
 <ul>
 <li>In OCR4all, all data generated during the workflow and for its functioning are saved in a single PageXML file per scan page and are no longer kept in the form of many individual files. If project data from previous versions is still available, it is now possible to convert the project automatically into the structure required by OCR4all.</li>
@@ -39,11 +31,7 @@ BILD BILD
 <ul>
 <li>The feature &quot;Overview&quot; provides the user with a tabular presentation of the project’s ongoing progress (fig. 4). Each row corresponds to an individual book page, labelled by a page identifier (far left column). The following columns illustrate, from left to right, the workflow’s progression. Once a particular step has been executed, it will appear as completed (green check mark) in that work stage’s specific column.</li>
 </ul>
-<pre>
-
-BILD BILD
-
-</pre>
+<p><img src="@source/.vuepress/public/images/Abb4.png" alt="Abb4.png"></p>
 <p>fig. 5: Overview.</p>
 <ul>
 <li>

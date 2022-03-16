@@ -5,12 +5,12 @@
 <li>Unter dem Menüpunkt „Ground Truth Production” können die im Teilmodul Recognition erzeugten Texte eingesehen, korrigiert und als Trainingsgrundlage in Form von sog. Ground Truth abgespeichert werden.</li>
 <li>Das zugrundeliegende Korrekturtool ist dreispaltig aufgebaut: Auf der linken Seite finden sich, jeweils untereinander, die auswählbaren Seiten. Mittig werden die durch den Workflow erzeugten Zeilenbilder aus den Textseiten (s. o.) sowie die aus ihnen generierten Zeilen OCR-Text angezeigt. Diese standardmäßig dargestellte Anzeige wird als „Text View“ bezeichnet.</li>
 </ul>
-<p><img src="/docs/.vuepress/public/images/Abb36.png" alt="Abb36.png"></p>
+<p><img src="/images/Abb36.png" alt="Abb36.png"></p>
 <p>Abb. 36: Ground Truth Production mit „Text View”.</p>
 <ul>
 <li>Über die Option „Switch to Page View” in der Werkzeugleiste besteht die Möglichkeit, von der „Text View“ auf die „Page View“ zu wechseln. In dieser Ansicht können die einzelnen Textzeilen im visuellen Gesamtkontext des Seitenlayouts bearbeitet werden. Nutzen Sie die Option „Switch to Text View“, um wieder auf die „Text View“ umzuschalten.</li>
 </ul>
-<p><img src="/docs/.vuepress/public/images/Abb37.png" alt="Abb37.png"></p>
+<p><img src="/images/Abb37.png" alt="Abb37.png"></p>
 <p>Abb. 37: Ground Truth Production mit „Page View”.</p>
 <ul>
 <li>Auf der rechten Seite der Anzeige befindet sich das sog. Virtual Keyboard, in welchem Sonderzeichen (Ligaturen, Abkürzungen, Diakritika etc.) aufgeführt werden. Diese können durch einfaches Anklicken entsprechend der Position des Cursors in die Textzeilen auf der linken Seite eingefügt werden. Um Zeichen zum Keyboard hinzuzufügen, wird einfach das Plus-Icon betätigt und das entsprechende Zeichen mittels Copy und Paste in das sich öffnende Formular eingegeben und durch Betätigung der „Save“-Schaltfläche bestätigt. Sollen Zeichen aus dem Keyboard gelöscht werden, zieht man diese lediglich mit der Maus auf das Mülleimer-Icon der Delete-Option. Sind alle gewünschten Veränderungen vorgenommen, wird das Keyboard durch einen Klick auf „Save” gespeichert und danach mittels „Lock” gesperrt. Mithilfe der Optionen „Load” und „Save” können werkspezifische Keyboards im System abgespeichert und jederzeit neu geladen werden – bspw., wenn man seine Textkorrekturen unterbricht oder sich das Keyboard auch für die Arbeit mit einem anderen Werk eignet.</li>
