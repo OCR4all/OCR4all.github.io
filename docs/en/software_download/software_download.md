@@ -7,8 +7,8 @@ Latest version: OCR4all 0.6.1.
 
 With the release of OCR4all 0.5.0 in
 	November of 2020, the software now offers not only the setup via Docker
-	but also the option of installation via [VirtualBox](./vm-download.md),
-	which is particularly recommended for non-technical users. In addition,
+	but also the option of installation via [VirtualBox](./vm-download.md).
+    In addition,
 	there are several new features such as the processing of greyscale
 	images in LAREX, a collection of pre-configured virtual keyboards for
 	different languages, the creation of structural data on the word level
