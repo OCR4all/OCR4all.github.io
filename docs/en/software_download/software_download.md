@@ -23,7 +23,6 @@ With the release of OCR4all 0.5.0 in
 - [Docker](https://github.com/OCR4all/getting_started/blob/master/ocr4all-setup_guide_docker.pdf)
 - [Getting Started (Website)](https://github.com/OCR4all/getting_started#getting-started-with-ocr4all)
 
-An installation via VirtualBox is strongly recommended for non-technical users.
 :::
 
 ::: tip Download
