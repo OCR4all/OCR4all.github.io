@@ -23,7 +23,6 @@ Mit der Veröffentlichung von OCR4all
 - [Docker (Englisch)](https://github.com/OCR4all/getting_started/blob/master/ocr4all-setup_guide_docker.pdf)
 - [Getting Started (Website - Englisch)](https://github.com/OCR4all/getting_started#getting-started-with-ocr4all)
 
-Die Installation über VirtualBox wird besonders nicht-technischen Nutzern dringend empfohlen!
 :::
 
 ::: tip Download
