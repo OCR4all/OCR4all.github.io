@@ -1,3 +1,8 @@
+---
+lang: de-DE
+title: Virtual Box
+description: Virtual Box
+---
 ::: warning 
 Die Seite wird gerade noch überarbeitet.
 Bei auftretenden Problemen [kontaktieren](mailto:florian.langhanki@uni-wuerzburg.de) Sie uns bitte.

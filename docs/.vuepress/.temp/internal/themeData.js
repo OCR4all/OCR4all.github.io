@@ -13,7 +13,11 @@ export const themeData = {
         },
         {
           "text": "Software und Download",
-          "link": "/software_download/software_download.md/"
+          "children": [
+            "/software_download/software_download.md/",
+            "/software_download/vm-download.md",
+            "/software_download/setup_guide.md"
+          ]
         },
         {
           "text": "Benutzeranleitung",
@@ -55,7 +59,11 @@ export const themeData = {
         },
         {
           "text": "Software and Download",
-          "link": "/en/software_download/software_download.md/"
+          "children": [
+            "/en/software_download/software_download.md/",
+            "/en/software_download/vm-download.md",
+            "/en/software_download/setup_guide.md"
+          ]
         },
         {
           "text": "User Guide",

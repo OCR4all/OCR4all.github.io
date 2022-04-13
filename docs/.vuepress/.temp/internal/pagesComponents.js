@@ -29,10 +29,14 @@ export const pagesComponents = {
   "v-2d0a870d": defineAsyncComponent(() => import(/* webpackChunkName: "v-2d0a870d" */"C:/Users/Isabel/PycharmProjects/OCR4all.github.io/docs/.vuepress/.temp/pages/en/index.html.vue")),
   // path: /en/team.html
   "v-1931efa2": defineAsyncComponent(() => import(/* webpackChunkName: "v-1931efa2" */"C:/Users/Isabel/PycharmProjects/OCR4all.github.io/docs/.vuepress/.temp/pages/en/team.html.vue")),
+  // path: /software_download/setup_guide.html
+  "v-5a431527": defineAsyncComponent(() => import(/* webpackChunkName: "v-5a431527" */"C:/Users/Isabel/PycharmProjects/OCR4all.github.io/docs/.vuepress/.temp/pages/software_download/setup_guide.html.vue")),
   // path: /software_download/software_download.html
   "v-b2d5dcfe": defineAsyncComponent(() => import(/* webpackChunkName: "v-b2d5dcfe" */"C:/Users/Isabel/PycharmProjects/OCR4all.github.io/docs/.vuepress/.temp/pages/software_download/software_download.html.vue")),
   // path: /software_download/vm-download.html
   "v-f25310fa": defineAsyncComponent(() => import(/* webpackChunkName: "v-f25310fa" */"C:/Users/Isabel/PycharmProjects/OCR4all.github.io/docs/.vuepress/.temp/pages/software_download/vm-download.html.vue")),
+  // path: /en/software_download/setup_guide.html
+  "v-6e2ca43b": defineAsyncComponent(() => import(/* webpackChunkName: "v-6e2ca43b" */"C:/Users/Isabel/PycharmProjects/OCR4all.github.io/docs/.vuepress/.temp/pages/en/software_download/setup_guide.html.vue")),
   // path: /en/software_download/software_download.html
   "v-24d40195": defineAsyncComponent(() => import(/* webpackChunkName: "v-24d40195" */"C:/Users/Isabel/PycharmProjects/OCR4all.github.io/docs/.vuepress/.temp/pages/en/software_download/software_download.html.vue")),
   // path: /en/software_download/vm-download.html

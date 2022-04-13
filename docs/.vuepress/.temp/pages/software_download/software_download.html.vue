@@ -1,9 +1,8 @@
 <template><p>Aktuelle Version: OCR4all 0.6.1.</p>
 <p>Mit der Veröffentlichung von OCR4all
 0.5.0 im November 2020 bietet die Software neben der Einrichtung über
-Docker nun auch die Möglichkeit einer Installation über <RouterLink to="/software_download/vm-download.html">VirtualBox</RouterLink>,
-was besonders nicht-technischen
-Nutzern empfohlen wird. Daneben finden sich zahlreiche Neuerungen wie
+Docker nun auch die Möglichkeit einer Installation über <RouterLink to="/software_download/vm-download.html">VirtualBox</RouterLink>.
+Daneben finden sich zahlreiche Neuerungen wie
 die Bearbeitung von Graustufenbildern in LAREX, eine Sammlung
 vorkonfigurierter Virtual Keyboards für unterschiedliche Sprachen, die
 Generierung struktureller Daten der Wortebene während der Texterkennung
@@ -18,7 +17,6 @@ Bug Fixes und Verbesserungen sind den entsprechenden Release Notes von
 <li><a href="https://github.com/OCR4all/getting_started/blob/master/ocr4all-setup_guide_docker.pdf" target="_blank" rel="noopener noreferrer">Docker (Englisch)<OutboundLink/></a></li>
 <li><a href="https://github.com/OCR4all/getting_started#getting-started-with-ocr4all" target="_blank" rel="noopener noreferrer">Getting Started (Website - Englisch)<OutboundLink/></a></li>
 </ul>
-<p>Die Installation über VirtualBox wird besonders nicht-technischen Nutzern dringend empfohlen!</p>
 </div>
 <div class="custom-container tip"><p class="custom-container-title">Download</p>
 <ul>

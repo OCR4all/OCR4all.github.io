@@ -1,9 +1,13 @@
 export const data = {
   "key": "v-f25310fa",
   "path": "/software_download/vm-download.html",
-  "title": "",
+  "title": "Virtual Box",
   "lang": "de-DE",
-  "frontmatter": {},
+  "frontmatter": {
+    "lang": "de-DE",
+    "title": "Virtual Box",
+    "description": "Virtual Box"
+  },
   "excerpt": "",
   "headers": [],
   "filePathRelative": "software_download/vm-download.md"

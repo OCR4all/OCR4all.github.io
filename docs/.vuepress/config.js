@@ -24,7 +24,10 @@ module.exports = {
         selectLanguageName: 'Deutsch',
         navbar: [
       { text: 'Über OCR4all', link: '/about.md/' },
-      { text: 'Software und Download', link: '/software_download/software_download.md/' },
+      { text: 'Software und Download',
+        children: ['/software_download/software_download.md/',
+        '/software_download/vm-download.md',
+        '/software_download/setup_guide.md'], },
       { text: 'Benutzeranleitung',
         children: ['/ocr4all_userguide/0.FrontPage/0.FrontPage.md',
         '/ocr4all_userguide/1.OCR4all/1.1_Introduction.md',
@@ -44,7 +47,10 @@ module.exports = {
         selectLanguageName: 'English',
         navbar: [
       { text: 'About', link: '/en/about.md/'},
-      { text: 'Software and Download', link: '/en/software_download/software_download.md/' },
+      { text: 'Software and Download',
+        children: ['/en/software_download/software_download.md/',
+        '/en/software_download/vm-download.md',
+        '/en/software_download/setup_guide.md'], },
       { text: 'User Guide',
         children: ['/en/ocr4all_userguide/0.FrontPage/0.FrontPage.md',
         '/en/ocr4all_userguide/1.OCR4all/1.1_Introduction.md',
