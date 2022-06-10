@@ -6,7 +6,6 @@ description: Laden Sie OCR4all-Software, Installationsanleitung, Benutzerhandbuc
 Aktuelle Version: OCR4all 0.6.1. 
 
 ::: tip Installationsanleitung
-- [Docker (Englisch)](https://github.com/OCR4all/getting_started/blob/master/ocr4all-setup_guide_docker.pdf)
 - [Getting Started (Website - Englisch)](https://github.com/OCR4all/getting_started#getting-started-with-ocr4all)
 
 :::
