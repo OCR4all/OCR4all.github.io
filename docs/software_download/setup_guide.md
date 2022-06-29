@@ -69,7 +69,9 @@ Explanation:
 
 - Create the OCR4all container using the following command:
 
-*sudo docker run -p 1476:8080 -u `id -u root`:`id -g $USER` --name ocr4all -v $PWD/data:/var/ocr4all/data -v $PWD/models:/var/ocr4all/models/custom -it uniwuezpd/ocr4all*
+```
+sudo docker run -p 1476:8080 -u `id -u root`:`id -g $USER` --name ocr4all -v $PWD/data:/var/ocr4all/data -v $PWD/models:/var/ocr4all/models/custom -it uniwuezpd/ocr4all
+```
 
 - Do not enter line breaks manually!
 
