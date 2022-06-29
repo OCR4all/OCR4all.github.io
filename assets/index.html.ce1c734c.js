@@ -1,0 +1,1 @@
+const e={key:"v-8daa1a0e",path:"/",title:"Startseite",lang:"de-DE",frontmatter:{home:!0,tagline:null,lang:"de-DE",title:"Startseite",description:"Herzlich Willkommen bei OCR4all",footer:"\xA9 ZPD Universit\xE4t W\xFCrzburg - Deutschland 2017-2022 | Alle Rechte vorbehalten"},excerpt:"",headers:[],filePathRelative:"index.md"};export{e as data};

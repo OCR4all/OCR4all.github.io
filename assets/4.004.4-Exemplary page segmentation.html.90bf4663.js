@@ -1,0 +1,1 @@
+const e={key:"v-346c550d",path:"/ocr4all_userguide/4.Workflow/4.004.4-Exemplary%20page%20segmentation.html",title:"",lang:"de-DE",frontmatter:{},excerpt:"",headers:[],filePathRelative:"ocr4all_userguide/4.Workflow/4.004.4-Exemplary page segmentation.md"};export{e as data};

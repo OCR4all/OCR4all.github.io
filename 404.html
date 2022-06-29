@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="de-DE">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="generator" content="VuePress 2.0.0-beta.38">
+    <style>
+      :root {
+        --c-bg: #fff;
+      }
+      html.dark {
+        --c-bg: #22272e;
+      }
+      html, body {
+        background-color: var(--c-bg);
+      }
+    </style>
+    <script>
+      const userMode = localStorage.getItem('vuepress-color-scheme');
+			const systemDarkMode = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+			if (userMode === 'dark' || (userMode !== 'light' && systemDarkMode)) {
+				document.documentElement.classList.toggle('dark', true);
+			}
+    </script>
+    <title>OCR4all</title><meta name="description" content="OCR4all Dokumentation">
+    <link rel="modulepreload" href="/assets/app.b397120f.js"><link rel="modulepreload" href="/assets/404.html.12ac8dc6.js"><link rel="modulepreload" href="/assets/404.html.4f13e972.js">
+    <link rel="stylesheet" href="/assets/style.39d5bbe5.css">
+  </head>
+  <body>
+    <div id="app"><!--[--><div class="theme-container"><div class="theme-default-content"><h1>404</h1><blockquote>There&#39;s nothing here.</blockquote><a href="/" class="">Take me home</a></div></div><!----><!--]--></div>
+    <script type="module" src="/assets/app.b397120f.js" defer></script>
+  </body>
+</html>

@@ -1,0 +1,1 @@
+const e={key:"v-2f02337b",path:"/en/ocr4all_userguide/4.Workflow/4.004.6-Final%20steps%20with%20LAREX.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[],filePathRelative:"en/ocr4all_userguide/4.Workflow/4.004.6-Final steps with LAREX.md"};export{e as data};

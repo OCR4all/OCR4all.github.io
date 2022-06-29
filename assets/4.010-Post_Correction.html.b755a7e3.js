@@ -1,0 +1,1 @@
+const e={key:"v-60863502",path:"/ocr4all_userguide/4.Workflow/4.010-Post_Correction.html",title:"",lang:"de-DE",frontmatter:{},excerpt:"",headers:[{level:3,title:"4.10	Post Correction",slug:"_4-10post-correction",children:[]}],filePathRelative:"ocr4all_userguide/4.Workflow/4.010-Post_Correction.md"};export{e as data};

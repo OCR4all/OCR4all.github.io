@@ -1,0 +1,1 @@
+const e={key:"v-6173b5ba",path:"/ocr4all_userguide/4.Workflow/4.001-Process_Flow.html",title:"",lang:"de-DE",frontmatter:{},excerpt:"",headers:[{level:2,title:"4.	Workflow",slug:"_4-workflow",children:[{level:3,title:"4.1	Process Flow",slug:"_4-1process-flow",children:[]}]}],filePathRelative:"ocr4all_userguide/4.Workflow/4.001-Process_Flow.md"};export{e as data};

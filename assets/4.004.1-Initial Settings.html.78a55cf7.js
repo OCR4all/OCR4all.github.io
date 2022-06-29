@@ -1,0 +1,1 @@
+const e={key:"v-2fcdb790",path:"/en/ocr4all_userguide/4.Workflow/4.004.1-Initial%20Settings.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[],filePathRelative:"en/ocr4all_userguide/4.Workflow/4.004.1-Initial Settings.md"};export{e as data};

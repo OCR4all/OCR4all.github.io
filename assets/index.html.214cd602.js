@@ -1,0 +1,1 @@
+const e={key:"v-2d0a870d",path:"/en/",title:"Homepage",lang:"en-US",frontmatter:{home:!0,tagline:null,lang:"en-US",title:"Homepage",description:"Welcome to OCR4all",footer:"\xA9 ZPD University of W\xFCrzburg - Germany 2017-2022 | All rights reserved"},excerpt:"",headers:[],filePathRelative:"en/README.md"};export{e as data};

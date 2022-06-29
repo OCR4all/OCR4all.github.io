@@ -1,0 +1,1 @@
+const e={key:"v-7fbe135c",path:"/en/ocr4all_userguide/4.Workflow/4.004.5-Additional%20processing%20options.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[],filePathRelative:"en/ocr4all_userguide/4.Workflow/4.004.5-Additional processing options.md"};export{e as data};

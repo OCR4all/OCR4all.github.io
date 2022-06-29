@@ -1,0 +1,1 @@
+const t={key:"v-863fd586",path:"/en/info_contact.html",title:"Information and Contacts",lang:"en-US",frontmatter:{lang:"en-US",title:"Information and Contacts",description:"Links"},excerpt:"",headers:[],filePathRelative:"en/info_contact.md"};export{t as data};

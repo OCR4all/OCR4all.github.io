@@ -1,0 +1,1 @@
+const e={key:"v-dbc75344",path:"/ocr4all_userguide/4.Workflow/4.004.3-Specific%20settings.html",title:"",lang:"de-DE",frontmatter:{},excerpt:"",headers:[],filePathRelative:"ocr4all_userguide/4.Workflow/4.004.3-Specific settings.md"};export{e as data};

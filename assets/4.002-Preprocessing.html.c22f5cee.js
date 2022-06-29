@@ -1,0 +1,1 @@
+const e={key:"v-4705e7a3",path:"/ocr4all_userguide/4.Workflow/4.002-Preprocessing.html",title:"",lang:"de-DE",frontmatter:{},excerpt:"",headers:[{level:3,title:"4.2	Preprocessing",slug:"_4-2preprocessing",children:[]}],filePathRelative:"ocr4all_userguide/4.Workflow/4.002-Preprocessing.md"};export{e as data};

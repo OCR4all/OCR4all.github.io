@@ -1,0 +1,1 @@
+const e={key:"v-5d313b3a",path:"/ocr4all_userguide/4.Workflow/4.004.2-Overview%20and%20toolbar.html",title:"",lang:"de-DE",frontmatter:{},excerpt:"",headers:[],filePathRelative:"ocr4all_userguide/4.Workflow/4.004.2-Overview and toolbar.md"};export{e as data};
