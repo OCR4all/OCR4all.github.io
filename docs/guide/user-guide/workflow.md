@@ -290,7 +290,7 @@ fig. 36. Selection of model package for text recognition.
 ![Ground truth production with 'text view'.](/images/user-guide/workflow/ground_truth_production_text_view.png)
 fig. 37. Ground truth production with 'text view'.
 
-Clicking on the 'Swith to page view' button will bring you to the so called 'page view' display, in which you can work on all text lines while they are displayed in relation to the entire page layout. By clicking 'switch to text view', you will return to the initial 'text view' display.
+Clicking on the 'Switch to page view' button will bring you to the so called 'page view' display, in which you can work on all text lines while they are displayed in relation to the entire page layout. By clicking 'switch to text view', you will return to the initial 'text view' display.
 
 ![Ground truth production with 'page view'.](/images/user-guide/workflow/ground_truth_production_page_view.png)
 fig. 38. Ground truth production with 'page view'.
