@@ -3,6 +3,8 @@ export default({
   title: 'OCR4all',
   description: 'Guides, documentation and more',
 
+  base: "/",
+
   lastUpdated: true,
   cleanUrls: 'without-subfolders',
   ignoreDeadLinks: true,
