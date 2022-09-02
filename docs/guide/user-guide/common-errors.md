@@ -20,4 +20,4 @@ Problems selecting works in 'Project Overview':
 Problems with Calamari recognition or training:
 - Are you experiencing errors with mentions to AVX? If you're using an old CPU w/o AVX or on a virtual machine where AVX passthrough wasn't enabled you might run into several errors during the process execution as official TensorFlow builds don't offer support for these systems.
 
-**We welcome all questions and encourage to contact us if you have any problem. Please send an email (to christian.reul@uni-wuerzburg.de (project lead) or florian.langhanki@uni-wuerzburg.de (consultation, guides, and non-technical user support)) or contact us on GitHub.**
+**We welcome all questions and encourage to contact us if you have any problem. Please send an email (to [Dr. Christian Reul](mailto:christian.reul@uni-wuerzburg.de) (project lead) or [Florian Langhanki](mailto:florian.langhanki@uni-wuerzburg.de) (consultation, guides, and non-technical user support)) or contact us on GitHub.**
