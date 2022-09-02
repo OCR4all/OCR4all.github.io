@@ -1,1 +1,0 @@
-const e={key:"v-2fb9cb37",path:"/en/ocr4all_userguide/4.Workflow/4.008-Evaluation.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:3,title:"4.8	Evaluation",slug:"_4-8evaluation",children:[]}],filePathRelative:"en/ocr4all_userguide/4.Workflow/4.008-Evaluation.md"};export{e as data};

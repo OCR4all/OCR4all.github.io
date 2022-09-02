@@ -1,1 +1,0 @@
-const e={key:"v-567fadf4",path:"/ocr4all_userguide/4.Workflow/4.009-Training.html",title:"",lang:"de-DE",frontmatter:{},excerpt:"",headers:[{level:3,title:"4.9	Training",slug:"_4-9training",children:[]}],filePathRelative:"ocr4all_userguide/4.Workflow/4.009-Training.md"};export{e as data};

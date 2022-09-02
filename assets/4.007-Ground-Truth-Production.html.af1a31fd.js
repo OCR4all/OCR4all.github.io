@@ -1,1 +1,0 @@
-const t={key:"v-929cf242",path:"/en/ocr4all_userguide/4.Workflow/4.007-Ground-Truth-Production.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:3,title:"4.7	Ground Truth Production",slug:"_4-7ground-truth-production",children:[]}],filePathRelative:"en/ocr4all_userguide/4.Workflow/4.007-Ground-Truth-Production.md"};export{t as data};

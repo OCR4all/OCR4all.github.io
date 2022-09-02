@@ -1,1 +1,0 @@
-const e={key:"v-598bc1e5",path:"/ocr4all_userguide/4.Workflow/4.005-Line%20Segmentation.html",title:"",lang:"de-DE",frontmatter:{},excerpt:"",headers:[{level:3,title:"4.5	Line Segmentation",slug:"_4-5line-segmentation",children:[]}],filePathRelative:"ocr4all_userguide/4.Workflow/4.005-Line Segmentation.md"};export{e as data};

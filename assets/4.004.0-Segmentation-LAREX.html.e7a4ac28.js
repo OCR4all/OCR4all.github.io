@@ -1,1 +1,0 @@
-const e={key:"v-2e1f8c0c",path:"/en/ocr4all_userguide/4.Workflow/4.004.0-Segmentation-LAREX.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:3,title:"4.4	Segmentation \u2013 LAREX",slug:"_4-4segmentation-\u2013-larex",children:[]}],filePathRelative:"en/ocr4all_userguide/4.Workflow/4.004.0-Segmentation-LAREX.md"};export{e as data};

@@ -1,1 +1,0 @@
-const t={key:"v-4b18cd08",path:"/ocr4all_userguide/4.Workflow/4.004.1-Initial%20Settings.html",title:"",lang:"de-DE",frontmatter:{},excerpt:"",headers:[],filePathRelative:"ocr4all_userguide/4.Workflow/4.004.1-Initial Settings.md"};export{t as data};
