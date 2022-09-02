@@ -60,7 +60,7 @@ sudo docker run -p 1476:8080 \
 
 - OCR4all is optimized for Chrome/Chromium.
 - Browser access: <a href="http://localhost:1476/ocr4all/" target="_blank" rel="noreferrer">http://localhost:1476/ocr4all/</a>
-- In the browser tool, check Project Overview -> Project selection: If you can find the two pre-loaded books called “Cirurgia” and “GNM”, the mapping (-v $PWD/data:/…) is working properly.
+- In the browser tool, check Project Overview -> Project selection: If you can find the two pre-loaded books called “Cirurgia” and “GNM”, the mapping (`-v $PWD/data:/…`) is working properly.
 
 - Otherwise, it´s likely that there was a typo in the “docker run” command, so you will have to create the container again. First, delete the container you just created:
 
@@ -70,7 +70,7 @@ sudo docker run -p 1476:8080 \
 docker rm ocr4all
 ```
 
-- Check and correct your command (as with most terminals, you can sift through your previous commands using the arrow keys), especially the “-v $PWD/data:/…”-lines, then run it again.
+- Check and correct your command (as with most terminals, you can sift through your previous commands using the arrow keys), especially the `-v $PWD/data:/…` lines, then run it again.
 - If everything is set up properly, you are able to restart OCR4all in the future by using:
 
 ```
