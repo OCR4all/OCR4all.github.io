@@ -5,6 +5,7 @@ export default({
 
   lastUpdated: true,
   cleanUrls: 'without-subfolders',
+  ignoreDeadLinks: true,
 
   themeConfig: {
     nav: nav(),
