@@ -21,13 +21,11 @@ You have to prepare the following folder structure:
 ```
 
 Explanation:
-- ocr4all (main folder)
-- models (folder for the neural network models)
-- data (folder for the documents you want to recognize)
-- *work title* (Your book) (folder that contains all data of a single, specific print/book)
-- input (folder for original, coloured/grayscaled book scans on page level)
-
-<p style="text-align: justify">This structure can be created provisionally anywhere in your system. However, depending on your system (Linux, Windows, MacOS), you might have to move it later, see below.</p>
+- `ocr4all` (main folder)
+- `models` (folder for the neural network models)
+- `data` (folder for the documents you want to recognize)
+- `[Your book]` (folder that contains all data of a single, specific print/book)
+- `input` (folder for original, coloured / grayscaled book scans on page level)
 
 ## Choosing the right Docker version
 - You will need the Community Edition (CE) of Docker for installation.
@@ -62,14 +60,14 @@ Explanation:
 - Start Docker.
 - Adjust the Docker settings (Right-click on the Docker symbol in the hidden bottom-right toolbar, then chose Settings):
     - *Shared Drives*: Chosen drive (or partition).
-        - You will need at least one. Our recommendation: Simply use “C:”.
+        - You will need at least one. Our recommendation: Simply use `C:`.
         - Click Apply. (Attention: This requires a valid, non-empty Windows password. Changing or removing the password later results in a silent removal of your Docker privileges!).
     - *Advanced*: Adjust CPUs (max) and Memory (2GB+) if you want to.
 
 
 ### OCR4all Setup
 
-- Move the OCR4all folder structure detailed above (“Preparation”) to the shared drive (or partition). In the following example, we use “C:\Users\Public\ocr4all\...”. We recommend to use the same for the first setup.
+- Move the OCR4all folder structure detailed above (`Preparation`) to the shared drive (or partition). In the following example, we use `C:\Users\Public\ocr4all\...`. We recommend to use the same for the first setup.
 - Inside the OCR4all folder, open PowerShell (Shift + right click inside OCR4all folder -> Open PowerShell window here) and load an OCR4all image using the following command (this will take up a few minutes and requires a stable connection to the internet):
 
 ```
