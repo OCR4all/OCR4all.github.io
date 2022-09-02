@@ -1,20 +1,16 @@
 {
   "name": "OCR4all.github.io",
-  "version": "1.22.15",
+  "version": "1.0.0",
+  "description": "Documentation for OCR4all",
   "main": "index.js",
-  "repository": "https://github.com/OCR4all/OCR4all.github.io.git",
-  "author": "Sina Bock <sina.bock@uni-wuerzburg.de>",
   "license": "MIT",
   "devDependencies": {
-    "vuepress": "^2.0.0-beta.39",
-    "vuepress-plugin-auto-sidebar": "^2.3.2"
+    "vitepress": "^1.0.0-alpha.13",
+    "vue": "^3.2.38"
   },
   "scripts": {
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
-  },
-  "dependencies": {
-    "@vuepress/shared-utils": "^1.9.7",
-    "source-map-resolve": "^0.6.0"
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
   }
 }

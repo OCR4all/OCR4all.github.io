@@ -1,25 +1,31 @@
 ---
-home: true
-tagline: null
-lang: de-DE
-title: Startseite
-description: Herzlich Willkommen bei OCR4all
-footer: © ZPD Universität Würzburg - Deutschland 2017-2022 | Alle Rechte vorbehalten
+layout: home
+
+title: OCR4all
+titleTemplate: Setup guide, user guide, developer documentation and more.
+
+hero:
+  name: OCR4all
+  text: Optical Character Recognition (and more) for everyone
+  tagline: Setup guide, user guide, developer documentation and more.
+  image:
+    src: /assets/brand/logo.svg
+    alt: OCR4all
+  actions:
+    - theme: brand
+      text: Get Started
+      link: /guide/setup-guide/quickstart
+    - theme: alt
+      text: User Guide
+      link: /guide/user-guide/introduction
+
+features:
+  - title: Easy cross-platform deployment
+    details: Docker and a single command are all it takes to get OCR4all up and running, regardless of your operating system.
+  - title: Designed with usability in mind
+    details: Create complex OCR workflows through the UI without the need of interacting with code or command line interfaces.
+  - title: Powerful layout and text annotation included
+    details: Manually annotate, correct or compare layout and text elements using the powerful LAREX editor.
+  - title: Fully free and open-source
+    details: OCR4all is and will stay completely free and open-source. No subscriptions, paywalled features or private code. 
 ---
-![I love ZPD](./.vuepress/public/images/ocr4all-zpd_transparent_bg.png)
-
-[Über OCR4all](about.md)
-
-[Software und Download](software_download/software_download.md)
-
-[Benutzeranleitung](ocr4all_userguide/0.FrontPage/0.FrontPage.md)
-
-[Aktivitäten](activities.md)
-
-[Team](team.md)
-
-[Projekte](projects.md)
-
-[Weiterführende Informationen](info_contact.md)
-
-
