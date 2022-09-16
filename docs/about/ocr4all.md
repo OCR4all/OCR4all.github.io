@@ -2,7 +2,7 @@
 title: What is OCR4all?
 ---
 # {{ $frontmatter.title }}
-The OCR4all software was developed for the digitization of primarily
+OCR4all was developed for the digitization of primarily
 very early printed documents. As many text recognition programs are
 	often not able to handle the high complexity of the types and layout
 	conceptions these texts hold, an option to organize the process of
