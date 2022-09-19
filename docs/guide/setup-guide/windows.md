@@ -29,26 +29,9 @@ Explanation:
 
 ## Choosing the right Docker version
 - You will need the Community Edition (CE) of Docker for installation.
-- **Recommendation:**
-    - If you can: Use Linux!
-    - Else, try to use a more recent Windows version that is compatible with *Docker for Windows*.
-
-- Linux: https://docs.docker.com/install/ (choose your distribution on the left)
-
-- Windows:
-
-    - Docker for Windows:
-        - Available for Windows 10, 64 bit: Pro, Enterprise or Education (Build 14393 or later; check for your version, which can be found in your System Information)
-        - https://docs.docker.com/docker-for-windows/release-notes/ (If you do not want to register, do not chose “Download Docker for Windows” right away, but instead use “Download” under the “Stable Releases” section below)
-
-- Mac: https://docs.docker.com/docker-for-mac/
-    - Like with Windows, there is Docker for Mac
-    - However, this will not be covered in this guide.
-
-
-**Following up, you will find two separate guides, each for a Linux system, Docker and for Windows**
-
-**You can copy the different terminal commands without line breaks from the accompanying file calls.txt.**
+- Docker for Windows:
+    - Available for Windows 10, 64 bit: Pro, Enterprise or Education (Build 14393 or later; check for your version, which can be found in your System Information)
+    - https://docs.docker.com/docker-for-windows/release-notes/ (If you do not want to register, do not chose “Download Docker for Windows” right away, but instead use “Download” under the “Stable Releases” section below)
 
 ## Docker for Windows
 ### Docker Setup
