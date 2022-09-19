@@ -38,11 +38,11 @@ export default({
       copyright: 'Copyright © 2022-present <a href="https://www.uni-wuerzburg.de/sonstiges/impressum" target="_blank">Centre for Philology and Digitality</a>'
     },
 
-    // algolia: {
-    //   appId: '',
-    //   apiKey: '',
-    //   indexName: ''
-    // },
+    algolia: {
+      appId: 'HY0F9NASL4',
+      apiKey: 'bce3da54a336228940192ce49b675989',
+      indexName: 'ocr4all'
+    },
 
   }
 })
