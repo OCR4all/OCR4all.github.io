@@ -77,12 +77,7 @@ docker pull uniwuezpd/ocr4all
 - Create the OCR4all container using the following command (Note: this works only for the recommended setup, i.e. when the OCR4all folder is located in “C:\Users\Public\...”)
 
 ```
-sudo docker run -p 1476:8080 \
-    -u `id -u root`:`id -g $USER` \
-    --name ocr4all \
-    -v $PWD/data:/var/ocr4all/data \
-    -v $PWD/models:/var/ocr4all/models/custom \
-    -it uniwuezpd/ocr4all
+docker run -p 1476:8080 --name ocr4all -v $PWD/data:/var/ocr4all/data -v $PWD/models:/var/ocr4all/models/custom -it uniwuezpd/ocr4all
 ```
 - Do not enter line breaks manually!
 
