@@ -4,7 +4,7 @@ title: Quickstart
 ---
 # {{ $frontmatter.title }}
 - [Download and install Docker](https://docs.docker.com/get-docker/)
-- Open a terminal of your choice and enter the following command
+- Open a terminal of your choice and enter the following command if you're running Linux
 ```
 sudo docker run -p 1476:8080 \
     -u `id -u root`:`id -g $USER` \
