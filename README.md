@@ -5,6 +5,8 @@
 
 Deployed on GitHub Pages via GitHub Actions.
 
+Search powered by [Algolia DocSearch](https://docsearch.algolia.com/)
+
 # Development
 Install dependencies
 ``` 
