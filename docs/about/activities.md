@@ -18,7 +18,7 @@ title: Activities
   Interpretation. Konferenzabstracts (2020). [PDF](http://doi.org/10.5281/zenodo.3666690)
 
 ### Talks (assortment)
-- (scheduled) Tagung Digitale Mediävistik. Perspektiven der Digital
+- Tagung Digitale Mediävistik. Perspektiven der Digital
   Humanities für die Altgermanistik (Bremen, February 2022).
 - OCR4all – Möglichkeiten und Grenzen einer Erfassung
   historischer Drucke und Handschriften, Faithful Transcriptions – Ein
