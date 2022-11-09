@@ -2,7 +2,7 @@
 title: Activities
 ---
 # {{ $frontmatter.title }}
-### Publications
+### Publications (assortment)
 - **OCR4all - An Open-Source Tool Providing a (Semi-)Automatic OCR
   Workflow for Historical Printings.**  Reul, Christian; Christ,
   Dennis; Hartelt, Alexander; Balbach, Nico; Wehner, Maximilian;
@@ -42,7 +42,7 @@ title: Activities
   Source Tool, Praxis der Digital Humanities, Trier Center for Digital
   Humanities (Trier, January 2019).
 
-### Teaching
+### Teaching (assortment)
 - A part module of the [Zusatzzertifikat
   Digital Competence](https://www.neuphil.uni-wuerzburg.de/anglistik/studium/im-studium/zusatzzertifikat-digitale-kompetenz/)
   , which offers modern languages students
