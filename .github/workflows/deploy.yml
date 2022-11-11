@@ -24,4 +24,4 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: docs/.vitepress/dist
-          cname: www.ocr4all.org
+          cname: ocr4all.org
