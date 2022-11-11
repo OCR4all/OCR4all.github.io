@@ -16,7 +16,8 @@ title: Activities
   Landes, Florian; Nasarek, Robert; Reul, Christian in DHd 2020
   Spielräume: Digital Humanities zwischen Modellierung und
   Interpretation. Konferenzabstracts (2020). [PDF](http://doi.org/10.5281/zenodo.3666690)
-
+- **OCR-D & OCR4all: Two Complementary Approaches for Improved OCR of Historical Sources**. Baierer, Konstantin; Büttner, Andreas; Engl, Elisabeth; Hinrichsen, Lena; Reul, Christian in 6th International Workshop on Computational History (2021). [PDF](https://ceur-ws.org/Vol-2981/short2.pdf)
+  
 ### Talks (assortment)
 - Tagung Digitale Mediävistik. Perspektiven der Digital
   Humanities für die Altgermanistik (Bremen, February 2022).
