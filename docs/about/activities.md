@@ -3,6 +3,12 @@ title: Activities
 ---
 # {{ $frontmatter.title }}
 ### Publications (assortment)
+- **OCR-D & OCR4all: Two Complementary Approaches for Improved OCR of Historical Sources**. Baierer, Konstantin; Büttner, Andreas; Engl, Elisabeth; Hinrichsen, Lena; Reul, Christian in 6th International Workshop on Computational History (2021). [PDF](https://ceur-ws.org/Vol-2981/short2.pdf)
+- **OCR4all - Eine semi-automatische Open-Source-Software für die
+    OCR historischer Drucke.** Wehner, Maximilian; Dahnke, Michael;
+    Landes, Florian; Nasarek, Robert; Reul, Christian in DHd 2020
+    Spielräume: Digital Humanities zwischen Modellierung und
+    Interpretation. Konferenzabstracts (2020). [PDF](http://doi.org/10.5281/zenodo.3666690)
 - **OCR4all - An Open-Source Tool Providing a (Semi-)Automatic OCR
   Workflow for Historical Printings.**  Reul, Christian; Christ,
   Dennis; Hartelt, Alexander; Balbach, Nico; Wehner, Maximilian;
@@ -11,12 +17,6 @@ title: Activities
   Sciences) (2019). [PDF](https://arxiv.org/pdf/1909.04032.pdf)
 - **Texterkennungssoftware für historische Drucke.** Wehner,
   Maximilian in KulturBetrieb 25 (2019). [PDF](http://www.kulturbetrieb-magazin.de/fileadmin/user_upload/kulturbetrieb-magazin/magazin/KulturBetrieb-2019-Ausgabe-2-November.pdf)
-- **OCR4all - Eine semi-automatische Open-Source-Software für die
-  OCR historischer Drucke.** Wehner, Maximilian; Dahnke, Michael;
-  Landes, Florian; Nasarek, Robert; Reul, Christian in DHd 2020
-  Spielräume: Digital Humanities zwischen Modellierung und
-  Interpretation. Konferenzabstracts (2020). [PDF](http://doi.org/10.5281/zenodo.3666690)
-- **OCR-D & OCR4all: Two Complementary Approaches for Improved OCR of Historical Sources**. Baierer, Konstantin; Büttner, Andreas; Engl, Elisabeth; Hinrichsen, Lena; Reul, Christian in 6th International Workshop on Computational History (2021). [PDF](https://ceur-ws.org/Vol-2981/short2.pdf)
   
 ### Talks (assortment)
 - Tagung Digitale Mediävistik. Perspektiven der Digital
