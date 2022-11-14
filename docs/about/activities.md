@@ -44,9 +44,7 @@ title: Activities
   Humanities (Trier, January 2019).
 
 ### Teaching (assortment)
-- A part module of the [Zusatzzertifikat
-  Digital Competence](https://www.neuphil.uni-wuerzburg.de/anglistik/studium/im-studium/zusatzzertifikat-digitale-kompetenz/)
-  , which offers modern languages students
+- A part module of the [Zusatzzertifikat Digitale Kompetenz](https://www.neuphil.uni-wuerzburg.de/anglistik/studium/im-studium/zusatzzertifikat-digitale-kompetenz/), which offers modern languages students
   the chance to acquire and prove competencies in the handling of
   digital data (University of Würzburg, since winter semester 2020).
 - Text digitization with OCR4all as part of the "Basismodul
