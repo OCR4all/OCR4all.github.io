@@ -17,7 +17,7 @@ title: Activities
   Sciences) (2019). [PDF](https://arxiv.org/pdf/1909.04032.pdf)
 - **Texterkennungssoftware für historische Drucke.** Wehner,
   Maximilian in KulturBetrieb 25 (2019). [PDF](http://www.kulturbetrieb-magazin.de/fileadmin/user_upload/kulturbetrieb-magazin/magazin/KulturBetrieb-2019-Ausgabe-2-November.pdf)
-You can find further related publications [here](https://www.uni-wuerzburg.de/zpd/zentrum/team/reul-christian/publications/).
+- Further related publications can be found [here](https://www.uni-wuerzburg.de/zpd/zentrum/team/reul-christian/publications/).
   
 ### Talks (assortment)
 - OCR4all - Insights and Prospects - Error Correcting HTR Workshop (Venice, November 2022).
