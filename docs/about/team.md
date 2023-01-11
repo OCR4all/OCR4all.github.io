@@ -15,10 +15,10 @@ title: Team
 - Andreas Büttner (Calamari)
 
 ### Miscellaneous
-- Raphaëlle Jung (Guides and Illustrations)
-- Kristof Korwisi (Usability)
-- Isabel Müller (Website)
+- Prof. Dr. Frank Puppe (Funding, Ideas and Feedback)
 - Dr. Uwe Springmann (Ideas and Feedback)
+- Kristof Korwisi (Usability)
+- Raphaëlle Jung (Guides and Illustrations)
 
 ### Former project staff
 - Nico Balbach (OCR4all and LAREX)
@@ -28,5 +28,6 @@ title: Team
 - Christine Grundig (Ideas and Feedback)
 - Alexander Hartelt (OCR4all)
 - Yannik Herbst (OCR4all and distribution via VirtualBox)
+- Isabel Müller (Website)
 - Maximilian Wehner (User Support)
 - Dr. Christoph Wick (Calamari)
