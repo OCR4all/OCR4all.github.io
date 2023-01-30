@@ -3,6 +3,7 @@
 .idea
 .vite_opt_cache
 .vscode
+cache
 dist
 node_modules
 .temp
