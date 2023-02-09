@@ -4,8 +4,7 @@ title: What is OCR4all?
 # {{ $frontmatter.title }}
 OCR4all combines various open-source solutions to provide a fully automated workflow for automatic text recognition of historical printed (OCR) and handwritten (HTR) material. At pretty much any stage of the workflow the user can interact with the results in order to minimize consequential errors and optimize the end result.
 
-By combining different tools within a uniform user interface, the
-	constant need to switch between different programs is eliminated. Due to the comprehensible and intuitive handling of OCR4all it explicitly addresses the needs of non-technical users.
+Due to its comprehensible and intuitive handling OCR4all explicitly addresses the needs of non-technical users.
 
 With the [closure](http://kallimachos.de/kallimachos/index.php/Kallimachos_II_(Eingehende_Darstellung)#AP1:_OCR-Optimierung)
 of the second project stage of the BMBF-funded joint project [Kallimachos](http://kallimachos.de)
