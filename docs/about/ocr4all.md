@@ -94,9 +94,7 @@ Applied Sciences 9(22) (2019)
 
 ### Funding
 - [DFG-funded Initiative "OCR-D"](https://ocr-d.de/en/), (phase 2 and 3)
-- [Zentrum für Philologie
-  und Digitalität (ZPD)](https://www.uni-wuerzburg.de/zpd), Universität Würzburg
-- BMBF gefördertes Projekt [Kallimachos](http://kallimachos.de)
-- [Lehrstuhl für
-  Künstliche Intelligenz und Wissenssysteme](https://www.informatik.uni-wuerzburg.de/is), Universität Würzburg
+- [Center for Philology and Digitality (ZPD)](https://www.uni-wuerzburg.de/zpd), University Würzburg
+- BMBF-funded Project [Kallimachos](http://kallimachos.de)
+- [Chair of Computer Science VI - Artificial Intelligence and Applied Computer Science](https://www.informatik.uni-wuerzburg.de/is), University Würzburg
 
