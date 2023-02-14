@@ -31,7 +31,6 @@ Explanation:
 ### Docker Setup
 
 - [Install Docker Desktop on Linux](https://docs.docker.com/desktop/install/linux-install/)
-- ...and appreciate that everything works without further adjustments!
 
 ### OCR4all setup
 
