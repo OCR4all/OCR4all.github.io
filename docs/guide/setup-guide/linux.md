@@ -16,6 +16,9 @@ You have to prepare the following folder structure:
 │   |   |   |   ├── 0001.png
 │   |   |   |   ├── 0002.png
 │   |   |   |   ├── ...
+│   |   ├── [Another book]
+│   |   |   ├── input
+│   |   |   |   ...
 │   ├── models
 ...
 ```
