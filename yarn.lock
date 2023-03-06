@@ -125,10 +125,10 @@
     "@algolia/logger-common" "4.14.2"
     "@algolia/requester-common" "4.14.2"
 
-"@antfu/ni@^0.18.6":
-  version "0.18.8"
-  resolved "https://registry.yarnpkg.com/@antfu/ni/-/ni-0.18.8.tgz#a0963b8ac07374e6d9ba2b5d81c4d1fc98017c22"
-  integrity sha512-0m++AudwQq+wWAz/Ax7g+sh/wFW51HHQ6BtPLsuTAsFIzWB/bv/0COwZE7BRS+u0nqMb6Ks6nlk6cY1TpPDwHg==
+"@antfu/ni@^0.20.0":
+  version "0.20.0"
+  resolved "https://registry.yarnpkg.com/@antfu/ni/-/ni-0.20.0.tgz#3a24497d8a60d9bd45215f0c32e88cbedc76015e"
+  integrity sha512-mBgAuq2b0daSA/14LMyjEjaInD7/Zd7KVXZge7bQPKmtQJFqy9/pWBml6DMkMreeHQEomMtIbbeqReNJ/74kjA==
 
 "@antfu/utils@^0.5.2":
   version "0.5.2"
@@ -278,16 +278,16 @@
   resolved "https://registry.yarnpkg.com/@gar/promisify/-/promisify-1.1.3.tgz#555193ab2e3bb3b6adc3d551c9c030d9e860daf6"
   integrity sha512-k2Ty1JcVojjJFwrg/ThKi2ujJ7XNLYaFGNB/bWT9wGR+oSMJHMa5w+CUq6p/pVrKeNNgA7pCqEcjSnHVoqJQFw==
 
-"@npmcli/config@^6.1.0":
-  version "6.1.1"
-  resolved "https://registry.yarnpkg.com/@npmcli/config/-/config-6.1.1.tgz#d65bd3974dd4bef66a1ce11024cb7bb461a022f8"
-  integrity sha512-R09ig+5UGrA1lxTWMyfyUwwzR9OAtJwMHGF4opu0/ysM3nMujzVvp0DVD/BnbmcQ0w6jM4IrsCSsq6ZdcvLW/Q==
+"@npmcli/config@^6.1.3":
+  version "6.1.3"
+  resolved "https://registry.yarnpkg.com/@npmcli/config/-/config-6.1.3.tgz#8f513bf1a5dfa76f98d93d3cb6fb06b5f8960bd9"
+  integrity sha512-c8uOXPbRq1K8YeyUszj6MBWIdB6bx6x3K/UbGmc5GF7qpv1mB893Y5SuyrH/J7Kcw24Im4ASrsztk38ZBWFS2Q==
   dependencies:
-    "@npmcli/map-workspaces" "^3.0.0"
+    "@npmcli/map-workspaces" "^3.0.2"
     ini "^3.0.0"
     nopt "^7.0.0"
     proc-log "^3.0.0"
-    read-package-json-fast "^3.0.0"
+    read-package-json-fast "^3.0.2"
     semver "^7.3.5"
     walk-up-path "^1.0.0"
 
@@ -322,14 +322,14 @@
     npm-bundled "^1.1.1"
     npm-normalize-package-bin "^1.0.1"
 
-"@npmcli/map-workspaces@^3.0.0":
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/@npmcli/map-workspaces/-/map-workspaces-3.0.1.tgz#558941a715361ef51d6ad990cacb1af8990a7136"
-  integrity sha512-QXwE2p5zRTP6X8Irgf/swYwwdQEalSA1GBm0IGE/86R5EJbUGgKMOP0kOjaJWJxaWPkSqyhM8N50SPxFHTfkNg==
+"@npmcli/map-workspaces@^3.0.2":
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/@npmcli/map-workspaces/-/map-workspaces-3.0.2.tgz#aa3f9ebccb213073d6d6bf743047272108c29f06"
+  integrity sha512-bCEC4PG7HbadtAYkW/TTUVNEOSr5Dhfmv6yGLgByJgCvdCqq7teq09cjvJ1LhzJU/euWjvYMcQxsfj7yDD2ikg==
   dependencies:
     "@npmcli/name-from-folder" "^2.0.0"
     glob "^8.0.1"
-    minimatch "^5.0.1"
+    minimatch "^6.1.6"
     read-package-json-fast "^3.0.0"
 
 "@npmcli/move-file@^2.0.0":
@@ -1054,6 +1054,13 @@ minimatch@^5.0.1:
   dependencies:
     brace-expansion "^2.0.1"
 
+minimatch@^6.1.6:
+  version "6.2.0"
+  resolved "https://registry.yarnpkg.com/minimatch/-/minimatch-6.2.0.tgz#2b70fd13294178c69c04dfc05aebdb97a4e79e42"
+  integrity sha512-sauLxniAmvnhhRjFwPNnJKaPFYyddAgbYdeUpHULtCT/GhzdCx/MDNy+Y40lBxTQUrMzDE8e0S43Z5uqfO0REg==
+  dependencies:
+    brace-expansion "^2.0.1"
+
 minipass-collect@^1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/minipass-collect/-/minipass-collect-1.0.2.tgz#22b813bf745dc6edba2576b940022ad6edc8c617"
@@ -1289,7 +1296,7 @@ p-map@^4.0.0:
   dependencies:
     aggregate-error "^3.0.0"
 
-pacote@^13:
+pacote@^13.6.2:
   version "13.6.2"
   resolved "https://registry.yarnpkg.com/pacote/-/pacote-13.6.2.tgz#0d444ba3618ab3e5cd330b451c22967bbd0ca48a"
   integrity sha512-Gu8fU3GsvOPkak2CkbojR7vjs3k3P9cA6uazKTHdsdV0gpCEQq2opelnEv30KRQWgVzP5Vd/5umjcedma3MKtg==
@@ -1393,7 +1400,7 @@ read-package-json-fast@^2.0.3:
     json-parse-even-better-errors "^2.3.0"
     npm-normalize-package-bin "^1.0.1"
 
-read-package-json-fast@^3.0.0:
+read-package-json-fast@^3.0.0, read-package-json-fast@^3.0.2:
   version "3.0.2"
   resolved "https://registry.yarnpkg.com/read-package-json-fast/-/read-package-json-fast-3.0.2.tgz#394908a9725dc7a5f14e70c8e7556dff1d2b1049"
   integrity sha512-0J+Msgym3vrLOUB3hzQCuZHII0xkNGCtz/HJH9xZshwv9DbDwkw1KaE3gx/e2J5rpEY5rtOy6cyhKOPrkP7FZw==
@@ -1605,19 +1612,19 @@ tar@^6.1.11, tar@^6.1.2:
     mkdirp "^1.0.3"
     yallist "^4.0.0"
 
-taze@^0.8.5:
-  version "0.8.5"
-  resolved "https://registry.yarnpkg.com/taze/-/taze-0.8.5.tgz#accc12bacbe4547897e3159b4b28e32ea32b71e0"
-  integrity sha512-4aB/BEfBah5iJJUDY3vW7xjJl7AzV6bsQx0PHC1DxIVlCE+JUFfpE7dDPZv/4Z+ft4Eg3I69NWnMnaAUL++rDQ==
+taze@^0.9.0:
+  version "0.9.0"
+  resolved "https://registry.yarnpkg.com/taze/-/taze-0.9.0.tgz#f83fcc734bd9c8de73c21f701b9f3ba8f7c69ee0"
+  integrity sha512-zPs7kNIq1ZZbnBXRrAubcDfvNgPBWQR5uMU7D6+hW7jMLnIBQTlP/mJzVM8jFa0hEQmHym2zyVBU3LObhga1KQ==
   dependencies:
-    "@antfu/ni" "^0.18.6"
-    "@npmcli/config" "^6.1.0"
+    "@antfu/ni" "^0.20.0"
+    "@npmcli/config" "^6.1.3"
     detect-indent "^7.0.1"
-    pacote "^13"
+    pacote "^13.6.2"
     prompts "^2.4.2"
     semver "^7.3.8"
     unconfig "^0.3.7"
-    yargs "^17.6.2"
+    yargs "^17.7.1"
 
 unconfig@^0.3.7:
   version "0.3.7"
@@ -1674,10 +1681,10 @@ vite@^4.1.4:
   optionalDependencies:
     fsevents "~2.3.2"
 
-vitepress@^1.0.0-alpha.48:
-  version "1.0.0-alpha.48"
-  resolved "https://registry.yarnpkg.com/vitepress/-/vitepress-1.0.0-alpha.48.tgz#e4236f7a1ef6c8d29abe7894702734a6d8630bc3"
-  integrity sha512-vu9J6Eg1l+o33lfDAMD9+cxomMNQGNQEW/GPu32tkffagMBxoBqhzxfqjaOqtTQ2VdS+dauOdROtrWQrElyivw==
+vitepress@^1.0.0-alpha.49:
+  version "1.0.0-alpha.49"
+  resolved "https://registry.yarnpkg.com/vitepress/-/vitepress-1.0.0-alpha.49.tgz#1778b1e5db0f8e27a8c1a1a0eb778bc898ecaa3a"
+  integrity sha512-3nUZJow4qL8NHRWYatqqVj45AJDxWst/TuOj+IbQRhxesEswa+Fpwayj9/FxzRzBl665fuiG5y+QeVhOeUm0OA==
   dependencies:
     "@docsearch/css" "^3.3.3"
     "@docsearch/js" "^3.3.3"
@@ -1763,10 +1770,10 @@ yargs-parser@^21.1.1:
   resolved "https://registry.yarnpkg.com/yargs-parser/-/yargs-parser-21.1.1.tgz#9096bceebf990d21bb31fa9516e0ede294a77d35"
   integrity sha512-tVpsJW7DdjecAiFpbIB1e3qxIQsE6NoPc5/eTdrbbIC4h0LVsWhnoa3g+m2HclBIujHzsxZ4VJVA+GUuc2/LBw==
 
-yargs@^17.6.2:
-  version "17.6.2"
-  resolved "https://registry.yarnpkg.com/yargs/-/yargs-17.6.2.tgz#2e23f2944e976339a1ee00f18c77fedee8332541"
-  integrity sha512-1/9UrdHjDZc0eOU0HxOHoS78C69UD3JRMvzlJ7S79S2nTaWRA/whGCTV8o9e/N/1Va9YIV7Q4sOxD8VV4pCWOw==
+yargs@^17.7.1:
+  version "17.7.1"
+  resolved "https://registry.yarnpkg.com/yargs/-/yargs-17.7.1.tgz#34a77645201d1a8fc5213ace787c220eabbd0967"
+  integrity sha512-cwiTb08Xuv5fqF4AovYacTFNxk62th7LKJ6BL9IGUpTJrWoU7/7WdQGTP2SjKf1dUNBGzDd28p/Yfs/GI6JrLw==
   dependencies:
     cliui "^8.0.1"
     escalade "^3.1.1"
