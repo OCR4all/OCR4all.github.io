@@ -57,6 +57,8 @@ sudo docker run -p 1476:8080 \
 
 - Do not enter line breaks manually!
 
+- Download the two example books  "Cirurgia" and "GNM" from [GitHub](https://github.com/OCR4all/getting_started/tree/master/ocr4all/data) and move them into your `/ocr4all/data/` folder. You can do this by cloning the repo with `git clone https://github.com/OCR4all/getting_started.git` and copying the content of `getting_started/ocr4all/data/` into `ocr4all/data`, or by navigating to the png files and downloading them one by one into `ocr4all/data/GNM/input/` and `ocr4all/data/Cirurgia/input/` respectively. Alternatively, you can use a tool like [Download Directory](https://download-directory.github.io/).
+
 ### Browser access and further use
 
 - OCR4all is optimized for Chrome/Chromium.
