@@ -75,8 +75,7 @@ docker run -p 1476:8080 --name ocr4all -v C:\Users\Public\ocr4all\data:/var/ocr4
 ### Browser access and further use
 
 - OCR4all is optimized for Chrome/Chromium.
-- Browser access: <a href="http://localhost:1476/ocr4all/" target="_blank" rel="noreferrer">http://localhost:1476/ocr4all/</a>
-- In the browser tool, check Project Overview -> Project selection: If you can find the two pre-loaded books called “Cirurgia” und “GNM”, the mapping (`-v C:\Users\...`) is working properly.
+- Browser access: <a href="http://localhost:1476/ocr4all/" target="_blank" rel="noreferrer">http://localhost:1476/ocr4all/</a>- If you want to check whether the mapping is working correctly you can add the example projects `Cirurgia` and `GNM` from [here](https://github.com/OCR4all/getting_started/tree/master/ocr4all/data) to your `data` directory. In the browser, check `Project Overview` -> `Project selection`: If you can find the two aforementioned books (or any other book that you added), the mapping (`-v C:\Users\...`) is working properly.
 
 - Otherwise, there might be a typo in the `docker run` command, so you will have to create the container again. First, delete the container you just created:
 - Stop the process in PowerShell using CTRL + C, then type:
