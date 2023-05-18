@@ -5,9 +5,9 @@
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
-    "taze": "^0.9.1",
-    "vitepress": "^1.0.0-alpha.71",
-    "vue": "^3.2.47"
+    "taze": "^0.10.1",
+    "vitepress": "^1.0.0-alpha.76",
+    "vue": "^3.3.4"
   },
   "scripts": {
     "docs:dev": "vitepress dev docs",
