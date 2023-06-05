@@ -62,9 +62,10 @@ function nav() {
       text: 'Guides',
       items: [
         { text: "Setup Guide", link: "/guide/setup-guide/quickstart"},
-        { text: "User Guide", link: "/guide/user-guide/introduction"}
+        { text: "User Guide", link: "/guide/user-guide/introduction"},
+        { text: "Transcription Guide", link: "/guide/transcription-guide/introduction"}
       ]
-    }
+    },
   ]
 }
 
@@ -104,6 +105,13 @@ function sidebarDefault() {
             {text: "Project Start and Overview", link: "/guide/user-guide/project-start-and-overview"},
             {text: "Workflow", link: "/guide/user-guide/workflow"},
             {text: "Errors, frequent problems and how to avoid them", link: "/guide/user-guide/common-errors"},
+          ]
+        },
+        {
+          text: "Transcription Guide",
+          collapsible: true,
+          items: [
+            {text: "Introduction", link: "/guide/transcription-guide/introduction"},
           ]
         }
       ]
