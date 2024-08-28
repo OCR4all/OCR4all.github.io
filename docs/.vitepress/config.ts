@@ -108,6 +108,15 @@ function sidebarDefault() {
         }
       ]
     },
+    {
+      text: "✨ 1.0 Beta Release",
+      collapsible: true,
+      items: [
+        {text: "OCR4all 1.0", link: "/beta"},
+        {text: "Introduction", link: "/beta/introduction"},
+        {text: "Setup", link: "/beta/setup"},
+      ]
+    }
   ]
 }
 
