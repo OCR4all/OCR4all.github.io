@@ -10,7 +10,7 @@ The prerequisite for this is having both [Docker](https://docs.docker.com/get-st
 A more in-depth installation guide will follow with the stable release of OCR4all 1.0.
 
 ::: warning
-This will install a beta version of OCR4all 1.0 which may still contain some bugs and many features are yet to come.
+This will install a beta version of OCR4all 1.0 which may still contain some bugs and many features (among others the base mode) are yet to come.
 :::
 
 ```
