@@ -71,3 +71,10 @@ services:
       - ${OCR4ALL_WORKSPACE:-~/ocr4all/docker/workspace}:/home/books
     image: uniwuezpd/larex:legacy
 ```
+
+::: info
+By default, the backend will automatically create an administrator account with the username `admin` and password `ocr4all`. 
+It is highly recommended to change the password immediately after setup! 
+
+Documentation on the environment variables that can modify this behavior will be added soon.
+:::
