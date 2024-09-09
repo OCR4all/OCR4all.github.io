@@ -11,6 +11,7 @@ A more in-depth installation guide will follow with the stable release of OCR4al
 
 ::: warning
 This will install an early beta version of OCR4all 1.0 which may still contain some bugs and many features (among others the base mode) are yet to come.
+
 Therefore, we recommend that most users continue using the legacy version of OCR4all until the stable release of version 1.0!
 :::
 
