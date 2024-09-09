@@ -3,7 +3,7 @@ title: OCR4all 1.0 – Setup
 ---
 # {{ $frontmatter.title }}
 
-If you want to try out the beta version of release 1.0 of OCR4all you can simply use the following Docker Compose file or download it [here]().
+If you want to try out the beta version of release 1.0 of OCR4all you can simply use the following Docker Compose file or download it [here](https://github.com/OCR4all/ocr4all-docker/).
 
 The prerequisite for this is having both [Docker](https://docs.docker.com/get-started/get-docker/) and [Docker Compose](https://docs.docker.com/compose/install/) installed. 
 
@@ -11,8 +11,7 @@ A more in-depth installation guide will follow with the stable release of OCR4al
 
 ::: warning
 This will install an early beta version of OCR4all 1.0 which may still contain some bugs and many features (among others the base mode) are yet to come.
-
-A more detailed guide will follow shortly.
+Therefore, we recommend that most users continue using the legacy version of OCR4all until the stable release of version 1.0!
 :::
 
 ```
