@@ -36,3 +36,22 @@ features:
   - title: Easy cross-platform deployment
     details: Docker and a single command are all it takes to get OCR4all up and running, regardless of your operating system.
 ---
+
+<style>
+:root {
+  --vp-home-hero-image-background-image: linear-gradient(90deg, #0077C0 90%, #3380b1 50%);
+  --vp-home-hero-image-filter: blur(150px);
+}
+
+@media (min-width: 640px) {
+  :root {
+    --vp-home-hero-image-filter: blur(150px);
+  }
+}
+
+@media (min-width: 960px) {
+  :root {
+    --vp-home-hero-image-filter: blur(150px);
+  }
+}
+</style>
