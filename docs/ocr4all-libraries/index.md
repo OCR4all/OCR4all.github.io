@@ -6,7 +6,9 @@ next:
 ---
 # {{ $frontmatter.title }}
 
-**OCR4all-libraries** is the outcome of a DFG-funded initiative aimed at integrating OCR-D with OCR4all, delivering a flexible and robust solution for Automatic Text Recognition (ATR), particularly for use in libraries and similar institutions.
+**OCR4all-libraries** is the main outcome of the eponymous DFG-funded project aimed at making OCR-D solutions available via OCR4all. 
+It enables user to comfortably combine different ATR (Automatic Text Recognition) processors into workflows in order to identify the best possible solution to process their material. 
+Due to the close OCR-D connection it is specifically geared towards the application in libraries, archives, and other stock-holding institutions.
 ## Core Features
 - 👥 User and group management. Share your all your projects and files with other users and groups on the same instance.
 - ⚙️ Wide array of OCR processor, powered by [OCR-D](https://ocr-d.de/) and others.
