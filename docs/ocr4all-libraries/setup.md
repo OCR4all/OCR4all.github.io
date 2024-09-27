@@ -24,12 +24,12 @@ services:
     environment:
       - SPRING_PROFILES_ACTIVE=${CALAMARI_PROFILES:-logging-debug,msa-api,docker}
     volumes:
-      - ${OCR4ALL_DATA:-~/ocr4all/docker/data}:/srv/ocr4all/data
-      - ${OCR4ALL_ASSEMBLE:-~/ocr4all/docker/assemble}:/srv/ocr4all/assemble
-      - ${OCR4ALL_WORKSPACE_PROJECT:-~/ocr4all/docker/workspace/projects}:/srv/ocr4all/projects
+      - ${SERVER_DATA:-~/ocr4all/docker/data}:/srv/ocr4all/data
+      - ${SERVER_ASSEMBLE:-~/ocr4all/docker/assemble}:/srv/ocr4all/assemble
+      - ${SERVER_WORKSPACE_PROJECT:-~/ocr4all/docker/workspace/projects}:/srv/ocr4all/projects
     ports:
       - "${CALAMARI_API_PORT:-127.0.0.1:9092}:8080"
-    image: uniwuezpd/ocr4all-msa-calamari:${OCR4ALL_MSA_CALAMARI_TAG:-latest}
+    image: uniwuezpd/ocr4all-msa-calamari:${CALAMARI_DOCKERHUB_TAG:-latest}
   msa-ocrd:
     hostname: msa-ocrd
     user: "${UID:-}"
@@ -37,37 +37,39 @@ services:
     environment:
       - SPRING_PROFILES_ACTIVE=${OCRD_PROFILES:-logging-debug,msa-api,docker}
     volumes:
-      - ${OCR4ALL_WORKSPACE_PROJECT:-~/ocr4all/docker/workspace/projects}:/srv/ocr4all/projects
-      - ${OCR4ALL_RESOURCES_ORCD:-~/ocr4all/docker/opt/ocr-d/resources}:/usr/local/share/ocrd-resources
+      - ${SERVER_WORKSPACE_PROJECT:-~/ocr4all/docker/workspace/projects}:/srv/ocr4all/projects
+      - ${SERVER_RESOURCES_ORCD:-~/ocr4all/docker/opt/ocr-d/resources}:/usr/local/share/ocrd-resources
     ports:
       - "${OCRD_API_PORT:-127.0.0.1:9091}:8080"
-    image: uniwuezpd/ocr4all-msa-ocrd:${OCR4ALL_MSA_OCRD_TAG:-latest}
+    image: uniwuezpd/ocr4all-msa-ocrd:${OCRD_DOCKERHUB_TAG:-latest}
   server:
     user: "${UID:-}"
     restart: always
     environment:
-      - SPRING_PROFILES_ACTIVE=${OCR4ALL_PROFILES:-logging-debug,create_administrator,server,api,api-localhost,documentation,docker}
+      - SPRING_PROFILES_ACTIVE=${SERVER_PROFILES:-logging-debug,create_administrator,server,api,api-localhost,documentation,docker}
+      - OCR4ALL_APPLICATION_SECURITY_ADMINISTRATOR_LOGIN=${SERVER_ADMINISTRATOR_LOGIN:-admin}
+      - OCR4ALL_APPLICATION_SECURITY_ADMINISTRATOR_PASSWORD=${SERVER_ADMINISTRATOR_PASSWORD:-ocr4all}
     volumes:
-      - ${OCR4ALL_HOME:-~/ocr4all/docker}:/srv/ocr4all
+      - ${SERVER_HOME:-~/ocr4all/docker}:/srv/ocr4all
     ports:
-      - "${OCR4ALL_API_PORT:-9090}:8080"
+      - "${SERVER_API_PORT:-9090}:8080"
     depends_on:
       - msa-calamari
       - msa-ocrd
-    image: uniwuezpd/ocr4all-server:${OCR4ALL_SERVER_OCRD_TAG:-latest}
+    image: uniwuezpd/ocr4all-server:${SERVER_DOCKERHUB_TAG:-latest}
   webapp:
     ports:
-      - "${OCR4ALL_WEBAPP_PORT:-8080}:80"
+      - "${WEBAPP_PORT:-8080}:80"
     environment:
-      API_BASE_URL: ${OCR4ALL_WEBAPP_API_BASE_URL:-http://localhost:9090/api/v1.0}
-      LAREX_URL: ${OCR4ALL_WEBAPP_LAREX_URL:-http://localhost:8081/Larex/directLibrary}
+      API_BASE_URL: ${WEBAPP_API_BASE_URL:-http://localhost:9090/api/v1.0}
+      LAREX_URL: ${WEBAPP_LAREX_URL:-http://localhost:8081/Larex/directLibrary}
     restart: always
-    image: uniwuezpd/ocr4all-frontend:${OCR4ALL_WEBAPP_TAG:-latest}
+    image: uniwuezpd/ocr4all-frontend:${WEBAPP_DOCKERHUB_TAG:-latest}
   larex:
     ports:
       - "${LAREX_PORT:-8081}:8080"
     restart: always
     volumes:
-      - ${OCR4ALL_WORKSPACE:-~/ocr4all/docker/workspace}:/home/books
+      - ${SERVER_WORKSPACE:-~/ocr4all/docker/workspace}:/home/books
     image: uniwuezpd/larex:legacy
 ```
