@@ -18,9 +18,9 @@ hero:
     - theme: alt
       text: User Guide
       link: /guide/user-guide/introduction
-    - theme: brand
-      text: ✨ Beta Release 1.0
-      link: /beta
+    - theme: alt
+      text: OCR4all-libraries
+      link: /ocr4all-libraries
 
 features:
   - title: Fully free and open-source

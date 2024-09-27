@@ -1,10 +1,12 @@
 ---
-title: OCR4all 1.0
+title: OCR4all-libraries
 next:
   text: 'Introduction'
-  link: '/beta/introduction'
+  link: '/ocr4all-libraries/introduction'
 ---
 # {{ $frontmatter.title }}
+
+**OCR4all-libraries** is the outcome of a DFG-funded initiative aimed at integrating OCR-D with OCR4all, delivering a flexible and robust solution for Automatic Text Recognition (ATR), particularly for use in libraries and similar institutions.
 ## Core Features
 - 👥 User and group management. Share your all your projects and files with other users and groups on the same instance.
 - ⚙️ Wide array of OCR processor, powered by [OCR-D](https://ocr-d.de/) and others.
@@ -16,5 +18,5 @@ next:
 - and much more...
 
 ## Next steps
-- [Find out more about OCR4all 1.0](/beta/introduction)
-- [Jump right into setting up your own instance of the OCR4all 1.0 beta](/beta/setup)
+- [Find out more about OCR4all-libraries](/ocr4all-libraries/introduction)
+- [Jump right into setting up your own instance of ocr4all-libraries](/ocr4all-libraries/setup)

@@ -1,13 +1,13 @@
 ---
-title: OCR4all 1.0 – Introduction
+title: OCR4all-libraries – Introduction
 next:
-  text: 'Setup Beta'
-  link: '/beta/setup'
+  text: 'Setup OCR4all-libraries'
+  link: '/ocr4all-libraries/setup'
 ---
 # {{ $frontmatter.title }}
 
 ## Motivation and General Idea
-- **Availability of Solutions:** Numerous high-performance open-source solutions for Automatic Text Recognition (ATR) are already available, with new releases emerging continuously.
+- **Availability of Solutions:** Numerous high-performance open-source solutions for ATR are already available, with new releases emerging continuously.
 - **Diverse Use Cases:** The highly heterogeneous nature of use cases necessitates the targeted deployment of specialized ATR solutions.
 - **Requirement:** There is a need for user-friendly frameworks that facilitate the flexible, integrable, and sustainable combination and application of both existing and future ATR solutions.
 - **Objective:** Our goal is to empower users to perform ATR independently, achieving high-quality results.
@@ -54,16 +54,7 @@ next:
 - **Model Training:** Train models on selected datasets or subsets thereof, with options for in-app usage or exporting both models and associated training data.
 - **Model Evaluation:** Evaluate both trained and imported models using curated datasets to ensure quality and accuracy.
 
-### Working with OCR4all 1.0
-#### One Tool, Two Modes
-| Base Mode                                                                                 |                                                                                                                                              Pro Mode |
-|-------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
-| Designed for novice users, with reduced complexity and a strongly guided, linear workflow | Tailored for experienced users who require more exploration and complexity |
-| Pre-selected solutions for each processing step                                           | Unrestricted access to all processors, parameters, and features |
-| Pre-filtered parameters and limited access to advanced features                           | Support for identifying the best workflows and models for specific needs |
-::: info
-Currently only pro mode is available in the beta release. The base mode will be added shortly.
-:::
+### Working with ocr4all-libraries
 ### Example Use Cases and Application Scenarios
 #### Fully Automatic Mass Full-Text Digitalization
 - **Objective:** Maximize throughput with minimal manual effort.
