@@ -19,4 +19,4 @@ next:
 
 ## Next steps
 - [Find out more about OCR4all-libraries](/ocr4all-libraries/introduction)
-- [Jump right into setting up your own instance of ocr4all-libraries](/ocr4all-libraries/setup)
+- [Jump right into setting up your own instance of OCR4all-libraries](/ocr4all-libraries/setup)
