@@ -54,7 +54,7 @@ next:
 - **Model Training:** Train models on selected datasets or subsets thereof, with options for in-app usage or exporting both models and associated training data.
 - **Model Evaluation:** Evaluate both trained and imported models using curated datasets to ensure quality and accuracy.
 
-### Working with ocr4all-libraries
+### Working with OCR4all-libraries
 ### Example Use Cases and Application Scenarios
 #### Fully Automatic Mass Full-Text Digitalization
 - **Objective:** Maximize throughput with minimal manual effort.
