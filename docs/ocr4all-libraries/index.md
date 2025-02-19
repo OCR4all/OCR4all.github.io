@@ -6,6 +6,10 @@ next:
 ---
 # {{ $frontmatter.title }}
 
+::: tip
+For high-quality, sophisticated, and potentially highly interactive digitization of prints and manuscripts, we continue to recommend [OCR4all](/about/ocr4all)
+:::
+
 **OCR4all-libraries** is the main outcome of the eponymous DFG-funded project aimed at making OCR-D solutions available via OCR4all. 
 It enables user to comfortably combine different ATR (Automatic Text Recognition) processors into workflows in order to identify the best possible solution to process their material. 
 Due to the close OCR-D connection it is specifically geared towards the application in libraries, archives, and other stock-holding institutions.
